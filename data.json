@@ -12,6 +12,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "2368, 2402, 2460 EAST 69TH ST", 
+        "CD": "K18", 
         "ApplicationType": "ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -27,6 +28,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "2368, 2402, 2460 EAST 69TH ST", 
+        "CD": "K18", 
         "ApplicationType": "ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -42,6 +44,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "2368, 2402, 2460 EAST 69TH ST", 
+        "CD": "K18", 
         "ApplicationType": "ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -57,6 +60,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "6015 16TH AVE", 
+        "CD": "K12", 
         "ApplicationType": "ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -72,6 +76,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "18TH AVE REZONING", 
+        "CD": "K12", 
         "ApplicationType": "ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -87,6 +92,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "18TH AVE REZONING", 
+        "CD": "K12", 
         "ApplicationType": "ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -102,6 +108,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "18TH AVE REZONING", 
+        "CD": "K12", 
         "ApplicationType": "ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -117,6 +124,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "18TH AVE REZONING", 
+        "CD": "K12", 
         "ApplicationType": "ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -132,6 +140,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "18TH AVE REZONING", 
+        "CD": "K12", 
         "ApplicationType": "ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -147,6 +156,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "18TH AVE REZONING", 
+        "CD": "K12", 
         "ApplicationType": "ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -162,6 +172,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "18TH AVE REZONING", 
+        "CD": "K12", 
         "ApplicationType": "ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -177,6 +188,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "18TH AVE REZONING", 
+        "CD": "K12", 
         "ApplicationType": "ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -192,6 +204,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "18TH AVE REZONING", 
+        "CD": "K12", 
         "ApplicationType": "ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -207,6 +220,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "18TH AVE REZONING", 
+        "CD": "K12", 
         "ApplicationType": "ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -222,6 +236,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "18TH AVE REZONING", 
+        "CD": "K12", 
         "ApplicationType": "ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -237,6 +252,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "EAST 99TH ST DEMAPPING", 
+        "CD": "K18", 
         "ApplicationType": "HA;MM", 
         "Milestone": "Land Use Application Filed"
       }
@@ -252,6 +268,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "EAST 29TH ST DEMAPPING", 
+        "CD": "K18", 
         "ApplicationType": "MM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -267,6 +284,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "BUSH TERMINAL PIERS", 
+        "CD": "K07", 
         "ApplicationType": "MM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -282,6 +300,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "BUSH TERMINAL PIERS", 
+        "CD": "K07", 
         "ApplicationType": "MM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -297,6 +316,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "ROSE PLAZA WATERFRONT (Chair Cert)", 
+        "CD": "K01", 
         "ApplicationType": "ZC", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -312,6 +332,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "ROSE PLAZA WATERFRONT (Chair Cert)", 
+        "CD": "K01", 
         "ApplicationType": "ZC", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -327,6 +348,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "KNAPP STREET STORAGE", 
+        "CD": "K15", 
         "ApplicationType": "ZC", 
         "Milestone": "Determination of Significance Issued"
       }
@@ -342,6 +364,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "KNAPP STREET STORAGE", 
+        "CD": "K15", 
         "ApplicationType": "ZC", 
         "Milestone": "Determination of Significance Issued"
       }
@@ -357,6 +380,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "GOLD COAST DELI", 
+        "CD": "K10", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -372,6 +396,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "11th Ave Bridge Grade Changes De Minimus", 
+        "CD": "K12", 
         "ApplicationType": "MM", 
         "Milestone": "Alteration (BP) Map Received"
       }
@@ -387,6 +412,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "265 Front Street", 
+        "CD": "K02", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -402,6 +428,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "110 GREENE ST (Application Withdrawn)", 
+        "CD": "M02", 
         "ApplicationType": "ZA;ZC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -417,6 +444,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "165 East 89th Street", 
+        "CD": "M08", 
         "ApplicationType": "ZA", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -432,6 +460,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "RENAISSANCE SITE", 
+        "CD": "M10", 
         "ApplicationType": "ZM", 
         "Milestone": "EAS/EIS/TM Revision Filed (Pre-Cert)"
       }
@@ -447,6 +476,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Upper East Side Midblock Text", 
+        "CD": "M08", 
         "ApplicationType": "ZR", 
         "Milestone": "Land Use Application Filed"
       }
@@ -462,6 +492,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "ESCA RESTAURANT", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -477,6 +508,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "AUDUBON IV", 
+        "CD": "M12", 
         "ApplicationType": "CM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -492,6 +524,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "839 SIXTH AVENUE POPS", 
+        "CD": "M05", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -507,6 +540,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "6 Wooster Street 349 Canal Street", 
+        "CD": "M02", 
         "ApplicationType": "ZS", 
         "Milestone": "EAS/EIS/TM Revision Filed (Pre-Cert)"
       }
@@ -522,6 +556,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "96 - 98 Greene Street", 
+        "CD": "M02", 
         "ApplicationType": "ZS", 
         "Milestone": "Land Use Application Filed"
       }
@@ -537,6 +572,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "NYC RESCUE MISSION", 
+        "CD": "M01", 
         "ApplicationType": "ZS", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -552,6 +588,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "600 Columbus Avenue", 
+        "CD": "M10", 
         "ApplicationType": "ZM", 
         "Milestone": "EIS Draft Scope Submitted"
       }
@@ -567,6 +604,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "600 Columbus Avenue", 
+        "CD": "M10", 
         "ApplicationType": "ZM", 
         "Milestone": "EIS Draft Scope Submitted"
       }
@@ -582,6 +620,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "600 Columbus Avenue", 
+        "CD": "M10", 
         "ApplicationType": "ZM", 
         "Milestone": "EIS Draft Scope Submitted"
       }
@@ -597,6 +636,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "600 Columbus Avenue", 
+        "CD": "M10", 
         "ApplicationType": "ZM", 
         "Milestone": "EIS Draft Scope Submitted"
       }
@@ -612,6 +652,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "600 Columbus Avenue", 
+        "CD": "M10", 
         "ApplicationType": "ZM", 
         "Milestone": "EIS Draft Scope Submitted"
       }
@@ -627,6 +668,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "600 Columbus Avenue", 
+        "CD": "M10", 
         "ApplicationType": "ZM", 
         "Milestone": "EIS Draft Scope Submitted"
       }
@@ -642,6 +684,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "600 Columbus Avenue", 
+        "CD": "M10", 
         "ApplicationType": "ZM", 
         "Milestone": "EIS Draft Scope Submitted"
       }
@@ -657,6 +700,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "600 Columbus Avenue", 
+        "CD": "M10", 
         "ApplicationType": "ZM", 
         "Milestone": "EIS Draft Scope Submitted"
       }
@@ -672,6 +716,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "600 Columbus Avenue", 
+        "CD": "M10", 
         "ApplicationType": "ZM", 
         "Milestone": "EIS Draft Scope Submitted"
       }
@@ -687,6 +732,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "600 Columbus Avenue", 
+        "CD": "M10", 
         "ApplicationType": "ZM", 
         "Milestone": "EIS Draft Scope Submitted"
       }
@@ -702,6 +748,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "600 Columbus Avenue", 
+        "CD": "M10", 
         "ApplicationType": "ZM", 
         "Milestone": "EIS Draft Scope Submitted"
       }
@@ -717,6 +764,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "600 Columbus Avenue", 
+        "CD": "M10", 
         "ApplicationType": "ZM", 
         "Milestone": "EIS Draft Scope Submitted"
       }
@@ -732,6 +780,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "600 Columbus Avenue", 
+        "CD": "M10", 
         "ApplicationType": "ZM", 
         "Milestone": "EIS Draft Scope Submitted"
       }
@@ -747,6 +796,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Kips Bay Towers parking", 
+        "CD": "M06", 
         "ApplicationType": "ZS", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -762,6 +812,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Rivergate", 
+        "CD": "M06", 
         "ApplicationType": "ZM;ZS", 
         "Milestone": "Type II Determination Issued"
       }
@@ -777,6 +828,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "245 E 40th St - POPS Redesign 37-625", 
+        "CD": "M06", 
         "ApplicationType": "ZC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -792,6 +844,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Asser Levy Park", 
+        "CD": "M06", 
         "ApplicationType": "MM", 
         "Milestone": "Final Alteration Map Scanned"
       }
@@ -807,6 +860,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "MCDONALD'S", 
+        "CD": "M03", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -822,6 +876,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "BALIO DELI", 
+        "CD": "M04", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -837,6 +892,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SOI 30, INC", 
+        "CD": "M06", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -852,6 +908,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "MY MOST FAVORITE FOOD", 
+        "CD": "M07", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -867,6 +924,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SHARAKU", 
+        "CD": "M03", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -882,6 +940,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "DOWNTOWN GALAWAY HOOKER", 
+        "CD": "M02", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -897,6 +956,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "PHEBES", 
+        "CD": "M03", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -912,6 +972,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "COLUMBUS TAVERNE", 
+        "CD": "M07", 
         "ApplicationType": "EC", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -927,6 +988,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "JAPONICA", 
+        "CD": "M02", 
         "ApplicationType": "EC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -942,6 +1004,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "DORRIAN'S RED HAND", 
+        "CD": "M08", 
         "ApplicationType": "EC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -957,6 +1020,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "MUSTANG GRILL", 
+        "CD": "M08", 
         "ApplicationType": "EC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -972,6 +1036,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "THE EURO DINER", 
+        "CD": "M06", 
         "ApplicationType": "EC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -987,6 +1052,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "88 2ND AVENUE FOOD CORP.", 
+        "CD": "M03", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -1002,6 +1068,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "203-205 EAST 92ND STREET POPS", 
+        "CD": "M08", 
         "ApplicationType": "ZA;ZC;ZR", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -1017,6 +1084,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "411 9th Avenue", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -1032,6 +1100,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Dunkin Donuts-Baskin Robbins", 
+        "CD": "M06", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -1047,6 +1116,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Viand Coffee Shop", 
+        "CD": "M08", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -1062,6 +1132,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Amber (West)", 
+        "CD": "M07", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -1077,6 +1148,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "MADISON YORK", 
+        "CD": "Q04", 
         "ApplicationType": "ZS", 
         "Milestone": "EAS/EIS/TM Cmts Sent to App (Pre-Cert)"
       }
@@ -1092,6 +1164,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "PARVINE AVE REZONING & CITY MAP CHANGE", 
+        "CD": "Q14", 
         "ApplicationType": "MM;ZC;ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -1107,6 +1180,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "PARVINE AVE REZONING & CITY MAP CHANGE", 
+        "CD": "Q14", 
         "ApplicationType": "MM;ZC;ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -1122,6 +1196,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "PARVINE AVE REZONING & CITY MAP CHANGE", 
+        "CD": "Q14", 
         "ApplicationType": "MM;ZC;ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -1137,6 +1212,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "PARVINE AVE REZONING & CITY MAP CHANGE", 
+        "CD": "Q14", 
         "ApplicationType": "MM;ZC;ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -1152,6 +1228,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "PARVINE AVE REZONING & CITY MAP CHANGE", 
+        "CD": "Q14", 
         "ApplicationType": "MM;ZC;ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -1167,6 +1244,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "PARVINE AVE REZONING & CITY MAP CHANGE", 
+        "CD": "Q14", 
         "ApplicationType": "MM;ZC;ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -1182,6 +1260,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "CONGREGATION BETH-EL HOUSE OF WORSHIP", 
+        "CD": "Q08", 
         "ApplicationType": "ZC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -1197,6 +1276,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "ALMEDA AVE II", 
+        "CD": "Q14", 
         "ApplicationType": "MM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1212,6 +1292,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "VERNON BLVD- BROADWAY REZONING", 
+        "CD": "Q01", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1227,6 +1308,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "CHIU'S RESIDENCE", 
+        "CD": "Q07", 
         "ApplicationType": "ZA", 
         "Milestone": "Type II Determination Issued"
       }
@@ -1242,6 +1324,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "WHITESTONE PARKING LOT", 
+        "CD": "Q07", 
         "ApplicationType": "ZS", 
         "Milestone": "EAS/EIS/TM Filed (Pre-Cert)"
       }
@@ -1257,6 +1340,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "60TH PLACE DEMAPPING", 
+        "CD": "Q05", 
         "ApplicationType": "MM", 
         "Milestone": "Interagency Polling Letter Sent"
       }
@@ -1272,6 +1356,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "41ST AVE EASEMENT REMOVAL", 
+        "CD": "Q07", 
         "ApplicationType": "ME", 
         "Milestone": "Final Alteration Map Scanned"
       }
@@ -1287,6 +1372,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "POLICE ACADEMY EASEMENT REMOVAL", 
+        "CD": "Q07", 
         "ApplicationType": "ME", 
         "Milestone": "Final Alteration Map Scanned"
       }
@@ -1302,6 +1388,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Flushing West", 
+        "CD": "Q07", 
         "ApplicationType": "ZM;ZR;ZS", 
         "Milestone": "EIS Scoping Comment Period Ended"
       }
@@ -1317,6 +1404,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "DOMINICAN DINER", 
+        "CD": "Q08", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Revisions Filed"
       }
@@ -1332,6 +1420,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "HARMONY TERRACE", 
+        "CD": "Q02", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -1347,6 +1436,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Russo's On The Bay", 
+        "CD": "Q10", 
         "ApplicationType": "MM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1362,6 +1452,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Russo's On The Bay", 
+        "CD": "Q10", 
         "ApplicationType": "MM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1377,6 +1468,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "FRESHKILLS PARK", 
+        "CD": "R02;R03", 
         "ApplicationType": "MM;ZM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1392,6 +1484,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "FRESHKILLS PARK", 
+        "CD": "R02;R03", 
         "ApplicationType": "MM;ZM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1407,6 +1500,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "FRESHKILLS PARK", 
+        "CD": "R02;R03", 
         "ApplicationType": "MM;ZM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1422,6 +1516,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "FRESHKILLS PARK", 
+        "CD": "R02;R03", 
         "ApplicationType": "MM;ZM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1437,6 +1532,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "FRESHKILLS PARK", 
+        "CD": "R02;R03", 
         "ApplicationType": "MM;ZM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1452,6 +1548,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "FRESHKILLS PARK", 
+        "CD": "R02;R03", 
         "ApplicationType": "MM;ZM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1467,6 +1564,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "FRESHKILLS PARK", 
+        "CD": "R02;R03", 
         "ApplicationType": "MM;ZM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1482,6 +1580,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "FRESHKILLS PARK", 
+        "CD": "R02;R03", 
         "ApplicationType": "MM;ZM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1497,6 +1596,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "FRESHKILLS PARK", 
+        "CD": "R02;R03", 
         "ApplicationType": "MM;ZM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1512,6 +1612,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "15, 18, 26, 23 ZARELLI CT", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1527,6 +1628,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SD 22 EVERTON AVENUE", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -1542,6 +1644,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "10 AVIVA COURT", 
+        "CD": "R03", 
         "ApplicationType": "CM", 
         "Milestone": "Land Use Application Revisions Filed"
       }
@@ -1557,6 +1660,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "6 Wilsonview Place - Restoration", 
+        "CD": "R02", 
         "ApplicationType": "ZA;ZC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1572,6 +1676,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "30 Ackerman Street", 
+        "CD": "R03", 
         "ApplicationType": "ZA", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -1587,6 +1692,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "40 Ackerman Street", 
+        "CD": "R03", 
         "ApplicationType": "ZA", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -1602,6 +1708,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SD 4521 Arthur Kill Road", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -1617,6 +1724,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "465 Father Capodanno Boulevard", 
+        "CD": "R02", 
         "ApplicationType": "ZA", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1632,6 +1740,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "461 Father Capodanno Boulevard", 
+        "CD": "R02", 
         "ApplicationType": "ZA", 
         "Milestone": "TRD Rvw of Filed Appl/Cmts Sent to Boro"
       }
@@ -1647,6 +1756,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1662,6 +1772,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1677,6 +1788,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1692,6 +1804,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1707,6 +1820,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1722,6 +1836,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1737,6 +1852,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1752,6 +1868,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1767,6 +1884,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1782,6 +1900,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1797,6 +1916,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1812,6 +1932,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1827,6 +1948,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1842,6 +1964,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1857,6 +1980,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1872,6 +1996,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1887,6 +2012,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1902,6 +2028,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1917,6 +2044,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1932,6 +2060,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1947,6 +2076,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1962,6 +2092,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1977,6 +2108,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -1992,6 +2124,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -2007,6 +2140,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -2022,6 +2156,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Blondell Commons", 
+        "CD": "X10;X11", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -2037,6 +2172,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "WEST FARM SQUARE APARTMENTS (West Farms Parking)", 
+        "CD": "X06", 
         "ApplicationType": "CM", 
         "Milestone": "Land Use Application Filed"
       }
@@ -2052,6 +2188,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "WEST FARM SQUARE APARTMENTS (West Farms Parking)", 
+        "CD": "X06", 
         "ApplicationType": "CM", 
         "Milestone": "Land Use Application Filed"
       }
@@ -2067,6 +2204,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "HRA at 4 Metrotech", 
+        "CD": "K02", 
         "ApplicationType": "PX", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -2082,6 +2220,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Vincent Caristo CCC & Amico SCC (Continued Use)", 
+        "CD": "K12", 
         "ApplicationType": "PQ", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -2097,6 +2236,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "214 Starr Street", 
+        "CD": "K04", 
         "ApplicationType": "ZS", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -2112,6 +2252,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Caesars Bay Shopping Center", 
+        "CD": "K11", 
         "ApplicationType": "ZA;ZC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -2127,6 +2268,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "DCAS Disposition in Brooklyn CD15", 
+        "CD": "K15", 
         "ApplicationType": "PP", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -2142,6 +2284,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Kosciuszko Bridge Replacement Brooklyn", 
+        "CD": "K01", 
         "ApplicationType": "MM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -2157,6 +2300,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "510 Gates Avenue", 
+        "CD": "K03", 
         "ApplicationType": "PX", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -2172,6 +2316,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "205 Park Avenue Rezoning", 
+        "CD": "K02", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "EAS/EIS/TM Cmts Sent to App (Pre-Cert)"
       }
@@ -2187,6 +2332,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1050 Pacific Street Rezoning", 
+        "CD": "K08", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Applicant Requested Major Changes"
       }
@@ -2202,6 +2348,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "37 Great Jones Street", 
+        "CD": "M02", 
         "ApplicationType": "ZS", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -2217,6 +2364,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Block 733 Lincoln Tunnel proposal", 
+        "CD": "M04", 
         "ApplicationType": "ZA", 
         "Milestone": "EAS/EIS/TM Filed (Pre-Cert)"
       }
@@ -2232,6 +2380,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Block 733 Lincoln Tunnel proposal", 
+        "CD": "M04", 
         "ApplicationType": "ZA", 
         "Milestone": "EAS/EIS/TM Filed (Pre-Cert)"
       }
@@ -2247,6 +2396,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Block 733 Lincoln Tunnel proposal", 
+        "CD": "M04", 
         "ApplicationType": "ZA", 
         "Milestone": "EAS/EIS/TM Filed (Pre-Cert)"
       }
@@ -2262,6 +2412,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Block 733 Lincoln Tunnel proposal", 
+        "CD": "M04", 
         "ApplicationType": "ZA", 
         "Milestone": "EAS/EIS/TM Filed (Pre-Cert)"
       }
@@ -2277,6 +2428,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Block 733 Lincoln Tunnel proposal", 
+        "CD": "M04", 
         "ApplicationType": "ZA", 
         "Milestone": "EAS/EIS/TM Filed (Pre-Cert)"
       }
@@ -2292,6 +2444,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "780 Third Ave - Open Air Cafi 37-73", 
+        "CD": "M06", 
         "ApplicationType": "ZC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -2307,6 +2460,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "75 West Street - Parking Garage", 
+        "CD": "M01", 
         "ApplicationType": null, 
         "Milestone": "EAS/EIS/TM Revision Filed (Pre-Cert)"
       }
@@ -2322,6 +2476,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "BALILO DELI (Renewal)", 
+        "CD": "M04", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -2337,6 +2492,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "98 Greene Street", 
+        "CD": "M02", 
         "ApplicationType": "ZS", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -2352,6 +2508,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Leyla", 
+        "CD": "M02", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -2367,6 +2524,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Fratelli La Bufala", 
+        "CD": "M07", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -2382,6 +2540,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1250 Broadway POPS Redesign", 
+        "CD": "M05", 
         "ApplicationType": "ZC", 
         "Milestone": "Land Use Application Revisions Filed"
       }
@@ -2397,6 +2556,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "23-25 Cleveland Place - Little Italy", 
+        "CD": "M02", 
         "ApplicationType": "ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -2412,6 +2572,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "23-25 Cleveland Place - Little Italy", 
+        "CD": "M02", 
         "ApplicationType": "ZR", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -2427,6 +2588,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "85 Mercer Street - 74-781", 
+        "CD": "M02", 
         "ApplicationType": "ZS", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -2442,6 +2604,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "333 Broome Street", 
+        "CD": "M03", 
         "ApplicationType": "ZS", 
         "Milestone": "Post-Filed LU Draft Received"
       }
@@ -2457,6 +2620,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Shangrila Deli", 
+        "CD": "M12", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -2472,6 +2636,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "102 Greene Street", 
+        "CD": "M02", 
         "ApplicationType": "ZS", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -2487,6 +2652,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Bagel Bob's on York (Renewal)", 
+        "CD": "M08", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -2502,6 +2668,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "(Renewal) Indian Cafi", 
+        "CD": "M07", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -2517,6 +2684,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Detering-Krishnamurchy Residence", 
+        "CD": "Q02", 
         "ApplicationType": "ZA", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -2532,6 +2700,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "POINT BRAZIL RESTAURANT", 
+        "CD": "Q01", 
         "ApplicationType": "EC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -2547,6 +2716,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SWEET ATHENS CAFE", 
+        "CD": "Q01", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -2562,6 +2732,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "44th Avenue Demapping", 
+        "CD": "Q04", 
         "ApplicationType": "MM", 
         "Milestone": "Headquarters Held (Pre-Cert)"
       }
@@ -2577,6 +2748,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "44th Avenue Demapping", 
+        "CD": "Q04", 
         "ApplicationType": "MM", 
         "Milestone": "Headquarters Held (Pre-Cert)"
       }
@@ -2592,6 +2764,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "North Conduit Ave at Springfield Blvd De-mapping", 
+        "CD": "Q13", 
         "ApplicationType": "MM", 
         "Milestone": "EAS/EIS/TM Cmts Sent to App (Pre-Cert)"
       }
@@ -2607,6 +2780,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "North Conduit Ave at Springfield Blvd De-mapping", 
+        "CD": "Q13", 
         "ApplicationType": "MM", 
         "Milestone": "EAS/EIS/TM Cmts Sent to App (Pre-Cert)"
       }
@@ -2622,6 +2796,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "North Conduit Ave at Springfield Blvd De-mapping", 
+        "CD": "Q13", 
         "ApplicationType": "MM", 
         "Milestone": "EAS/EIS/TM Cmts Sent to App (Pre-Cert)"
       }
@@ -2637,6 +2812,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Astoria Islamic Center House of Worship", 
+        "CD": "Q01", 
         "ApplicationType": "ZC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -2652,6 +2828,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Dominican Diner", 
+        "CD": "Q08", 
         "ApplicationType": "EC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -2667,6 +2844,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Union Street Rezoning", 
+        "CD": "Q07", 
         "ApplicationType": "ZM", 
         "Milestone": "EAS/EIS/TM Cmts Sent to App (Pre-Cert)"
       }
@@ -2682,6 +2860,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Union Street Rezoning", 
+        "CD": "Q07", 
         "ApplicationType": "ZM", 
         "Milestone": "EAS/EIS/TM Cmts Sent to App (Pre-Cert)"
       }
@@ -2697,6 +2876,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Union Street Rezoning", 
+        "CD": "Q07", 
         "ApplicationType": "ZM", 
         "Milestone": "EAS/EIS/TM Cmts Sent to App (Pre-Cert)"
       }
@@ -2712,6 +2892,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Union Street Rezoning", 
+        "CD": "Q07", 
         "ApplicationType": "ZM", 
         "Milestone": "EAS/EIS/TM Cmts Sent to App (Pre-Cert)"
       }
@@ -2727,6 +2908,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Union Street Rezoning", 
+        "CD": "Q07", 
         "ApplicationType": "ZM", 
         "Milestone": "EAS/EIS/TM Cmts Sent to App (Pre-Cert)"
       }
@@ -2742,6 +2924,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Union Street Rezoning", 
+        "CD": "Q07", 
         "ApplicationType": "ZM", 
         "Milestone": "EAS/EIS/TM Cmts Sent to App (Pre-Cert)"
       }
@@ -2757,6 +2940,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "(Renewal) Armondo's", 
+        "CD": "Q03", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -2772,6 +2956,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "LITE BITES CAFE & GRILL (Renewal)", 
+        "CD": "Q01", 
         "ApplicationType": "EC", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -2787,6 +2972,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Cunard Avenue & Wandel", 
+        "CD": "R01", 
         "ApplicationType": "HA;ZC", 
         "Milestone": "EAS/EIS/TM Cmts Sent to App (Pre-Cert)"
       }
@@ -2802,6 +2988,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS SD 351 Boscombe Avenue", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -2817,6 +3004,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Riverside Galleria (Waterfront Commons)", 
+        "CD": "R03", 
         "ApplicationType": "RA;ZA;ZC;ZS", 
         "Milestone": "Headquarters Held (Pre-Cert)"
       }
@@ -2832,6 +3020,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Riverside Galleria (Waterfront Commons)", 
+        "CD": "R03", 
         "ApplicationType": "RA;ZA;ZC;ZS", 
         "Milestone": "Headquarters Held (Pre-Cert)"
       }
@@ -2847,6 +3036,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Riverside Galleria (Waterfront Commons)", 
+        "CD": "R03", 
         "ApplicationType": "RA;ZA;ZC;ZS", 
         "Milestone": "Headquarters Held (Pre-Cert)"
       }
@@ -2862,6 +3052,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Riverside Galleria (Waterfront Commons)", 
+        "CD": "R03", 
         "ApplicationType": "RA;ZA;ZC;ZS", 
         "Milestone": "Headquarters Held (Pre-Cert)"
       }
@@ -2877,6 +3068,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "3130 Victory Boulevard", 
+        "CD": "R02", 
         "ApplicationType": "ZM", 
         "Milestone": "Chair's Briefing Held (Pre-Cert)"
       }
@@ -2892,6 +3084,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "3130 Victory Boulevard", 
+        "CD": "R02", 
         "ApplicationType": "ZM", 
         "Milestone": "Chair's Briefing Held (Pre-Cert)"
       }
@@ -2907,6 +3100,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "3130 Victory Boulevard", 
+        "CD": "R02", 
         "ApplicationType": "ZM", 
         "Milestone": "Chair's Briefing Held (Pre-Cert)"
       }
@@ -2922,6 +3116,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "3130 Victory Boulevard", 
+        "CD": "R02", 
         "ApplicationType": "ZM", 
         "Milestone": "Chair's Briefing Held (Pre-Cert)"
       }
@@ -2937,6 +3132,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "3130 Victory Boulevard", 
+        "CD": "R02", 
         "ApplicationType": "ZM", 
         "Milestone": "Chair's Briefing Held (Pre-Cert)"
       }
@@ -2952,6 +3148,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "5 Bement Avenue", 
+        "CD": "R01", 
         "ApplicationType": "ZM", 
         "Milestone": "Headquarters Held (Pre-Cert)"
       }
@@ -2967,6 +3164,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "East 178th Street Demapping", 
+        "CD": "X06", 
         "ApplicationType": "MM", 
         "Milestone": "Pre-Cert Report Issued/Await Alt Map"
       }
@@ -2982,6 +3180,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "(Renewal) George's Restaurant", 
+        "CD": "X10", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -2997,6 +3196,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "USA Recycling Rezoning", 
+        "CD": "X12", 
         "ApplicationType": null, 
         "Milestone": "EAS/EIS/TM Filed (Pre-Cert)"
       }
@@ -3012,6 +3212,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Sea Park North Rezoning", 
+        "CD": "K13", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -3027,6 +3228,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Moffat Street Park Mapping", 
+        "CD": "K04", 
         "ApplicationType": "MM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -3042,6 +3244,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1392 Bedford Avenue Minor Mod", 
+        "CD": "K08", 
         "ApplicationType": "CM", 
         "Milestone": "Type II Determination Issued"
       }
@@ -3057,6 +3260,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "W 22nd - W 23rd St Coney Island Rezoning", 
+        "CD": "K13", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "TRD Rvw of Filed Appl/Cmts Sent to Boro"
       }
@@ -3072,6 +3276,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "W 22nd - W 23rd St Coney Island Rezoning", 
+        "CD": "K13", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "TRD Rvw of Filed Appl/Cmts Sent to Boro"
       }
@@ -3087,6 +3292,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "W 22nd - W 23rd St Coney Island Rezoning", 
+        "CD": "K13", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "TRD Rvw of Filed Appl/Cmts Sent to Boro"
       }
@@ -3102,6 +3308,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "W 22nd - W 23rd St Coney Island Rezoning", 
+        "CD": "K13", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "TRD Rvw of Filed Appl/Cmts Sent to Boro"
       }
@@ -3117,6 +3324,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "W 22nd - W 23rd St Coney Island Rezoning", 
+        "CD": "K13", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "TRD Rvw of Filed Appl/Cmts Sent to Boro"
       }
@@ -3132,6 +3340,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "335 West 39th Street - HY DIB application", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Counsel Final Sign-Off Issued"
       }
@@ -3147,6 +3356,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "600 Columbus Avenue", 
+        "CD": "M07", 
         "ApplicationType": "ZA", 
         "Milestone": "EAS/EIS/TM Revision Filed (Pre-Cert)"
       }
@@ -3162,6 +3372,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Stagecoach Tavern", 
+        "CD": "M05", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -3177,6 +3388,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "BAMIYAN RESTAURANT (Renewal)", 
+        "CD": "M06", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -3192,6 +3404,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Moonstruck", 
+        "CD": "M03", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -3207,6 +3420,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "AGAVE", 
+        "CD": "M02", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -3222,6 +3436,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "ANASSA", 
+        "CD": "M08", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -3237,6 +3452,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "BENVENUTO", 
+        "CD": "M01", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -3252,6 +3468,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "43 East 20th Street - Res Conversion", 
+        "CD": "M05", 
         "ApplicationType": "ZA", 
         "Milestone": "EAS/EIS/TM Cmts Sent to App (Pre-Cert)"
       }
@@ -3267,6 +3484,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "3 Hudson Blvd (HY parking application)", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -3282,6 +3500,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Gansevoort Modification to Declaration", 
+        "CD": "M02", 
         "ApplicationType": "ZM", 
         "Milestone": "Determination of Significance Issued"
       }
@@ -3297,6 +3516,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Gansevoort Modification to Declaration", 
+        "CD": "M02", 
         "ApplicationType": "ZM", 
         "Milestone": "Determination of Significance Issued"
       }
@@ -3312,6 +3532,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Gansevoort Modification to Declaration", 
+        "CD": "M02", 
         "ApplicationType": "ZM", 
         "Milestone": "Determination of Significance Issued"
       }
@@ -3327,6 +3548,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "520 W. 41st Street (HY Parking cert application)", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -3342,6 +3564,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "457 Madison Avenue Villard Houses Courtyard", 
+        "CD": "M05", 
         "ApplicationType": "ZS", 
         "Milestone": "Counsel Final Sign-Off Issued"
       }
@@ -3357,6 +3580,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "457 Madison Avenue Villard Houses Courtyard", 
+        "CD": "M05", 
         "ApplicationType": "ZS", 
         "Milestone": "Counsel Final Sign-Off Issued"
       }
@@ -3372,6 +3596,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "511 West 35th Street (HY DIB)", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -3387,6 +3612,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "511 West 35th Street (HY DIB)", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -3402,6 +3628,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "511 West 35th Street (HY DIB)", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -3417,6 +3644,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "57-63 Greene Street (New SP for Additional Units)", 
+        "CD": "M02", 
         "ApplicationType": "ZS", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -3432,6 +3660,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Silvercup West Vesting Text", 
+        "CD": "Q02", 
         "ApplicationType": "ZR", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -3447,6 +3676,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Silvercup West Vesting Text", 
+        "CD": "Q02", 
         "ApplicationType": "ZR", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -3462,6 +3692,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Silvercup West Vesting Text", 
+        "CD": "Q02", 
         "ApplicationType": "ZR", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -3477,6 +3708,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Silvercup West Vesting Text", 
+        "CD": "Q02", 
         "ApplicationType": "ZR", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -3492,6 +3724,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "14-41 Broadway Rezoning", 
+        "CD": "Q01", 
         "ApplicationType": "ZM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -3507,6 +3740,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "100-03 North Conduit Avenue Rezoning", 
+        "CD": "Q10", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "EAS/EIS/TM Filed (Pre-Cert)"
       }
@@ -3522,6 +3756,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "100-03 North Conduit Avenue Rezoning", 
+        "CD": "Q10", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "EAS/EIS/TM Filed (Pre-Cert)"
       }
@@ -3537,6 +3772,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "100-03 North Conduit Avenue Rezoning", 
+        "CD": "Q10", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "EAS/EIS/TM Filed (Pre-Cert)"
       }
@@ -3552,6 +3788,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "100-03 North Conduit Avenue Rezoning", 
+        "CD": "Q10", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "EAS/EIS/TM Filed (Pre-Cert)"
       }
@@ -3567,6 +3804,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "(Renewal) Waterfront Crabhouse ESC 530", 
+        "CD": "Q02", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -3582,6 +3820,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Flagg Place Subdivision (aka 144 Flagg Place)", 
+        "CD": "R02", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -3597,6 +3836,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "14 Merrick Avenue - DOB issue", 
+        "CD": "R02", 
         "ApplicationType": "ZA;ZC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -3612,6 +3852,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Woodrow Road City Map Change", 
+        "CD": "R03", 
         "ApplicationType": "MM", 
         "Milestone": "WRP Final Sign-Off Issued"
       }
@@ -3627,6 +3868,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "311 Lighthouse Avenue (street issue)", 
+        "CD": "R02", 
         "ApplicationType": "ZA;ZC", 
         "Milestone": "Post-Filed LU Draft Received"
       }
@@ -3642,6 +3884,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Bartlett-Katan-Eltingville (street issue)", 
+        "CD": "R03", 
         "ApplicationType": "RA;RC", 
         "Milestone": "Staten Island Joint Review Completed"
       }
@@ -3657,6 +3900,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Bartlett-Katan-Eltingville (street issue)", 
+        "CD": "R03", 
         "ApplicationType": "RA;RC", 
         "Milestone": "Staten Island Joint Review Completed"
       }
@@ -3672,6 +3916,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Bartlett-Katan-Eltingville (street issue)", 
+        "CD": "R03", 
         "ApplicationType": "RA;RC", 
         "Milestone": "Staten Island Joint Review Completed"
       }
@@ -3687,6 +3932,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Bartlett-Katan-Eltingville (street issue)", 
+        "CD": "R03", 
         "ApplicationType": "RA;RC", 
         "Milestone": "Staten Island Joint Review Completed"
       }
@@ -3702,6 +3948,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Bartlett-Katan-Eltingville (street issue)", 
+        "CD": "R03", 
         "ApplicationType": "RA;RC", 
         "Milestone": "Staten Island Joint Review Completed"
       }
@@ -3717,6 +3964,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Bartlett-Katan-Eltingville (street issue)", 
+        "CD": "R03", 
         "ApplicationType": "RA;RC", 
         "Milestone": "Staten Island Joint Review Completed"
       }
@@ -3732,6 +3980,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Bartlett-Katan-Eltingville (street issue)", 
+        "CD": "R03", 
         "ApplicationType": "RA;RC", 
         "Milestone": "Staten Island Joint Review Completed"
       }
@@ -3747,6 +3996,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "VIP'S CAFE", 
+        "CD": "X07", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -3762,6 +4012,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "BTM Ice Skating Rink", 
+        "CD": "X04", 
         "ApplicationType": "ZS", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -3777,6 +4028,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Kingsbridge Early Learn Education and Child Center", 
+        "CD": "X08", 
         "ApplicationType": "PC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -3792,6 +4044,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "THE SMOKE JOINT (Renewal)", 
+        "CD": "K02", 
         "ApplicationType": "EC", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -3807,6 +4060,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Friends of Crown Heights 11 (continued use)", 
+        "CD": "K09", 
         "ApplicationType": "PQ", 
         "Milestone": "Land Use Application Filed"
       }
@@ -3822,6 +4076,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1010 Pacific Street Rezoning", 
+        "CD": "K08", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "EAS/EIS/TM Cmts Sent to App (Pre-Cert)"
       }
@@ -3837,6 +4092,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1010 Pacific Street Rezoning", 
+        "CD": "K08", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "EAS/EIS/TM Cmts Sent to App (Pre-Cert)"
       }
@@ -3852,6 +4108,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "265 Marcus Garvey Boulevard (continued use)", 
+        "CD": "K03", 
         "ApplicationType": "PQ", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -3867,6 +4124,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "St Andrew\u0012s Community Day Care Center (cont use)", 
+        "CD": "K07", 
         "ApplicationType": "PQ", 
         "Milestone": "Land Use Application Revisions Filed"
       }
@@ -3882,6 +4140,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "771 Crown Street Daycare - ACS (continued use)", 
+        "CD": "K09", 
         "ApplicationType": "PQ", 
         "Milestone": "Notice of Receipt Issued"
       }
@@ -3897,6 +4156,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1220 Avenue P Rezoning", 
+        "CD": "K15", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "E Designation Number Assigned"
       }
@@ -3912,6 +4172,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1220 Avenue P Rezoning", 
+        "CD": "K15", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "E Designation Number Assigned"
       }
@@ -3927,6 +4188,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1220 Avenue P Rezoning", 
+        "CD": "K15", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "E Designation Number Assigned"
       }
@@ -3942,6 +4204,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1220 Avenue P Rezoning", 
+        "CD": "K15", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "E Designation Number Assigned"
       }
@@ -3957,6 +4220,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1220 Avenue P Rezoning", 
+        "CD": "K15", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "E Designation Number Assigned"
       }
@@ -3972,6 +4236,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1220 Avenue P Rezoning", 
+        "CD": "K15", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "E Designation Number Assigned"
       }
@@ -3987,6 +4252,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1220 Avenue P Rezoning", 
+        "CD": "K15", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "E Designation Number Assigned"
       }
@@ -4002,6 +4268,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1220 Avenue P Rezoning", 
+        "CD": "K15", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "E Designation Number Assigned"
       }
@@ -4017,6 +4284,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "57 Caton Place Rezoning", 
+        "CD": "K07", 
         "ApplicationType": "MM;ZM;ZR", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -4032,6 +4300,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "470 Vanderbilt Mod (Substantial Compliance)", 
+        "CD": "K02", 
         "ApplicationType": "CM", 
         "Milestone": "Review Session Held (Pre-Cert)"
       }
@@ -4047,6 +4316,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "New York Community Hospital of Brooklyn", 
+        "CD": "K14", 
         "ApplicationType": "MM", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -4062,6 +4332,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "New York Community Hospital of Brooklyn", 
+        "CD": "K14", 
         "ApplicationType": "MM", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -4077,6 +4348,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "6208 8th Avenue (SP 74-681)", 
+        "CD": "K10", 
         "ApplicationType": "ZS", 
         "Milestone": "EIS Draft Scope Submitted"
       }
@@ -4092,6 +4364,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "W 121st Street (New Application)", 
+        "CD": "M10", 
         "ApplicationType": "PP", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -4107,6 +4380,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "West 131st Street (New Application)", 
+        "CD": "M10", 
         "ApplicationType": "PP", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -4122,6 +4396,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "BURGER KING @ 3451 BROADWAY (Renewal)", 
+        "CD": "M05;M08", 
         "ApplicationType": "EC", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -4137,6 +4412,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "90 Bedford Street Rezoning", 
+        "CD": "M02", 
         "ApplicationType": "ZM", 
         "Milestone": "Headquarters Held (Pre-Cert)"
       }
@@ -4152,6 +4428,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SOI 30 THAI (Renewal)", 
+        "CD": "M06", 
         "ApplicationType": "EC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -4167,6 +4444,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "CHELSEA SQUARE RESTAURANT (Renewal)", 
+        "CD": "M04", 
         "ApplicationType": "EC", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -4182,6 +4460,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "66 Allen Street", 
+        "CD": "M03", 
         "ApplicationType": "ZS", 
         "Milestone": "EAS/EIS/TM Revision Filed (Pre-Cert)"
       }
@@ -4197,6 +4476,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "116 West 23rd Street (Burlington sign)", 
+        "CD": "M04", 
         "ApplicationType": "ZS", 
         "Milestone": "EAS/EIS/TM Cmts Sent to App (Pre-Cert)"
       }
@@ -4212,6 +4492,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "3 Hudson Blvd (DIB, ERYTDR, office & res certs)", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Draft Legal Documents Submitted"
       }
@@ -4227,6 +4508,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "609-611 8th Ave. (DIB application)", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -4242,6 +4524,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "325 Hudson Street - Chair Cert", 
+        "CD": "M02", 
         "ApplicationType": "ZC", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -4257,6 +4540,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "BAMIYAN", 
+        "CD": "M06", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -4272,6 +4556,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "GM Plaza Design Change Cert", 
+        "CD": "M05", 
         "ApplicationType": "ZC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -4287,6 +4572,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "39-41 W. 23rd Street renewal", 
+        "CD": "M05", 
         "ApplicationType": "CM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -4302,6 +4588,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "140 West Street Rooftop Rec Waiver", 
+        "CD": "M01", 
         "ApplicationType": "ZC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -4317,6 +4604,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Columbus House Enlargement (95 West 95th St)", 
+        "CD": "M07", 
         "ApplicationType": "ZA", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -4332,6 +4620,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "675 Third Ave - POPS Redesign 37-625", 
+        "CD": "M06", 
         "ApplicationType": "ZC", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -4347,6 +4636,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "COOPER CRAFT & KITCHEN (Renewal)", 
+        "CD": "M03", 
         "ApplicationType": "EC", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -4362,6 +4652,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "BAR BOLONAT (Renewal)", 
+        "CD": "M02", 
         "ApplicationType": "EC", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -4377,6 +4668,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Astoria Boulevard Rezoning", 
+        "CD": "Q01", 
         "ApplicationType": "ZM", 
         "Milestone": "Notice of Receipt Issued"
       }
@@ -4392,6 +4684,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Astoria Boulevard Rezoning", 
+        "CD": "Q01", 
         "ApplicationType": "ZM", 
         "Milestone": "Notice of Receipt Issued"
       }
@@ -4407,6 +4700,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Astoria Boulevard Rezoning", 
+        "CD": "Q01", 
         "ApplicationType": "ZM", 
         "Milestone": "Notice of Receipt Issued"
       }
@@ -4422,6 +4716,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "MCDONALD'S @ 5725 ROOSEVELT AVE", 
+        "CD": "Q02", 
         "ApplicationType": "EC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -4437,6 +4732,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Kosciuszko Bridge Replacement Queens", 
+        "CD": "Q02", 
         "ApplicationType": "MM", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -4452,6 +4748,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Omega Psi Phi ECEC & Rockaway Blvd Sr Ctr cont use", 
+        "CD": "Q12", 
         "ApplicationType": "PQ", 
         "Milestone": "Notice of Receipt Issued"
       }
@@ -4467,6 +4764,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Queensbridge ECDC (continued use)", 
+        "CD": "Q01", 
         "ApplicationType": "PQ", 
         "Milestone": "Land Use Application Filed"
       }
@@ -4482,6 +4780,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Concerned Parents of Jamaica ELC (continued use)", 
+        "CD": "Q12", 
         "ApplicationType": "PQ", 
         "Milestone": "Land Use Application Filed"
       }
@@ -4497,6 +4796,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "All My Children Daycare 4 (continued use)", 
+        "CD": "Q12", 
         "ApplicationType": "PQ", 
         "Milestone": "Land Use Application Filed"
       }
@@ -4512,6 +4812,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Skyview Parc Second Amended Declaration", 
+        "CD": "Q07", 
         "ApplicationType": "CM", 
         "Milestone": "Type II Determination Issued"
       }
@@ -4527,6 +4828,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "300 Ocean Terrace (street issue)", 
+        "CD": "R02", 
         "ApplicationType": "ZA;ZC", 
         "Milestone": "Staten Island Joint Review Completed"
       }
@@ -4542,6 +4844,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Albourne Avenue (DCAS Disposition)", 
+        "CD": "R03", 
         "ApplicationType": "PP", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -4557,6 +4860,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "South Service Road Block 7499", 
+        "CD": "R03", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -4572,6 +4876,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "South Service Road Block 7499", 
+        "CD": "R03", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -4587,6 +4892,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "South Service Road Block 7499", 
+        "CD": "R03", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -4602,6 +4908,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "300 Victory Boulevard - Renewal", 
+        "CD": "R01", 
         "ApplicationType": "CM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -4617,6 +4924,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "300 Victory Boulevard - Renewal", 
+        "CD": "R01", 
         "ApplicationType": "CM", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -4632,6 +4940,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Eugene Street & Amboy Rd", 
+        "CD": "R03", 
         "ApplicationType": "RA;RC", 
         "Milestone": "LUMIS Last Action Completed"
       }
@@ -4647,6 +4956,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "ANGELO'S DONUT (Renewal)", 
+        "CD": "X10", 
         "ApplicationType": "EC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -4662,6 +4972,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Friends of Crown Heights Childcare Ctr 16 cont use", 
+        "CD": "K05", 
         "ApplicationType": "PQ", 
         "Milestone": "Land Use Application Filed"
       }
@@ -4677,6 +4988,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Kedem Winery 420 Kent Ave.(Substantial Compliance)", 
+        "CD": "K01", 
         "ApplicationType": "ZC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -4692,6 +5004,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Kedem Winery 420 Kent Ave.(Substantial Compliance)", 
+        "CD": "K01", 
         "ApplicationType": "ZC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -4707,6 +5020,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Kosciuszko Bridge Brooklyn", 
+        "CD": "K01", 
         "ApplicationType": "MM", 
         "Milestone": "WRP Final Sign-Off Issued"
       }
@@ -4722,6 +5036,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Urban Strategies Day Care Center (continued use)", 
+        "CD": "K05", 
         "ApplicationType": "PQ", 
         "Milestone": "Land Use Application Filed"
       }
@@ -4737,6 +5052,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1881-1883 McDonald Avenue Rezoning", 
+        "CD": "K15", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Notice of Receipt Issued"
       }
@@ -4752,6 +5068,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1881-1883 McDonald Avenue Rezoning", 
+        "CD": "K15", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Notice of Receipt Issued"
       }
@@ -4767,6 +5084,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1881-1883 McDonald Avenue Rezoning", 
+        "CD": "K15", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Notice of Receipt Issued"
       }
@@ -4782,6 +5100,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1881-1883 McDonald Avenue Rezoning", 
+        "CD": "K15", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Notice of Receipt Issued"
       }
@@ -4797,6 +5116,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1881-1883 McDonald Avenue Rezoning", 
+        "CD": "K15", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Notice of Receipt Issued"
       }
@@ -4812,6 +5132,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1881-1883 McDonald Avenue Rezoning", 
+        "CD": "K15", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Notice of Receipt Issued"
       }
@@ -4827,6 +5148,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1881-1883 McDonald Avenue Rezoning", 
+        "CD": "K15", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Notice of Receipt Issued"
       }
@@ -4842,6 +5164,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "1881-1883 McDonald Avenue Rezoning", 
+        "CD": "K15", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Notice of Receipt Issued"
       }
@@ -4857,6 +5180,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Friends of Crown Heights 15", 
+        "CD": "K05", 
         "ApplicationType": "PQ", 
         "Milestone": "Land Use Application Filed"
       }
@@ -4872,6 +5196,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "PAL Arnold & Marie Schwartz Early Learn Center", 
+        "CD": "K05", 
         "ApplicationType": "PQ", 
         "Milestone": "Land Use Application Filed"
       }
@@ -4887,6 +5212,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Friends of Crown Heights 16 - 963 Park Place", 
+        "CD": "K08", 
         "ApplicationType": "PQ", 
         "Milestone": "Land Use Application Filed"
       }
@@ -4902,6 +5228,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "474 West 159th Street Child Care Center (Cont Use)", 
+        "CD": "M12", 
         "ApplicationType": "PQ", 
         "Milestone": "Land Use Application Filed"
       }
@@ -4917,6 +5244,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Manhattan West (Central Plaza and Dyer Ave)", 
+        "CD": "M04", 
         "ApplicationType": "ZC;ZR", 
         "Milestone": "TRD Rvw of Filed Appl/Cmts Sent to Boro"
       }
@@ -4932,6 +5260,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Manhattan West (Central Plaza and Dyer Ave)", 
+        "CD": "M04", 
         "ApplicationType": "ZC;ZR", 
         "Milestone": "TRD Rvw of Filed Appl/Cmts Sent to Boro"
       }
@@ -4947,6 +5276,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Manhattan West (Central Plaza and Dyer Ave)", 
+        "CD": "M04", 
         "ApplicationType": "ZC;ZR", 
         "Milestone": "TRD Rvw of Filed Appl/Cmts Sent to Boro"
       }
@@ -4962,6 +5292,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Manhattan West (Central Plaza and Dyer Ave)", 
+        "CD": "M04", 
         "ApplicationType": "ZC;ZR", 
         "Milestone": "TRD Rvw of Filed Appl/Cmts Sent to Boro"
       }
@@ -4977,6 +5308,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "555 West 38th Street (HY certifications)", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -4992,6 +5324,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "555 West 38th Street (HY certifications)", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -5007,6 +5340,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "555 West 38th Street (HY certifications)", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -5022,6 +5356,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "555 West 38th Street (HY certifications)", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -5037,6 +5372,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "443 Greenwich Street Second Renewal", 
+        "CD": "M01", 
         "ApplicationType": "CM", 
         "Milestone": "EARD Final Sign-Off Issued"
       }
@@ -5052,6 +5388,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "East 33rd St Rezoning", 
+        "CD": "M06", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5067,6 +5404,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "East 33rd St Rezoning", 
+        "CD": "M06", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5082,6 +5420,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "East 33rd St Rezoning", 
+        "CD": "M06", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5097,6 +5436,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "East 33rd St Rezoning", 
+        "CD": "M06", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5112,6 +5452,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "East 33rd St Rezoning", 
+        "CD": "M06", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5127,6 +5468,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "East 33rd St Rezoning", 
+        "CD": "M06", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5142,6 +5484,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "East 33rd St Rezoning", 
+        "CD": "M06", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5157,6 +5500,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "East 33rd St Rezoning", 
+        "CD": "M06", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5172,6 +5516,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "East 33rd St Rezoning", 
+        "CD": "M06", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5187,6 +5532,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "East 33rd St Rezoning", 
+        "CD": "M06", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5202,6 +5548,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "East 33rd St Rezoning", 
+        "CD": "M06", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5217,6 +5564,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "375 Pearl Street - POPS Redesign", 
+        "CD": "M01", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -5232,6 +5580,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "One Wall Street - Rooftop Rec Waiver", 
+        "CD": "M01", 
         "ApplicationType": "ZC", 
         "Milestone": "Post-Filed LU Draft Received"
       }
@@ -5247,6 +5596,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Rivergate - Substantial Compliance", 
+        "CD": "M06", 
         "ApplicationType": null, 
         "Milestone": "Land Use Application Filed"
       }
@@ -5262,6 +5612,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "350 East 88th Street (Rhinelander Building)", 
+        "CD": "M08", 
         "ApplicationType": "ZS", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -5277,6 +5628,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "350 East 88th Street (Rhinelander Building)", 
+        "CD": "M08", 
         "ApplicationType": "ZS", 
         "Milestone": "TRD Final Sign-Off Issued"
       }
@@ -5292,6 +5644,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SUGAR CAFI", 
+        "CD": "M03", 
         "ApplicationType": "EC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -5307,6 +5660,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "35-10 Astoria Boulevard South Rezoning", 
+        "CD": "Q01", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -5322,6 +5676,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Halletts Point Special Permit Mod. & FRESH Cert", 
+        "CD": "Q01", 
         "ApplicationType": "ZC;ZS", 
         "Milestone": "Counsel Final Sign-Off Issued"
       }
@@ -5337,6 +5692,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Kosciuszko Bridge Queens", 
+        "CD": "Q02", 
         "ApplicationType": "MM", 
         "Milestone": "WRP Final Sign-Off Issued"
       }
@@ -5352,6 +5708,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Former Parkway Hospital Site Rezoning", 
+        "CD": "Q06", 
         "ApplicationType": "ZM;ZR", 
         "Milestone": "EAS/EIS/TM Filed (Pre-Cert)"
       }
@@ -5367,6 +5724,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "120 Bayview Avenue", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -5382,6 +5740,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "103 Howard Avenue", 
+        "CD": "R01", 
         "ApplicationType": null, 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -5397,6 +5756,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS SD 40 Bedell Street", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "EARD Final Sign-Off Issued"
       }
@@ -5412,6 +5772,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS SD 15 Tanglewood Drive", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Staten Island Joint Review Completed"
       }
@@ -5427,6 +5788,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Forest Avenue & South Avenue Cross Access Retail", 
+        "CD": "R01", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -5442,6 +5804,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Forest Avenue & South Avenue Cross Access Retail", 
+        "CD": "R01", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -5457,6 +5820,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Forest Avenue & South Avenue Cross Access Retail", 
+        "CD": "R01", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -5472,6 +5836,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Forest Avenue & South Avenue Cross Access Retail", 
+        "CD": "R01", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -5487,6 +5852,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "LSSMNY- Early Life Children's Center 2 (cont use)", 
+        "CD": "X02", 
         "ApplicationType": "PQ", 
         "Milestone": "Land Use Application Filed"
       }
@@ -5502,6 +5868,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Watson Avenue Early Childhood Center (Cont Use)", 
+        "CD": "X09", 
         "ApplicationType": "PQ", 
         "Milestone": "Land Use Application Filed"
       }
@@ -5517,6 +5884,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "198 East 135th Street - Waterfront Chair Cert", 
+        "CD": "X01", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -5532,6 +5900,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "425 Grand Concourse - Former PS 31", 
+        "CD": "X01", 
         "ApplicationType": "HA;ZM;ZR", 
         "Milestone": "Review Session Held (Pre-Cert)"
       }
@@ -5547,6 +5916,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "519-523 Third Avenue Greenhouse (Chair Cert)", 
+        "CD": "K06", 
         "ApplicationType": "ZC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -5562,6 +5932,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "519-523 Third Avenue Greenhouse (Chair Cert)", 
+        "CD": "K06", 
         "ApplicationType": "ZC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -5577,6 +5948,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Toys 'R' Us Waterfront Certification (62-811)", 
+        "CD": "K11", 
         "ApplicationType": "ZC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -5592,6 +5964,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "25 Kent - Substantial Compliance", 
+        "CD": "K01", 
         "ApplicationType": "ZS", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -5607,6 +5980,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "921 Hegeman Friends of Crown Heights 17", 
+        "CD": "K05", 
         "ApplicationType": "PQ", 
         "Milestone": "Land Use Application Filed"
       }
@@ -5622,6 +5996,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Admiral's Row (Substantial Compliance II)", 
+        "CD": "K02", 
         "ApplicationType": "ZS", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -5637,6 +6012,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Admiral's Row (Substantial Compliance II)", 
+        "CD": "K02", 
         "ApplicationType": "ZS", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -5652,6 +6028,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "226 Franklin Street (Chair Cert 15-30)", 
+        "CD": "K01", 
         "ApplicationType": "ZC", 
         "Milestone": "Post-Filed LU Draft Received"
       }
@@ -5667,6 +6044,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Rochester Suydam Ralph", 
+        "CD": "K03", 
         "ApplicationType": "HA", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5682,6 +6060,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Rochester Suydam Ralph", 
+        "CD": "K03", 
         "ApplicationType": "HA", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5697,6 +6076,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Rochester Suydam Ralph", 
+        "CD": "K03", 
         "ApplicationType": "HA", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5712,6 +6092,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Rochester Suydam Ralph", 
+        "CD": "K03", 
         "ApplicationType": "HA", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5727,6 +6108,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Rochester Suydam Ralph", 
+        "CD": "K03", 
         "ApplicationType": "HA", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5742,6 +6124,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Rochester Suydam Ralph", 
+        "CD": "K03", 
         "ApplicationType": "HA", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5757,6 +6140,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Rochester Suydam Ralph", 
+        "CD": "K03", 
         "ApplicationType": "HA", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5772,6 +6156,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Rochester Suydam Ralph", 
+        "CD": "K03", 
         "ApplicationType": "HA", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5787,6 +6172,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Rochester Suydam Ralph", 
+        "CD": "K03", 
         "ApplicationType": "HA", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5802,6 +6188,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Rochester Suydam Ralph", 
+        "CD": "K03", 
         "ApplicationType": "HA", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5817,6 +6204,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Rochester Suydam Ralph", 
+        "CD": "K03", 
         "ApplicationType": "HA", 
         "Milestone": "Lead Agency Letter Issued"
       }
@@ -5832,6 +6220,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Restore The George City Map Change", 
+        "CD": "M12", 
         "ApplicationType": "MM", 
         "Milestone": "Interagency Polling Letter Sent"
       }
@@ -5847,6 +6236,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "50 Hudson Yards Parking", 
+        "CD": "K04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -5862,6 +6252,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "50 Hudson Yards Parking", 
+        "CD": "K04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -5877,6 +6268,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "50 Hudson Yards Parking", 
+        "CD": "K04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -5892,6 +6284,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "50 Hudson Yards Parking", 
+        "CD": "K04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -5907,6 +6300,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "50 Hudson Yards Parking", 
+        "CD": "K04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -5922,6 +6316,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "50 Hudson Yards Parking", 
+        "CD": "K04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -5937,6 +6332,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "STREET TACO (New Change of Ownership)", 
+        "CD": "M06", 
         "ApplicationType": "EC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -5952,6 +6348,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "Hospital for Special Surgery River Bldg renewal", 
+        "CD": "M08", 
         "ApplicationType": "CM", 
         "Milestone": "Land Use Application Revisions Filed"
       }
@@ -5967,6 +6364,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "50 Hudson Yards DIB, ERY, and Office Cert", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Land Use Application Revisions Filed"
       }
@@ -5982,6 +6380,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "50 Hudson Yards DIB, ERY, and Office Cert", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Land Use Application Revisions Filed"
       }
@@ -5997,6 +6396,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "50 Hudson Yards DIB, ERY, and Office Cert", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Land Use Application Revisions Filed"
       }
@@ -6012,6 +6412,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "50 Hudson Yards DIB, ERY, and Office Cert", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Land Use Application Revisions Filed"
       }
@@ -6027,6 +6428,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "50 Hudson Yards DIB, ERY, and Office Cert", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Land Use Application Revisions Filed"
       }
@@ -6042,6 +6444,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "509-511 West 27th Street HLTC 1 FAR Bonus", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6057,6 +6460,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "509-511 West 27th Street HLTC 1 FAR Bonus", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6072,6 +6476,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "THE GEM SALOON (Change of Ownership & reconstruct)", 
+        "CD": "M06", 
         "ApplicationType": "EC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -6087,6 +6492,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "St. Nicholas FRESH Renewal", 
+        "CD": "M10", 
         "ApplicationType": "ZA", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6102,6 +6508,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "St. Nicholas FRESH Renewal", 
+        "CD": "M10", 
         "ApplicationType": "ZA", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6117,6 +6524,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "St. Nicholas FRESH Renewal", 
+        "CD": "M10", 
         "ApplicationType": "ZA", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6132,6 +6540,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "St. Nicholas FRESH Renewal", 
+        "CD": "M10", 
         "ApplicationType": "ZA", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6147,6 +6556,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "St. Nicholas FRESH Renewal", 
+        "CD": "M10", 
         "ApplicationType": "ZA", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6162,6 +6572,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "St. Nicholas FRESH Renewal", 
+        "CD": "M10", 
         "ApplicationType": "ZA", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6177,6 +6588,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "St. Nicholas FRESH Renewal", 
+        "CD": "M10", 
         "ApplicationType": "ZA", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6192,6 +6604,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "MOONSTRUCK DINER -NEW, PROPOSED", 
+        "CD": "M06", 
         "ApplicationType": "EC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -6207,6 +6620,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "66 Hudson Boulevard DIB and ERY Transfer", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6222,6 +6636,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "66 Hudson Boulevard DIB and ERY Transfer", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6237,6 +6652,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "66 Hudson Boulevard DIB and ERY Transfer", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6252,6 +6668,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "66 Hudson Boulevard DIB and ERY Transfer", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6267,6 +6684,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "66 Hudson Boulevard DIB and ERY Transfer", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6282,6 +6700,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "351 West 38th Street DIB", 
+        "CD": "M04", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6297,6 +6716,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "PHEBE'S-Renewal", 
+        "CD": "M03", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6312,6 +6732,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "WA-HI DINER- RENEWAL", 
+        "CD": "M12", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6327,6 +6748,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "MEXICAN FESTIVAL-RENEWAL", 
+        "CD": "M07", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6342,6 +6764,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "BABY BRASA- Change of Ownership", 
+        "CD": "M02", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6357,6 +6780,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "AINSWORTH PARK - RENEWAL", 
+        "CD": "M05", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6372,6 +6796,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "STROKOS - RENEWAL", 
+        "CD": "M09", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6387,6 +6812,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "BAYARD'S ALEHOUSE - RENEWAL", 
+        "CD": "M02", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6402,6 +6828,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "HIGHLANDS CAFI - RENEWAL", 
+        "CD": "M08", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6417,6 +6844,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "OLYMPIC FLAME DINER - RENEWAL", 
+        "CD": "M07", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6432,6 +6860,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "EATS - RENEWAL", 
+        "CD": "M08", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6447,6 +6876,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SILVER STAR RESTAURANT - RENEWAL", 
+        "CD": "M08", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6462,6 +6892,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "CAFI FRIDA - RENEWAL", 
+        "CD": "M07", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6477,6 +6908,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "GALWAY HOOKER BAR - RENEWAL", 
+        "CD": "M02", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6492,6 +6924,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "AGNANTI (New, 3 years after construction)", 
+        "CD": "Q01", 
         "ApplicationType": "EC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -6507,6 +6940,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "L'BELLA PIZZERIA -RENEWAL", 
+        "CD": "Q08", 
         "ApplicationType": "EC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -6522,6 +6956,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "TEQUILA SUNRISE-RENEWAL", 
+        "CD": "Q01", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6537,6 +6972,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "ASADERO LA FOGATA - RENEWAL", 
+        "CD": "Q04", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6552,6 +6988,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "LITE BITES CAFI & GRILL - RENEWAL", 
+        "CD": "Q01", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6567,6 +7004,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SAC'S PLACE - RENEWAL", 
+        "CD": "Q01", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6582,6 +7020,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "ALBA'S PIZZA & RESTAURANT - RENEWAL", 
+        "CD": "Q01", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6597,6 +7036,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "BAGEL PLUS - RENEWAL", 
+        "CD": "Q02", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6612,6 +7052,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "95 Louis Street", 
+        "CD": "R01", 
         "ApplicationType": "ZA", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -6627,6 +7068,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "29 Scribner Avenue - Restoration", 
+        "CD": "R01", 
         "ApplicationType": "ZC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -6642,6 +7084,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "46 East Loop Road 2017", 
+        "CD": "R02", 
         "ApplicationType": "ZA", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6657,6 +7100,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SD 146 Sprague Avenue (street issue)", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Land Use Application Revisions Filed"
       }
@@ -6672,6 +7116,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SD 271 Page Avenue", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Staten Island Joint Review Completed"
       }
@@ -6687,6 +7132,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "172 Nevada Avenue", 
+        "CD": "R02", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6702,6 +7148,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS SD 110 & 112 Weiner Street", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -6717,6 +7164,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS SD 116 & 122 Brighton Street", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -6732,6 +7180,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS SD 116 & 122 Brighton Street", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -6747,6 +7196,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS SD 500 King Street", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Post-Filed LU Draft Received"
       }
@@ -6762,6 +7212,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS SD 500 King Street", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Post-Filed LU Draft Received"
       }
@@ -6777,6 +7228,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS SD 6600 Hylan Boulevard", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -6792,6 +7244,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS SD Detroit Avenue", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Land Use Application Revisions Filed"
       }
@@ -6807,6 +7260,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS SD Billings Street", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -6822,6 +7276,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS SD Billings Street", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -6837,6 +7292,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SD 28, 30, 32, 34 Bamberger Lane", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -6852,6 +7308,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "4725 Independence Ave - Stein Residence -SNAD Cert", 
+        "CD": "X08", 
         "ApplicationType": "ZC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -6867,6 +7324,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "GEORGE'S RESTAURANT - RENEWAL", 
+        "CD": "X10", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6882,6 +7340,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "TOSCA CAFI - RENEWAL", 
+        "CD": "X10", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6897,6 +7356,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "KO SUSHI - NEW Ownership", 
+        "CD": "M08", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6912,6 +7372,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "MOONSTRUCK - RENEWAL", 
+        "CD": "M06", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6927,6 +7388,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "MEXICO LINDO - RENEWAL", 
+        "CD": "M06", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6942,6 +7404,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "MIMI's Restaurant - RENEWAL", 
+        "CD": "M06", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6957,6 +7420,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "MIMI's Restaurant - RENEWAL", 
+        "CD": "M06", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6972,6 +7436,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "TEQUERIA MEZ-A - RENEWAL", 
+        "CD": "M02", 
         "ApplicationType": "EC", 
         "Milestone": "Land Use Application Filed"
       }
@@ -6987,6 +7452,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SD 131 Rathbun Avenue", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -7002,6 +7468,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS 133 North Railroad Street", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Filed LU Appl Cmts Sent to Applicant"
       }
@@ -7017,6 +7484,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS 96 Ottavio Promenade", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -7032,6 +7500,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS 43 Ottavio Promenade", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -7047,6 +7516,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS 5, 11, 17, 23 Herbert Street", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -7062,6 +7532,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS 5, 11, 17, 23 Herbert Street", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -7077,6 +7548,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS 5, 11, 17, 23 Herbert Street", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -7092,6 +7564,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS 5, 11, 17, 23 Herbert Street", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -7107,6 +7580,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS 6233 Amboy Road", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -7122,6 +7596,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS 1452 Drumgoole Road West", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -7137,6 +7612,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS Torrice Loop & Richmond Valley Road renewal", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Land Use Application Revisions Filed"
       }
@@ -7152,6 +7628,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS 72 & 74 Harris Lane", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Borough Final Sign-Off Issued"
       }
@@ -7167,6 +7644,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SD 57 Canton Avenue", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -7182,6 +7660,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SS 61 Seguine Avenue", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Type II Determination Issued"
       }
@@ -7197,6 +7676,7 @@
       "type": "Feature", 
       "properties": {
         "ProjectName": "SD 41 & 43 Ramblewood Avenue", 
+        "CD": "R03", 
         "ApplicationType": "RC", 
         "Milestone": "Land Use Application Filed"
       }
