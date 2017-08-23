@@ -13,6 +13,7 @@
       "properties": {
         "Y_Coord": 194754, 
         "ProjectID": "P2012K0041", 
+        "ProjectName": "RHEINGOLD REZONING", 
         "X_Coord": 1002066, 
         "CD": "K04", 
         "Phase": "Post Certified/Referred", 
@@ -32,6 +33,7 @@
       "properties": {
         "Y_Coord": 194471, 
         "ProjectID": "P2012K0041", 
+        "ProjectName": "RHEINGOLD REZONING", 
         "X_Coord": 1002007, 
         "CD": "K04", 
         "Phase": "Post Certified/Referred", 
@@ -51,6 +53,7 @@
       "properties": {
         "Y_Coord": 191097, 
         "ProjectID": "P2012K0214", 
+        "ProjectName": "LIU SOCCER FIELD EXPANSION", 
         "X_Coord": 989907, 
         "CD": "K02", 
         "Phase": "Post Certified/Referred", 
@@ -70,6 +73,7 @@
       "properties": {
         "Y_Coord": 235258, 
         "ProjectID": "P2012M0278", 
+        "ProjectName": "600 Columbus Avenue", 
         "X_Coord": 1000412, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -89,6 +93,7 @@
       "properties": {
         "Y_Coord": 235138, 
         "ProjectID": "P2012M0278", 
+        "ProjectName": "600 Columbus Avenue", 
         "X_Coord": 1000478, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -108,6 +113,7 @@
       "properties": {
         "Y_Coord": 235101, 
         "ProjectID": "P2012M0278", 
+        "ProjectName": "600 Columbus Avenue", 
         "X_Coord": 1000705, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -127,6 +133,7 @@
       "properties": {
         "Y_Coord": 234993, 
         "ProjectID": "P2012M0278", 
+        "ProjectName": "600 Columbus Avenue", 
         "X_Coord": 1000961, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -146,6 +153,7 @@
       "properties": {
         "Y_Coord": 234868, 
         "ProjectID": "P2012M0278", 
+        "ProjectName": "600 Columbus Avenue", 
         "X_Coord": 1001110, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -165,6 +173,7 @@
       "properties": {
         "Y_Coord": 235122, 
         "ProjectID": "P2012M0278", 
+        "ProjectName": "600 Columbus Avenue", 
         "X_Coord": 1001235, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -184,6 +193,7 @@
       "properties": {
         "Y_Coord": 235300, 
         "ProjectID": "P2012M0278", 
+        "ProjectName": "600 Columbus Avenue", 
         "X_Coord": 1001367, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -203,6 +213,7 @@
       "properties": {
         "Y_Coord": 235320, 
         "ProjectID": "P2012M0278", 
+        "ProjectName": "600 Columbus Avenue", 
         "X_Coord": 1001180, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -222,6 +233,7 @@
       "properties": {
         "Y_Coord": 235476, 
         "ProjectID": "P2012M0278", 
+        "ProjectName": "600 Columbus Avenue", 
         "X_Coord": 1001152, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -241,6 +253,7 @@
       "properties": {
         "Y_Coord": 235516, 
         "ProjectID": "P2012M0278", 
+        "ProjectName": "600 Columbus Avenue", 
         "X_Coord": 1001081, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -260,6 +273,7 @@
       "properties": {
         "Y_Coord": 235510, 
         "ProjectID": "P2012M0278", 
+        "ProjectName": "600 Columbus Avenue", 
         "X_Coord": 1000813, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -279,6 +293,7 @@
       "properties": {
         "Y_Coord": 235628, 
         "ProjectID": "P2012M0278", 
+        "ProjectName": "600 Columbus Avenue", 
         "X_Coord": 1000616, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -298,6 +313,7 @@
       "properties": {
         "Y_Coord": 235376, 
         "ProjectID": "P2012M0278", 
+        "ProjectName": "600 Columbus Avenue", 
         "X_Coord": 1000592, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -317,6 +333,7 @@
       "properties": {
         "Y_Coord": 209853, 
         "ProjectID": "P2012M0297", 
+        "ProjectName": "Kips Bay Towers parking", 
         "X_Coord": 990982, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -336,6 +353,7 @@
       "properties": {
         "Y_Coord": 205666, 
         "ProjectID": "P2012Q0210", 
+        "ProjectName": "GUNN PARK MAPPING", 
         "X_Coord": 1058665, 
         "CD": "Q13", 
         "Phase": "Post Certified/Referred", 
@@ -355,6 +373,7 @@
       "properties": {
         "Y_Coord": 206000, 
         "ProjectID": "P2012Q0210", 
+        "ProjectName": "GUNN PARK MAPPING", 
         "X_Coord": 1058589, 
         "CD": "Q13", 
         "Phase": "Post Certified/Referred", 
@@ -374,6 +393,7 @@
       "properties": {
         "Y_Coord": 206006, 
         "ProjectID": "P2012Q0210", 
+        "ProjectName": "GUNN PARK MAPPING", 
         "X_Coord": 1059154, 
         "CD": "Q13", 
         "Phase": "Post Certified/Referred", 
@@ -393,6 +413,7 @@
       "properties": {
         "Y_Coord": 213114, 
         "ProjectID": "P2012Q0211", 
+        "ProjectName": "YESHIVA HAR TORAH-GRAND CENTRAL PARKWAY DEMAPPING", 
         "X_Coord": 1060876, 
         "CD": "Q13", 
         "Phase": "Post Certified/Referred", 
@@ -412,6 +433,7 @@
       "properties": {
         "Y_Coord": 166475, 
         "ProjectID": "P2012R0332", 
+        "ProjectName": "St. Peter's Cemetery", 
         "X_Coord": 951878, 
         "CD": "R01", 
         "Phase": "Post Certified/Referred", 
@@ -431,6 +453,7 @@
       "properties": {
         "Y_Coord": 166285, 
         "ProjectID": "P2012R0332", 
+        "ProjectName": "St. Peter's Cemetery", 
         "X_Coord": 952207, 
         "CD": "R01", 
         "Phase": "Post Certified/Referred", 
@@ -450,6 +473,7 @@
       "properties": {
         "Y_Coord": 245701, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1027988, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -469,6 +493,7 @@
       "properties": {
         "Y_Coord": 245710, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1027940, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -488,6 +513,7 @@
       "properties": {
         "Y_Coord": 245765, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1027909, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -507,6 +533,7 @@
       "properties": {
         "Y_Coord": 245805, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1027892, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -526,6 +553,7 @@
       "properties": {
         "Y_Coord": 245779, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1027838, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -545,6 +573,7 @@
       "properties": {
         "Y_Coord": 245817, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1027953, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -564,6 +593,7 @@
       "properties": {
         "Y_Coord": 245836, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1027982, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -583,6 +613,7 @@
       "properties": {
         "Y_Coord": 245775, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1027994, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -602,6 +633,7 @@
       "properties": {
         "Y_Coord": 245753, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1028020, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -621,6 +653,7 @@
       "properties": {
         "Y_Coord": 245724, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1028040, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -640,6 +673,7 @@
       "properties": {
         "Y_Coord": 245878, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1027787, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -659,6 +693,7 @@
       "properties": {
         "Y_Coord": 245978, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1027714, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -678,6 +713,7 @@
       "properties": {
         "Y_Coord": 246087, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1027715, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -697,6 +733,7 @@
       "properties": {
         "Y_Coord": 246085, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1027824, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -716,6 +753,7 @@
       "properties": {
         "Y_Coord": 246021, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1027857, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -735,6 +773,7 @@
       "properties": {
         "Y_Coord": 245973, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1027882, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -754,6 +793,7 @@
       "properties": {
         "Y_Coord": 245924, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1027908, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -773,6 +813,7 @@
       "properties": {
         "Y_Coord": 245796, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1028143, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -792,6 +833,7 @@
       "properties": {
         "Y_Coord": 245868, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1028108, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -811,6 +853,7 @@
       "properties": {
         "Y_Coord": 245965, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1028131, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -830,6 +873,7 @@
       "properties": {
         "Y_Coord": 245983, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1028047, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -849,6 +893,7 @@
       "properties": {
         "Y_Coord": 245865, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1028254, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -868,6 +913,7 @@
       "properties": {
         "Y_Coord": 245888, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1028250, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -887,6 +933,7 @@
       "properties": {
         "Y_Coord": 245940, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1028231, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -906,6 +953,7 @@
       "properties": {
         "Y_Coord": 246111, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1028052, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -925,6 +973,7 @@
       "properties": {
         "Y_Coord": 246325, 
         "ProjectID": "P2012X0046", 
+        "ProjectName": "Blondell Commons", 
         "X_Coord": 1028292, 
         "CD": "X10;X11", 
         "Phase": "Filed to Certified/Referred", 
@@ -944,6 +993,7 @@
       "properties": {
         "Y_Coord": 248294, 
         "ProjectID": "P2012X0156", 
+        "ProjectName": "PSAC II", 
         "X_Coord": 1028803, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -963,6 +1013,7 @@
       "properties": {
         "Y_Coord": 249399, 
         "ProjectID": "P2012X0156", 
+        "ProjectName": "PSAC II", 
         "X_Coord": 1028445, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -982,6 +1033,7 @@
       "properties": {
         "Y_Coord": 250430, 
         "ProjectID": "P2012X0156", 
+        "ProjectName": "PSAC II", 
         "X_Coord": 1029137, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -1001,6 +1053,7 @@
       "properties": {
         "Y_Coord": 148352, 
         "ProjectID": "P2013K0013", 
+        "ProjectName": "Coney Island East Map Split", 
         "X_Coord": 989049, 
         "CD": "K13", 
         "Phase": "Post Certified/Referred", 
@@ -1020,6 +1073,7 @@
       "properties": {
         "Y_Coord": 194873, 
         "ProjectID": "P2013K0309", 
+        "ProjectName": "Pfizer Sites Rezoning", 
         "X_Coord": 998365, 
         "CD": "K01", 
         "Phase": "Post Certified/Referred", 
@@ -1039,6 +1093,7 @@
       "properties": {
         "Y_Coord": 194887, 
         "ProjectID": "P2013K0309", 
+        "ProjectName": "Pfizer Sites Rezoning", 
         "X_Coord": 998248, 
         "CD": "K01", 
         "Phase": "Post Certified/Referred", 
@@ -1058,6 +1113,7 @@
       "properties": {
         "Y_Coord": 194744, 
         "ProjectID": "P2013K0309", 
+        "ProjectName": "Pfizer Sites Rezoning", 
         "X_Coord": 998116, 
         "CD": "K01", 
         "Phase": "Post Certified/Referred", 
@@ -1077,6 +1133,7 @@
       "properties": {
         "Y_Coord": 194580, 
         "ProjectID": "P2013K0309", 
+        "ProjectName": "Pfizer Sites Rezoning", 
         "X_Coord": 998311, 
         "CD": "K01", 
         "Phase": "Post Certified/Referred", 
@@ -1096,6 +1153,7 @@
       "properties": {
         "Y_Coord": 192954, 
         "ProjectID": "P2013K0511", 
+        "ProjectName": "205 Park Avenue Rezoning", 
         "X_Coord": 992311, 
         "CD": "K02", 
         "Phase": "Filed to Certified/Referred", 
@@ -1115,6 +1173,7 @@
       "properties": {
         "Y_Coord": 186477, 
         "ProjectID": "P2013K0549", 
+        "ProjectName": "1050 Pacific Street Rezoning", 
         "X_Coord": 995893, 
         "CD": "K08", 
         "Phase": "Filed to Certified/Referred", 
@@ -1134,6 +1193,7 @@
       "properties": {
         "Y_Coord": 211711, 
         "ProjectID": "P2013M0278", 
+        "ProjectName": "1250 Broadway POPS Redesign", 
         "X_Coord": 987610, 
         "CD": "M05", 
         "Phase": "Filed to Certified/Referred", 
@@ -1153,6 +1213,7 @@
       "properties": {
         "Y_Coord": 202229, 
         "ProjectID": "P2013M0287", 
+        "ProjectName": "23-25 Cleveland Place - Little Italy", 
         "X_Coord": 985080, 
         "CD": "M02", 
         "Phase": "Filed to Certified/Referred", 
@@ -1172,6 +1233,7 @@
       "properties": {
         "Y_Coord": 202253, 
         "ProjectID": "P2013M0287", 
+        "ProjectName": "23-25 Cleveland Place - Little Italy", 
         "X_Coord": 985087, 
         "CD": "M02", 
         "Phase": "Filed to Certified/Referred", 
@@ -1191,6 +1253,7 @@
       "properties": {
         "Y_Coord": 202709, 
         "ProjectID": "P2013M0332", 
+        "ProjectName": "85 Mercer Street - 74-781", 
         "X_Coord": 984187, 
         "CD": "M02", 
         "Phase": "Filed to Certified/Referred", 
@@ -1210,6 +1273,7 @@
       "properties": {
         "Y_Coord": 211288, 
         "ProjectID": "P2013Q0268", 
+        "ProjectName": "Vaux Road Demapping", 
         "X_Coord": 1010718, 
         "CD": "Q02", 
         "Phase": "Post Certified/Referred", 
@@ -1229,6 +1293,7 @@
       "properties": {
         "Y_Coord": 211330, 
         "ProjectID": "P2013Q0268", 
+        "ProjectName": "Vaux Road Demapping", 
         "X_Coord": 1010762, 
         "CD": "Q02", 
         "Phase": "Post Certified/Referred", 
@@ -1248,6 +1313,7 @@
       "properties": {
         "Y_Coord": 204985, 
         "ProjectID": "P2013Q0391", 
+        "ProjectName": "Dominican Diner", 
         "X_Coord": 1035353, 
         "CD": "Q08", 
         "Phase": "Filed to Certified/Referred", 
@@ -1267,6 +1333,7 @@
       "properties": {
         "Y_Coord": 218028, 
         "ProjectID": "P2013Q0393", 
+        "ProjectName": "Union Street Rezoning", 
         "X_Coord": 1031758, 
         "CD": "Q07", 
         "Phase": "Filed to Certified/Referred", 
@@ -1286,6 +1353,7 @@
       "properties": {
         "Y_Coord": 218069, 
         "ProjectID": "P2013Q0393", 
+        "ProjectName": "Union Street Rezoning", 
         "X_Coord": 1031788, 
         "CD": "Q07", 
         "Phase": "Filed to Certified/Referred", 
@@ -1305,6 +1373,7 @@
       "properties": {
         "Y_Coord": 218095, 
         "ProjectID": "P2013Q0393", 
+        "ProjectName": "Union Street Rezoning", 
         "X_Coord": 1031868, 
         "CD": "Q07", 
         "Phase": "Filed to Certified/Referred", 
@@ -1324,6 +1393,7 @@
       "properties": {
         "Y_Coord": 218048, 
         "ProjectID": "P2013Q0393", 
+        "ProjectName": "Union Street Rezoning", 
         "X_Coord": 1031831, 
         "CD": "Q07", 
         "Phase": "Filed to Certified/Referred", 
@@ -1343,6 +1413,7 @@
       "properties": {
         "Y_Coord": 218012, 
         "ProjectID": "P2013Q0393", 
+        "ProjectName": "Union Street Rezoning", 
         "X_Coord": 1031829, 
         "CD": "Q07", 
         "Phase": "Filed to Certified/Referred", 
@@ -1362,6 +1433,7 @@
       "properties": {
         "Y_Coord": 218081, 
         "ProjectID": "P2013Q0393", 
+        "ProjectName": "Union Street Rezoning", 
         "X_Coord": 1031825, 
         "CD": "Q07", 
         "Phase": "Filed to Certified/Referred", 
@@ -1381,6 +1453,7 @@
       "properties": {
         "Y_Coord": 132269, 
         "ProjectID": "P2013R0378", 
+        "ProjectName": "Bradford Avenue", 
         "X_Coord": 925835, 
         "CD": "R03", 
         "Phase": "Post Certified/Referred", 
@@ -1400,6 +1473,7 @@
       "properties": {
         "Y_Coord": 130486, 
         "ProjectID": "P2013R0420", 
+        "ProjectName": "Riverside Galleria (Waterfront Commons)", 
         "X_Coord": 917390, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -1419,6 +1493,7 @@
       "properties": {
         "Y_Coord": 129841, 
         "ProjectID": "P2013R0420", 
+        "ProjectName": "Riverside Galleria (Waterfront Commons)", 
         "X_Coord": 917251, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -1438,6 +1513,7 @@
       "properties": {
         "Y_Coord": 129501, 
         "ProjectID": "P2013R0420", 
+        "ProjectName": "Riverside Galleria (Waterfront Commons)", 
         "X_Coord": 916894, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -1457,6 +1533,7 @@
       "properties": {
         "Y_Coord": 129472, 
         "ProjectID": "P2013R0420", 
+        "ProjectName": "Riverside Galleria (Waterfront Commons)", 
         "X_Coord": 917394, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -1476,6 +1553,7 @@
       "properties": {
         "Y_Coord": 160426, 
         "ProjectID": "P2013R0448", 
+        "ProjectName": "3130 Victory Boulevard", 
         "X_Coord": 939054, 
         "CD": "R02", 
         "Phase": "Filed to Certified/Referred", 
@@ -1495,6 +1573,7 @@
       "properties": {
         "Y_Coord": 160413, 
         "ProjectID": "P2013R0448", 
+        "ProjectName": "3130 Victory Boulevard", 
         "X_Coord": 938964, 
         "CD": "R02", 
         "Phase": "Filed to Certified/Referred", 
@@ -1514,6 +1593,7 @@
       "properties": {
         "Y_Coord": 160405, 
         "ProjectID": "P2013R0448", 
+        "ProjectName": "3130 Victory Boulevard", 
         "X_Coord": 938902, 
         "CD": "R02", 
         "Phase": "Filed to Certified/Referred", 
@@ -1533,6 +1613,7 @@
       "properties": {
         "Y_Coord": 160396, 
         "ProjectID": "P2013R0448", 
+        "ProjectName": "3130 Victory Boulevard", 
         "X_Coord": 938841, 
         "CD": "R02", 
         "Phase": "Filed to Certified/Referred", 
@@ -1552,6 +1633,7 @@
       "properties": {
         "Y_Coord": 160387, 
         "ProjectID": "P2013R0448", 
+        "ProjectName": "3130 Victory Boulevard", 
         "X_Coord": 938779, 
         "CD": "R02", 
         "Phase": "Filed to Certified/Referred", 
@@ -1571,6 +1653,7 @@
       "properties": {
         "Y_Coord": 167280, 
         "ProjectID": "P2013R0540", 
+        "ProjectName": "South Avenue Retail Development", 
         "X_Coord": 937381, 
         "CD": "R01", 
         "Phase": "Post Certified/Referred", 
@@ -1590,6 +1673,7 @@
       "properties": {
         "Y_Coord": 167514, 
         "ProjectID": "P2013R0540", 
+        "ProjectName": "South Avenue Retail Development", 
         "X_Coord": 936817, 
         "CD": "R01", 
         "Phase": "Post Certified/Referred", 
@@ -1609,6 +1693,7 @@
       "properties": {
         "Y_Coord": 173480, 
         "ProjectID": "P2013R0545", 
+        "ProjectName": "5 Bement Avenue", 
         "X_Coord": 952767, 
         "CD": "R01", 
         "Phase": "Filed to Certified/Referred", 
@@ -1628,6 +1713,7 @@
       "properties": {
         "Y_Coord": 255703, 
         "ProjectID": "P2013X0014", 
+        "ProjectName": "City Island Bridge", 
         "X_Coord": 1040080, 
         "CD": "X10", 
         "Phase": "Post Certified/Referred", 
@@ -1647,6 +1733,7 @@
       "properties": {
         "Y_Coord": 265346, 
         "ProjectID": "P2013X0104", 
+        "ProjectName": "Bloomfield Development - SNAD", 
         "X_Coord": 1010941, 
         "CD": "X08", 
         "Phase": "Post Certified/Referred", 
@@ -1666,6 +1753,7 @@
       "properties": {
         "Y_Coord": 265447, 
         "ProjectID": "P2013X0104", 
+        "ProjectName": "Bloomfield Development - SNAD", 
         "X_Coord": 1010855, 
         "CD": "X08", 
         "Phase": "Post Certified/Referred", 
@@ -1685,6 +1773,7 @@
       "properties": {
         "Y_Coord": 265461, 
         "ProjectID": "P2013X0104", 
+        "ProjectName": "Bloomfield Development - SNAD", 
         "X_Coord": 1010966, 
         "CD": "X08", 
         "Phase": "Post Certified/Referred", 
@@ -1704,6 +1793,7 @@
       "properties": {
         "Y_Coord": 265551, 
         "ProjectID": "P2013X0104", 
+        "ProjectName": "Bloomfield Development - SNAD", 
         "X_Coord": 1011010, 
         "CD": "X08", 
         "Phase": "Post Certified/Referred", 
@@ -1723,6 +1813,7 @@
       "properties": {
         "Y_Coord": 245043, 
         "ProjectID": "P2013X0306", 
+        "ProjectName": "East 178th Street Demapping", 
         "X_Coord": 1019190, 
         "CD": "X06", 
         "Phase": "Filed to Certified/Referred", 
@@ -1742,6 +1833,7 @@
       "properties": {
         "Y_Coord": 149330, 
         "ProjectID": "P2014K0042", 
+        "ProjectName": "Sea Park North Rezoning", 
         "X_Coord": 985662, 
         "CD": "K13", 
         "Phase": "Filed to Certified/Referred", 
@@ -1761,6 +1853,7 @@
       "properties": {
         "Y_Coord": 187129, 
         "ProjectID": "P2014K0056", 
+        "ProjectName": "587 Bergen Street Rezoning", 
         "X_Coord": 992390, 
         "CD": "K08", 
         "Phase": "Post Certified/Referred", 
@@ -1780,6 +1873,7 @@
       "properties": {
         "Y_Coord": 187035, 
         "ProjectID": "P2014K0056", 
+        "ProjectName": "587 Bergen Street Rezoning", 
         "X_Coord": 992513, 
         "CD": "K08", 
         "Phase": "Post Certified/Referred", 
@@ -1799,6 +1893,7 @@
       "properties": {
         "Y_Coord": 187060, 
         "ProjectID": "P2014K0056", 
+        "ProjectName": "587 Bergen Street Rezoning", 
         "X_Coord": 992489, 
         "CD": "K08", 
         "Phase": "Post Certified/Referred", 
@@ -1818,6 +1913,7 @@
       "properties": {
         "Y_Coord": 187092, 
         "ProjectID": "P2014K0056", 
+        "ProjectName": "587 Bergen Street Rezoning", 
         "X_Coord": 992471, 
         "CD": "K08", 
         "Phase": "Post Certified/Referred", 
@@ -1837,6 +1933,7 @@
       "properties": {
         "Y_Coord": 191323, 
         "ProjectID": "P2014K0268", 
+        "ProjectName": "Willoughby Street Minor Modification", 
         "X_Coord": 988966, 
         "CD": "K02", 
         "Phase": "Post Certified/Referred", 
@@ -1856,6 +1953,7 @@
       "properties": {
         "Y_Coord": 148296, 
         "ProjectID": "P2014K0494", 
+        "ProjectName": "W 22nd - W 23rd St Coney Island Rezoning", 
         "X_Coord": 987332, 
         "CD": "K13", 
         "Phase": "Filed to Certified/Referred", 
@@ -1875,6 +1973,7 @@
       "properties": {
         "Y_Coord": 148227, 
         "ProjectID": "P2014K0494", 
+        "ProjectName": "W 22nd - W 23rd St Coney Island Rezoning", 
         "X_Coord": 987337, 
         "CD": "K13", 
         "Phase": "Filed to Certified/Referred", 
@@ -1894,6 +1993,7 @@
       "properties": {
         "Y_Coord": 148181, 
         "ProjectID": "P2014K0494", 
+        "ProjectName": "W 22nd - W 23rd St Coney Island Rezoning", 
         "X_Coord": 987232, 
         "CD": "K13", 
         "Phase": "Filed to Certified/Referred", 
@@ -1913,6 +2013,7 @@
       "properties": {
         "Y_Coord": 148211, 
         "ProjectID": "P2014K0494", 
+        "ProjectName": "W 22nd - W 23rd St Coney Island Rezoning", 
         "X_Coord": 987228, 
         "CD": "K13", 
         "Phase": "Filed to Certified/Referred", 
@@ -1932,6 +2033,7 @@
       "properties": {
         "Y_Coord": 148266, 
         "ProjectID": "P2014K0494", 
+        "ProjectName": "W 22nd - W 23rd St Coney Island Rezoning", 
         "X_Coord": 987331, 
         "CD": "K13", 
         "Phase": "Filed to Certified/Referred", 
@@ -1951,6 +2053,7 @@
       "properties": {
         "Y_Coord": 205294, 
         "ProjectID": "P2014K0530", 
+        "ProjectName": "13-15 Greenpoint Avenue", 
         "X_Coord": 995329, 
         "CD": "K01", 
         "Phase": "Post Certified/Referred", 
@@ -1970,6 +2073,7 @@
       "properties": {
         "Y_Coord": 205193, 
         "ProjectID": "P2014K0530", 
+        "ProjectName": "13-15 Greenpoint Avenue", 
         "X_Coord": 995301, 
         "CD": "K01", 
         "Phase": "Post Certified/Referred", 
@@ -1989,6 +2093,7 @@
       "properties": {
         "Y_Coord": 226685, 
         "ProjectID": "P2014M0055", 
+        "ProjectName": "600 Columbus Avenue", 
         "X_Coord": 992321, 
         "CD": "M07", 
         "Phase": "Filed to Certified/Referred", 
@@ -2008,6 +2113,7 @@
       "properties": {
         "Y_Coord": 210922, 
         "ProjectID": "P2014M0066", 
+        "ProjectName": "501-511 West 19th Street 98-35 II", 
         "X_Coord": 982504, 
         "CD": "M04", 
         "Phase": "Post Certified/Referred", 
@@ -2027,6 +2133,7 @@
       "properties": {
         "Y_Coord": 222949, 
         "ProjectID": "P2014M0265", 
+        "ProjectName": "301 East 87th Street (POPS)", 
         "X_Coord": 997877, 
         "CD": "M08", 
         "Phase": "Post Certified/Referred", 
@@ -2046,6 +2153,7 @@
       "properties": {
         "Y_Coord": 207117, 
         "ProjectID": "P2014M0458", 
+        "ProjectName": "West Village Houses & Perry St Garage", 
         "X_Coord": 982240, 
         "CD": "M02", 
         "Phase": "Post Certified/Referred", 
@@ -2065,6 +2173,7 @@
       "properties": {
         "Y_Coord": 202395, 
         "ProjectID": "P2014M0522", 
+        "ProjectName": "40 Wooster Street - 74-711", 
         "X_Coord": 983564, 
         "CD": "M02", 
         "Phase": "Post Certified/Referred", 
@@ -2084,6 +2193,7 @@
       "properties": {
         "Y_Coord": 182382, 
         "ProjectID": "P2014Q0293", 
+        "ProjectName": "100-03 North Conduit Avenue Rezoning", 
         "X_Coord": 1030363, 
         "CD": "Q10", 
         "Phase": "Filed to Certified/Referred", 
@@ -2103,6 +2213,7 @@
       "properties": {
         "Y_Coord": 182404, 
         "ProjectID": "P2014Q0293", 
+        "ProjectName": "100-03 North Conduit Avenue Rezoning", 
         "X_Coord": 1030302, 
         "CD": "Q10", 
         "Phase": "Filed to Certified/Referred", 
@@ -2122,6 +2233,7 @@
       "properties": {
         "Y_Coord": 182424, 
         "ProjectID": "P2014Q0293", 
+        "ProjectName": "100-03 North Conduit Avenue Rezoning", 
         "X_Coord": 1030231, 
         "CD": "Q10", 
         "Phase": "Filed to Certified/Referred", 
@@ -2141,6 +2253,7 @@
       "properties": {
         "Y_Coord": 182516, 
         "ProjectID": "P2014Q0293", 
+        "ProjectName": "100-03 North Conduit Avenue Rezoning", 
         "X_Coord": 1030272, 
         "CD": "Q10", 
         "Phase": "Filed to Certified/Referred", 
@@ -2160,6 +2273,7 @@
       "properties": {
         "Y_Coord": 157992, 
         "ProjectID": "P2014R0143", 
+        "ProjectName": "90 Old Farmers Lane", 
         "X_Coord": 955864, 
         "CD": "R02", 
         "Phase": "Post Certified/Referred", 
@@ -2179,6 +2293,7 @@
       "properties": {
         "Y_Coord": 156248, 
         "ProjectID": "P2014R0248", 
+        "ProjectName": "45 Helena Road", 
         "X_Coord": 953317, 
         "CD": "R02", 
         "Phase": "Post Certified/Referred", 
@@ -2198,6 +2313,7 @@
       "properties": {
         "Y_Coord": 149428, 
         "ProjectID": "P2014R0357", 
+        "ProjectName": "311 Lighthouse Avenue (street issue)", 
         "X_Coord": 945957, 
         "CD": "R02", 
         "Phase": "Filed to Certified/Referred", 
@@ -2217,6 +2333,7 @@
       "properties": {
         "Y_Coord": 126833, 
         "ProjectID": "P2014R0358", 
+        "ProjectName": "SD 7088 Amboy Road", 
         "X_Coord": 918940, 
         "CD": "R03", 
         "Phase": "Post Certified/Referred", 
@@ -2236,6 +2353,7 @@
       "properties": {
         "Y_Coord": 126759, 
         "ProjectID": "P2014R0358", 
+        "ProjectName": "SD 7088 Amboy Road", 
         "X_Coord": 919018, 
         "CD": "R03", 
         "Phase": "Post Certified/Referred", 
@@ -2255,6 +2373,7 @@
       "properties": {
         "Y_Coord": 126680, 
         "ProjectID": "P2014R0358", 
+        "ProjectName": "SD 7088 Amboy Road", 
         "X_Coord": 918930, 
         "CD": "R03", 
         "Phase": "Post Certified/Referred", 
@@ -2274,6 +2393,7 @@
       "properties": {
         "Y_Coord": 140150, 
         "ProjectID": "P2014R0552", 
+        "ProjectName": "Bartlett-Katan-Eltingville (street issue)", 
         "X_Coord": 937975, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -2293,6 +2413,7 @@
       "properties": {
         "Y_Coord": 140187, 
         "ProjectID": "P2014R0552", 
+        "ProjectName": "Bartlett-Katan-Eltingville (street issue)", 
         "X_Coord": 937968, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -2312,6 +2433,7 @@
       "properties": {
         "Y_Coord": 140222, 
         "ProjectID": "P2014R0552", 
+        "ProjectName": "Bartlett-Katan-Eltingville (street issue)", 
         "X_Coord": 937963, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -2331,6 +2453,7 @@
       "properties": {
         "Y_Coord": 140257, 
         "ProjectID": "P2014R0552", 
+        "ProjectName": "Bartlett-Katan-Eltingville (street issue)", 
         "X_Coord": 937957, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -2350,6 +2473,7 @@
       "properties": {
         "Y_Coord": 140293, 
         "ProjectID": "P2014R0552", 
+        "ProjectName": "Bartlett-Katan-Eltingville (street issue)", 
         "X_Coord": 937951, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -2369,6 +2493,7 @@
       "properties": {
         "Y_Coord": 140328, 
         "ProjectID": "P2014R0552", 
+        "ProjectName": "Bartlett-Katan-Eltingville (street issue)", 
         "X_Coord": 937945, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -2388,6 +2513,7 @@
       "properties": {
         "Y_Coord": 140209, 
         "ProjectID": "P2014R0552", 
+        "ProjectName": "Bartlett-Katan-Eltingville (street issue)", 
         "X_Coord": 938082, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -2407,6 +2533,7 @@
       "properties": {
         "Y_Coord": 248287, 
         "ProjectID": "P2014X0121", 
+        "ProjectName": "1776 Eastchester Road - Montefiore Staff Housing", 
         "X_Coord": 1027505, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -2426,6 +2553,7 @@
       "properties": {
         "Y_Coord": 247959, 
         "ProjectID": "P2014X0121", 
+        "ProjectName": "1776 Eastchester Road - Montefiore Staff Housing", 
         "X_Coord": 1027541, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -2445,6 +2573,7 @@
       "properties": {
         "Y_Coord": 247961, 
         "ProjectID": "P2014X0121", 
+        "ProjectName": "1776 Eastchester Road - Montefiore Staff Housing", 
         "X_Coord": 1027719, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -2464,6 +2593,7 @@
       "properties": {
         "Y_Coord": 247906, 
         "ProjectID": "P2014X0121", 
+        "ProjectName": "1776 Eastchester Road - Montefiore Staff Housing", 
         "X_Coord": 1027734, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -2483,6 +2613,7 @@
       "properties": {
         "Y_Coord": 248198, 
         "ProjectID": "P2014X0121", 
+        "ProjectName": "1776 Eastchester Road - Montefiore Staff Housing", 
         "X_Coord": 1027716, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -2502,6 +2633,7 @@
       "properties": {
         "Y_Coord": 248294, 
         "ProjectID": "P2014X0121", 
+        "ProjectName": "1776 Eastchester Road - Montefiore Staff Housing", 
         "X_Coord": 1028803, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -2521,6 +2653,7 @@
       "properties": {
         "Y_Coord": 249399, 
         "ProjectID": "P2014X0121", 
+        "ProjectName": "1776 Eastchester Road - Montefiore Staff Housing", 
         "X_Coord": 1028445, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -2540,6 +2673,7 @@
       "properties": {
         "Y_Coord": 247970, 
         "ProjectID": "P2014X0121", 
+        "ProjectName": "1776 Eastchester Road - Montefiore Staff Housing", 
         "X_Coord": 1027308, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -2559,6 +2693,7 @@
       "properties": {
         "Y_Coord": 247911, 
         "ProjectID": "P2014X0121", 
+        "ProjectName": "1776 Eastchester Road - Montefiore Staff Housing", 
         "X_Coord": 1027325, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -2578,6 +2713,7 @@
       "properties": {
         "Y_Coord": 247865, 
         "ProjectID": "P2014X0121", 
+        "ProjectName": "1776 Eastchester Road - Montefiore Staff Housing", 
         "X_Coord": 1027322, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -2597,6 +2733,7 @@
       "properties": {
         "Y_Coord": 247829, 
         "ProjectID": "P2014X0121", 
+        "ProjectName": "1776 Eastchester Road - Montefiore Staff Housing", 
         "X_Coord": 1027326, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -2616,6 +2753,7 @@
       "properties": {
         "Y_Coord": 247798, 
         "ProjectID": "P2014X0121", 
+        "ProjectName": "1776 Eastchester Road - Montefiore Staff Housing", 
         "X_Coord": 1027328, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -2635,6 +2773,7 @@
       "properties": {
         "Y_Coord": 247760, 
         "ProjectID": "P2014X0121", 
+        "ProjectName": "1776 Eastchester Road - Montefiore Staff Housing", 
         "X_Coord": 1027332, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -2654,6 +2793,7 @@
       "properties": {
         "Y_Coord": 248828, 
         "ProjectID": "P2014X0121", 
+        "ProjectName": "1776 Eastchester Road - Montefiore Staff Housing", 
         "X_Coord": 1027787, 
         "CD": "X11", 
         "Phase": "Post Certified/Referred", 
@@ -2673,6 +2813,7 @@
       "properties": {
         "Y_Coord": 189619, 
         "ProjectID": "P2015K0118", 
+        "ProjectName": "50 Nevins Street Rezoning", 
         "X_Coord": 989189, 
         "CD": "K02", 
         "Phase": "Post Certified/Referred", 
@@ -2692,6 +2833,7 @@
       "properties": {
         "Y_Coord": 194877, 
         "ProjectID": "P2015K0182", 
+        "ProjectName": "930 Flushing OEM Lease Renewal", 
         "X_Coord": 1002483, 
         "CD": "K04", 
         "Phase": "Post Certified/Referred", 
@@ -2711,6 +2853,7 @@
       "properties": {
         "Y_Coord": 192509, 
         "ProjectID": "P2015K0203", 
+        "ProjectName": "723-733 Myrtle Avenue Rezoning", 
         "X_Coord": 997108, 
         "CD": "K03", 
         "Phase": "Post Certified/Referred", 
@@ -2730,6 +2873,7 @@
       "properties": {
         "Y_Coord": 192519, 
         "ProjectID": "P2015K0203", 
+        "ProjectName": "723-733 Myrtle Avenue Rezoning", 
         "X_Coord": 997072, 
         "CD": "K03", 
         "Phase": "Post Certified/Referred", 
@@ -2749,6 +2893,7 @@
       "properties": {
         "Y_Coord": 192514, 
         "ProjectID": "P2015K0203", 
+        "ProjectName": "723-733 Myrtle Avenue Rezoning", 
         "X_Coord": 997042, 
         "CD": "K03", 
         "Phase": "Post Certified/Referred", 
@@ -2768,6 +2913,7 @@
       "properties": {
         "Y_Coord": 192509, 
         "ProjectID": "P2015K0203", 
+        "ProjectName": "723-733 Myrtle Avenue Rezoning", 
         "X_Coord": 997003, 
         "CD": "K03", 
         "Phase": "Post Certified/Referred", 
@@ -2787,6 +2933,7 @@
       "properties": {
         "Y_Coord": 192517, 
         "ProjectID": "P2015K0203", 
+        "ProjectName": "723-733 Myrtle Avenue Rezoning", 
         "X_Coord": 997057, 
         "CD": "K03", 
         "Phase": "Post Certified/Referred", 
@@ -2806,6 +2953,7 @@
       "properties": {
         "Y_Coord": 186686, 
         "ProjectID": "P2015K0351", 
+        "ProjectName": "1010 Pacific Street Rezoning", 
         "X_Coord": 995362, 
         "CD": "K08", 
         "Phase": "Filed to Certified/Referred", 
@@ -2825,6 +2973,7 @@
       "properties": {
         "Y_Coord": 186655, 
         "ProjectID": "P2015K0351", 
+        "ProjectName": "1010 Pacific Street Rezoning", 
         "X_Coord": 995474, 
         "CD": "K08", 
         "Phase": "Filed to Certified/Referred", 
@@ -2844,6 +2993,7 @@
       "properties": {
         "Y_Coord": 181383, 
         "ProjectID": "P2015K0354", 
+        "ProjectName": "All My Children Daycare 13&15 - 36 Ford St", 
         "X_Coord": 1003820, 
         "CD": "K09", 
         "Phase": "Post Certified/Referred", 
@@ -2863,6 +3013,7 @@
       "properties": {
         "Y_Coord": 161440, 
         "ProjectID": "P2015K0435", 
+        "ProjectName": "1220 Avenue P Rezoning", 
         "X_Coord": 994874, 
         "CD": "K15", 
         "Phase": "Filed to Certified/Referred", 
@@ -2882,6 +3033,7 @@
       "properties": {
         "Y_Coord": 161444, 
         "ProjectID": "P2015K0435", 
+        "ProjectName": "1220 Avenue P Rezoning", 
         "X_Coord": 994903, 
         "CD": "K15", 
         "Phase": "Filed to Certified/Referred", 
@@ -2901,6 +3053,7 @@
       "properties": {
         "Y_Coord": 161449, 
         "ProjectID": "P2015K0435", 
+        "ProjectName": "1220 Avenue P Rezoning", 
         "X_Coord": 994938, 
         "CD": "K15", 
         "Phase": "Filed to Certified/Referred", 
@@ -2920,6 +3073,7 @@
       "properties": {
         "Y_Coord": 161466, 
         "ProjectID": "P2015K0435", 
+        "ProjectName": "1220 Avenue P Rezoning", 
         "X_Coord": 995058, 
         "CD": "K15", 
         "Phase": "Filed to Certified/Referred", 
@@ -2939,6 +3093,7 @@
       "properties": {
         "Y_Coord": 161478, 
         "ProjectID": "P2015K0435", 
+        "ProjectName": "1220 Avenue P Rezoning", 
         "X_Coord": 995140, 
         "CD": "K15", 
         "Phase": "Filed to Certified/Referred", 
@@ -2958,6 +3113,7 @@
       "properties": {
         "Y_Coord": 161487, 
         "ProjectID": "P2015K0435", 
+        "ProjectName": "1220 Avenue P Rezoning", 
         "X_Coord": 995200, 
         "CD": "K15", 
         "Phase": "Filed to Certified/Referred", 
@@ -2977,6 +3133,7 @@
       "properties": {
         "Y_Coord": 161422, 
         "ProjectID": "P2015K0435", 
+        "ProjectName": "1220 Avenue P Rezoning", 
         "X_Coord": 995178, 
         "CD": "K15", 
         "Phase": "Filed to Certified/Referred", 
@@ -2996,6 +3153,7 @@
       "properties": {
         "Y_Coord": 161402, 
         "ProjectID": "P2015K0435", 
+        "ProjectName": "1220 Avenue P Rezoning", 
         "X_Coord": 995181, 
         "CD": "K15", 
         "Phase": "Filed to Certified/Referred", 
@@ -3015,6 +3173,7 @@
       "properties": {
         "Y_Coord": 176089, 
         "ProjectID": "P2015K0450", 
+        "ProjectName": "57 Caton Place Rezoning", 
         "X_Coord": 991696, 
         "CD": "K07", 
         "Phase": "Filed to Certified/Referred", 
@@ -3034,6 +3193,7 @@
       "properties": {
         "Y_Coord": 185194, 
         "ProjectID": "P2015K0481", 
+        "ProjectName": "671 Prospect Place- Friends of Crown Heights 2", 
         "X_Coord": 997015, 
         "CD": "K08", 
         "Phase": "Post Certified/Referred", 
@@ -3053,6 +3213,7 @@
       "properties": {
         "Y_Coord": 178667, 
         "ProjectID": "P2015K0526", 
+        "ProjectName": "Ebenezer Plaza Rezoning", 
         "X_Coord": 1011055, 
         "CD": "K16", 
         "Phase": "Post Certified/Referred", 
@@ -3072,6 +3233,7 @@
       "properties": {
         "Y_Coord": 178678, 
         "ProjectID": "P2015K0526", 
+        "ProjectName": "Ebenezer Plaza Rezoning", 
         "X_Coord": 1011084, 
         "CD": "K16", 
         "Phase": "Post Certified/Referred", 
@@ -3091,6 +3253,7 @@
       "properties": {
         "Y_Coord": 178686, 
         "ProjectID": "P2015K0526", 
+        "ProjectName": "Ebenezer Plaza Rezoning", 
         "X_Coord": 1011103, 
         "CD": "K16", 
         "Phase": "Post Certified/Referred", 
@@ -3110,6 +3273,7 @@
       "properties": {
         "Y_Coord": 178693, 
         "ProjectID": "P2015K0526", 
+        "ProjectName": "Ebenezer Plaza Rezoning", 
         "X_Coord": 1011121, 
         "CD": "K16", 
         "Phase": "Post Certified/Referred", 
@@ -3129,6 +3293,7 @@
       "properties": {
         "Y_Coord": 178716, 
         "ProjectID": "P2015K0526", 
+        "ProjectName": "Ebenezer Plaza Rezoning", 
         "X_Coord": 1011181, 
         "CD": "K16", 
         "Phase": "Post Certified/Referred", 
@@ -3148,6 +3313,7 @@
       "properties": {
         "Y_Coord": 178794, 
         "ProjectID": "P2015K0526", 
+        "ProjectName": "Ebenezer Plaza Rezoning", 
         "X_Coord": 1011384, 
         "CD": "K16", 
         "Phase": "Post Certified/Referred", 
@@ -3167,6 +3333,7 @@
       "properties": {
         "Y_Coord": 178888, 
         "ProjectID": "P2015K0526", 
+        "ProjectName": "Ebenezer Plaza Rezoning", 
         "X_Coord": 1011628, 
         "CD": "K16", 
         "Phase": "Post Certified/Referred", 
@@ -3186,6 +3353,7 @@
       "properties": {
         "Y_Coord": 162870, 
         "ProjectID": "P2015K0533", 
+        "ProjectName": "New York Community Hospital of Brooklyn", 
         "X_Coord": 998432, 
         "CD": "K14", 
         "Phase": "Filed to Certified/Referred", 
@@ -3205,6 +3373,7 @@
       "properties": {
         "Y_Coord": 162946, 
         "ProjectID": "P2015K0533", 
+        "ProjectName": "New York Community Hospital of Brooklyn", 
         "X_Coord": 998549, 
         "CD": "K14", 
         "Phase": "Filed to Certified/Referred", 
@@ -3224,6 +3393,7 @@
       "properties": {
         "Y_Coord": 170475, 
         "ProjectID": "P2015K0537", 
+        "ProjectName": "6208 8th Avenue (SP 74-681)", 
         "X_Coord": 980885, 
         "CD": "K10", 
         "Phase": "Filed to Certified/Referred", 
@@ -3243,6 +3413,7 @@
       "properties": {
         "Y_Coord": 200541, 
         "ProjectID": "P2015M0120", 
+        "ProjectName": "66 Allen Street", 
         "X_Coord": 986717, 
         "CD": "M03", 
         "Phase": "Filed to Certified/Referred", 
@@ -3262,6 +3433,7 @@
       "properties": {
         "Y_Coord": 201886, 
         "ProjectID": "P2015M0195", 
+        "ProjectName": "462 Broadway", 
         "X_Coord": 984224, 
         "CD": "M02", 
         "Phase": "Post Certified/Referred", 
@@ -3281,6 +3453,7 @@
       "properties": {
         "Y_Coord": 209863, 
         "ProjectID": "P2015M0200", 
+        "ProjectName": "116 West 23rd Street (Burlington sign)", 
         "X_Coord": 986040, 
         "CD": "M04", 
         "Phase": "Filed to Certified/Referred", 
@@ -3300,6 +3473,7 @@
       "properties": {
         "Y_Coord": 255812, 
         "ProjectID": "P2015M0208", 
+        "ProjectName": "Seaman Avenue Rezoning", 
         "X_Coord": 1005303, 
         "CD": "M12", 
         "Phase": "Post Certified/Referred", 
@@ -3319,6 +3493,7 @@
       "properties": {
         "Y_Coord": 255800, 
         "ProjectID": "P2015M0208", 
+        "ProjectName": "Seaman Avenue Rezoning", 
         "X_Coord": 1005267, 
         "CD": "M12", 
         "Phase": "Post Certified/Referred", 
@@ -3338,6 +3513,7 @@
       "properties": {
         "Y_Coord": 255791, 
         "ProjectID": "P2015M0208", 
+        "ProjectName": "Seaman Avenue Rezoning", 
         "X_Coord": 1005243, 
         "CD": "M12", 
         "Phase": "Post Certified/Referred", 
@@ -3357,6 +3533,7 @@
       "properties": {
         "Y_Coord": 255758, 
         "ProjectID": "P2015M0208", 
+        "ProjectName": "Seaman Avenue Rezoning", 
         "X_Coord": 1005158, 
         "CD": "M12", 
         "Phase": "Post Certified/Referred", 
@@ -3376,6 +3553,7 @@
       "properties": {
         "Y_Coord": 255817, 
         "ProjectID": "P2015M0208", 
+        "ProjectName": "Seaman Avenue Rezoning", 
         "X_Coord": 1005351, 
         "CD": "M12", 
         "Phase": "Post Certified/Referred", 
@@ -3395,6 +3573,7 @@
       "properties": {
         "Y_Coord": 234887, 
         "ProjectID": "P2015M0236", 
+        "ProjectName": "The Robeson 407 Lenox Avenue", 
         "X_Coord": 999934, 
         "CD": "M10", 
         "Phase": "Post Certified/Referred", 
@@ -3414,6 +3593,7 @@
       "properties": {
         "Y_Coord": 234908, 
         "ProjectID": "P2015M0236", 
+        "ProjectName": "The Robeson 407 Lenox Avenue", 
         "X_Coord": 999946, 
         "CD": "M10", 
         "Phase": "Post Certified/Referred", 
@@ -3433,6 +3613,7 @@
       "properties": {
         "Y_Coord": 234931, 
         "ProjectID": "P2015M0236", 
+        "ProjectName": "The Robeson 407 Lenox Avenue", 
         "X_Coord": 999958, 
         "CD": "M10", 
         "Phase": "Post Certified/Referred", 
@@ -3452,6 +3633,7 @@
       "properties": {
         "Y_Coord": 234956, 
         "ProjectID": "P2015M0236", 
+        "ProjectName": "The Robeson 407 Lenox Avenue", 
         "X_Coord": 999972, 
         "CD": "M10", 
         "Phase": "Post Certified/Referred", 
@@ -3471,6 +3653,7 @@
       "properties": {
         "Y_Coord": 234979, 
         "ProjectID": "P2015M0236", 
+        "ProjectName": "The Robeson 407 Lenox Avenue", 
         "X_Coord": 999985, 
         "CD": "M10", 
         "Phase": "Post Certified/Referred", 
@@ -3490,6 +3673,7 @@
       "properties": {
         "Y_Coord": 237777, 
         "ProjectID": "P2015M0237", 
+        "ProjectName": "The Leroy 225 West 140th Street", 
         "X_Coord": 1000088, 
         "CD": "M10", 
         "Phase": "Post Certified/Referred", 
@@ -3509,6 +3693,7 @@
       "properties": {
         "Y_Coord": 218729, 
         "ProjectID": "P2015M0258", 
+        "ProjectName": "220 Central Park South parking special permit", 
         "X_Coord": 989527, 
         "CD": "M05", 
         "Phase": "Post Certified/Referred", 
@@ -3528,6 +3713,7 @@
       "properties": {
         "Y_Coord": 218717, 
         "ProjectID": "P2015M0258", 
+        "ProjectName": "220 Central Park South parking special permit", 
         "X_Coord": 989549, 
         "CD": "M05", 
         "Phase": "Post Certified/Referred", 
@@ -3547,6 +3733,7 @@
       "properties": {
         "Y_Coord": 218699, 
         "ProjectID": "P2015M0258", 
+        "ProjectName": "220 Central Park South parking special permit", 
         "X_Coord": 989583, 
         "CD": "M05", 
         "Phase": "Post Certified/Referred", 
@@ -3566,6 +3753,7 @@
       "properties": {
         "Y_Coord": 218674, 
         "ProjectID": "P2015M0258", 
+        "ProjectName": "220 Central Park South parking special permit", 
         "X_Coord": 989674, 
         "CD": "M05", 
         "Phase": "Post Certified/Referred", 
@@ -3585,6 +3773,7 @@
       "properties": {
         "Y_Coord": 202660, 
         "ProjectID": "P2015M0282", 
+        "ProjectName": "62 Greene Street 74-711", 
         "X_Coord": 984032, 
         "CD": "M02", 
         "Phase": "Post Certified/Referred", 
@@ -3604,6 +3793,7 @@
       "properties": {
         "Y_Coord": 204980, 
         "ProjectID": "P2015M0289", 
+        "ProjectName": "53 Downing Street authorization", 
         "X_Coord": 983031, 
         "CD": "M02", 
         "Phase": "Post Certified/Referred", 
@@ -3623,6 +3813,7 @@
       "properties": {
         "Y_Coord": 233168, 
         "ProjectID": "P2015M0359", 
+        "ProjectName": "Harlem Renaissance 2012 NBT Way Project", 
         "X_Coord": 1000386, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -3642,6 +3833,7 @@
       "properties": {
         "Y_Coord": 216491, 
         "ProjectID": "P2015M0410", 
+        "ProjectName": "235 West 48th Street cafi chair cert", 
         "X_Coord": 988103, 
         "CD": "M05", 
         "Phase": "Post Certified/Referred", 
@@ -3661,6 +3853,7 @@
       "properties": {
         "Y_Coord": 204096, 
         "ProjectID": "P2015M0426", 
+        "ProjectName": "325 Hudson Street - Chair Cert", 
         "X_Coord": 982059, 
         "CD": "M02", 
         "Phase": "Filed to Certified/Referred", 
@@ -3680,6 +3873,7 @@
       "properties": {
         "Y_Coord": 235281, 
         "ProjectID": "P2015M0428", 
+        "ProjectName": "2380 Frederick Douglass Boulevard", 
         "X_Coord": 998128, 
         "CD": "M10", 
         "Phase": "Post Certified/Referred", 
@@ -3699,6 +3893,7 @@
       "properties": {
         "Y_Coord": 235324, 
         "ProjectID": "P2015M0428", 
+        "ProjectName": "2380 Frederick Douglass Boulevard", 
         "X_Coord": 998155, 
         "CD": "M10", 
         "Phase": "Post Certified/Referred", 
@@ -3718,6 +3913,7 @@
       "properties": {
         "Y_Coord": 235357, 
         "ProjectID": "P2015M0428", 
+        "ProjectName": "2380 Frederick Douglass Boulevard", 
         "X_Coord": 998173, 
         "CD": "M10", 
         "Phase": "Post Certified/Referred", 
@@ -3737,6 +3933,7 @@
       "properties": {
         "Y_Coord": 217481, 
         "ProjectID": "P2015M0448", 
+        "ProjectName": "GM Plaza Design Change Cert", 
         "X_Coord": 991886, 
         "CD": "M05", 
         "Phase": "Filed to Certified/Referred", 
@@ -3756,6 +3953,7 @@
       "properties": {
         "Y_Coord": 199324, 
         "ProjectID": "P2015M0542", 
+        "ProjectName": "140 West Street Rooftop Rec Waiver", 
         "X_Coord": 980664, 
         "CD": "M01", 
         "Phase": "Filed to Certified/Referred", 
@@ -3775,6 +3973,7 @@
       "properties": {
         "Y_Coord": 227978, 
         "ProjectID": "P2015M0553", 
+        "ProjectName": "Columbus House Enlargement (95 West 95th St)", 
         "X_Coord": 993301, 
         "CD": "M07", 
         "Phase": "Filed to Certified/Referred", 
@@ -3794,6 +3993,7 @@
       "properties": {
         "Y_Coord": 212910, 
         "ProjectID": "P2015M0560", 
+        "ProjectName": "675 Third Ave - POPS Redesign 37-625", 
         "X_Coord": 991491, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -3813,6 +4013,7 @@
       "properties": {
         "Y_Coord": 215583, 
         "ProjectID": "P2015M0564", 
+        "ProjectName": "601 Lexington Ave - POPS Redesign", 
         "X_Coord": 992551, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -3832,6 +4033,7 @@
       "properties": {
         "Y_Coord": 217956, 
         "ProjectID": "P2015Q0168", 
+        "ProjectName": "135-01 35th Av Rezoning", 
         "X_Coord": 1030915, 
         "CD": "Q07", 
         "Phase": "Post Certified/Referred", 
@@ -3851,6 +4053,7 @@
       "properties": {
         "Y_Coord": 218027, 
         "ProjectID": "P2015Q0168", 
+        "ProjectName": "135-01 35th Av Rezoning", 
         "X_Coord": 1030878, 
         "CD": "Q07", 
         "Phase": "Post Certified/Referred", 
@@ -3870,6 +4073,7 @@
       "properties": {
         "Y_Coord": 218005, 
         "ProjectID": "P2015Q0168", 
+        "ProjectName": "135-01 35th Av Rezoning", 
         "X_Coord": 1031032, 
         "CD": "Q07", 
         "Phase": "Post Certified/Referred", 
@@ -3889,6 +4093,7 @@
       "properties": {
         "Y_Coord": 209486, 
         "ProjectID": "P2015Q0480", 
+        "ProjectName": "193-02 Horace Harding Expy Special Permit Mod", 
         "X_Coord": 1044473, 
         "CD": "Q08", 
         "Phase": "Post Certified/Referred", 
@@ -3908,6 +4113,7 @@
       "properties": {
         "Y_Coord": 187050, 
         "ProjectID": "P2015Q0535", 
+        "ProjectName": "All My Children Daycare 6 (continued use)", 
         "X_Coord": 1041831, 
         "CD": "Q12", 
         "Phase": "Post Certified/Referred", 
@@ -3927,6 +4133,7 @@
       "properties": {
         "Y_Coord": 212621, 
         "ProjectID": "P2015Q0557", 
+        "ProjectName": "Bank of Manhattan, LIC Clocktower Building", 
         "X_Coord": 1001921, 
         "CD": "Q01", 
         "Phase": "Post Certified/Referred", 
@@ -3946,6 +4153,7 @@
       "properties": {
         "Y_Coord": 212532, 
         "ProjectID": "P2015Q0557", 
+        "ProjectName": "Bank of Manhattan, LIC Clocktower Building", 
         "X_Coord": 1001887, 
         "CD": "Q01", 
         "Phase": "Post Certified/Referred", 
@@ -3965,6 +4173,7 @@
       "properties": {
         "Y_Coord": 212522, 
         "ProjectID": "P2015Q0557", 
+        "ProjectName": "Bank of Manhattan, LIC Clocktower Building", 
         "X_Coord": 1001935, 
         "CD": "Q01", 
         "Phase": "Post Certified/Referred", 
@@ -3984,6 +4193,7 @@
       "properties": {
         "Y_Coord": 160844, 
         "ProjectID": "P2015R0172", 
+        "ProjectName": "134 Milden Avenue - Restoration", 
         "X_Coord": 957256, 
         "CD": "R02", 
         "Phase": "Post Certified/Referred", 
@@ -4003,6 +4213,7 @@
       "properties": {
         "Y_Coord": 145506, 
         "ProjectID": "P2015R0279", 
+        "ProjectName": "The Boulevard at Hylan Plaza", 
         "X_Coord": 953292, 
         "CD": "R02", 
         "Phase": "Post Certified/Referred", 
@@ -4022,6 +4233,7 @@
       "properties": {
         "Y_Coord": 145704, 
         "ProjectID": "P2015R0279", 
+        "ProjectName": "The Boulevard at Hylan Plaza", 
         "X_Coord": 952801, 
         "CD": "R02", 
         "Phase": "Post Certified/Referred", 
@@ -4041,6 +4253,7 @@
       "properties": {
         "Y_Coord": 145770, 
         "ProjectID": "P2015R0279", 
+        "ProjectName": "The Boulevard at Hylan Plaza", 
         "X_Coord": 953733, 
         "CD": "R02", 
         "Phase": "Post Certified/Referred", 
@@ -4060,6 +4273,7 @@
       "properties": {
         "Y_Coord": 146027, 
         "ProjectID": "P2015R0279", 
+        "ProjectName": "The Boulevard at Hylan Plaza", 
         "X_Coord": 953303, 
         "CD": "R02", 
         "Phase": "Post Certified/Referred", 
@@ -4079,6 +4293,7 @@
       "properties": {
         "Y_Coord": 129863, 
         "ProjectID": "P2015R0303", 
+        "ProjectName": "SD Outerbridge Commons Subdivision (Lots 17 & 80)", 
         "X_Coord": 918778, 
         "CD": "R03", 
         "Phase": "Post Certified/Referred", 
@@ -4098,6 +4313,7 @@
       "properties": {
         "Y_Coord": 130301, 
         "ProjectID": "P2015R0303", 
+        "ProjectName": "SD Outerbridge Commons Subdivision (Lots 17 & 80)", 
         "X_Coord": 918637, 
         "CD": "R03", 
         "Phase": "Post Certified/Referred", 
@@ -4117,6 +4333,7 @@
       "properties": {
         "Y_Coord": 152910, 
         "ProjectID": "P2015R0361", 
+        "ProjectName": "991 Todt Hill Road", 
         "X_Coord": 953672, 
         "CD": "R02", 
         "Phase": "Post Certified/Referred", 
@@ -4136,6 +4353,7 @@
       "properties": {
         "Y_Coord": 247800, 
         "ProjectID": "P2015X0113", 
+        "ProjectName": "ANGELO'S DONUT (Renewal)", 
         "X_Coord": 1030646, 
         "CD": "X10", 
         "Phase": "Filed to Certified/Referred", 
@@ -4155,6 +4373,7 @@
       "properties": {
         "Y_Coord": 241364, 
         "ProjectID": "P2015X0219", 
+        "ProjectName": "Unionport Bridge Replacement", 
         "X_Coord": 1027468, 
         "CD": "X09;X10", 
         "Phase": "Post Certified/Referred", 
@@ -4174,6 +4393,7 @@
       "properties": {
         "Y_Coord": 240976, 
         "ProjectID": "P2015X0285", 
+        "ProjectName": "Watson Avenue Rezoning", 
         "X_Coord": 1020820, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -4193,6 +4413,7 @@
       "properties": {
         "Y_Coord": 237341, 
         "ProjectID": "P2015X0333", 
+        "ProjectName": "Sheltering Arms DCC-245 E.149th St.-aka 565 Morris", 
         "X_Coord": 1005363, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -4212,6 +4433,7 @@
       "properties": {
         "Y_Coord": 239605, 
         "ProjectID": "P2015X0367", 
+        "ProjectName": "IOLA DCC - 161st Street (continued use)", 
         "X_Coord": 1008352, 
         "CD": "X03", 
         "Phase": "Post Certified/Referred", 
@@ -4231,6 +4453,7 @@
       "properties": {
         "Y_Coord": 242984, 
         "ProjectID": "P2015X0380", 
+        "ProjectName": "Westchester Mews - Rezoning", 
         "X_Coord": 1024294, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -4250,6 +4473,7 @@
       "properties": {
         "Y_Coord": 243019, 
         "ProjectID": "P2015X0380", 
+        "ProjectName": "Westchester Mews - Rezoning", 
         "X_Coord": 1024386, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -4269,6 +4493,7 @@
       "properties": {
         "Y_Coord": 242964, 
         "ProjectID": "P2015X0380", 
+        "ProjectName": "Westchester Mews - Rezoning", 
         "X_Coord": 1024418, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -4288,6 +4513,7 @@
       "properties": {
         "Y_Coord": 242864, 
         "ProjectID": "P2015X0380", 
+        "ProjectName": "Westchester Mews - Rezoning", 
         "X_Coord": 1024413, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -4307,6 +4533,7 @@
       "properties": {
         "Y_Coord": 242851, 
         "ProjectID": "P2015X0380", 
+        "ProjectName": "Westchester Mews - Rezoning", 
         "X_Coord": 1024335, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -4326,6 +4553,7 @@
       "properties": {
         "Y_Coord": 242845, 
         "ProjectID": "P2015X0380", 
+        "ProjectName": "Westchester Mews - Rezoning", 
         "X_Coord": 1024301, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -4345,6 +4573,7 @@
       "properties": {
         "Y_Coord": 242766, 
         "ProjectID": "P2015X0380", 
+        "ProjectName": "Westchester Mews - Rezoning", 
         "X_Coord": 1024016, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -4364,6 +4593,7 @@
       "properties": {
         "Y_Coord": 242762, 
         "ProjectID": "P2015X0380", 
+        "ProjectName": "Westchester Mews - Rezoning", 
         "X_Coord": 1023994, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -4383,6 +4613,7 @@
       "properties": {
         "Y_Coord": 242758, 
         "ProjectID": "P2015X0380", 
+        "ProjectName": "Westchester Mews - Rezoning", 
         "X_Coord": 1023974, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -4402,6 +4633,7 @@
       "properties": {
         "Y_Coord": 242754, 
         "ProjectID": "P2015X0380", 
+        "ProjectName": "Westchester Mews - Rezoning", 
         "X_Coord": 1023953, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -4421,6 +4653,7 @@
       "properties": {
         "Y_Coord": 242751, 
         "ProjectID": "P2015X0380", 
+        "ProjectName": "Westchester Mews - Rezoning", 
         "X_Coord": 1023933, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -4440,6 +4673,7 @@
       "properties": {
         "Y_Coord": 242747, 
         "ProjectID": "P2015X0380", 
+        "ProjectName": "Westchester Mews - Rezoning", 
         "X_Coord": 1023911, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -4459,6 +4693,7 @@
       "properties": {
         "Y_Coord": 242759, 
         "ProjectID": "P2015X0380", 
+        "ProjectName": "Westchester Mews - Rezoning", 
         "X_Coord": 1023798, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -4478,6 +4713,7 @@
       "properties": {
         "Y_Coord": 242821, 
         "ProjectID": "P2015X0380", 
+        "ProjectName": "Westchester Mews - Rezoning", 
         "X_Coord": 1024184, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -4497,6 +4733,7 @@
       "properties": {
         "Y_Coord": 242963, 
         "ProjectID": "P2015X0380", 
+        "ProjectName": "Westchester Mews - Rezoning", 
         "X_Coord": 1024196, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -4516,6 +4753,7 @@
       "properties": {
         "Y_Coord": 267796, 
         "ProjectID": "P2015X0434", 
+        "ProjectName": "Rosenberg Residence - 5264 Independence Ave - SNAD", 
         "X_Coord": 1009168, 
         "CD": "X08", 
         "Phase": "Post Certified/Referred", 
@@ -4535,6 +4773,7 @@
       "properties": {
         "Y_Coord": 246343, 
         "ProjectID": "P2015X0566", 
+        "ProjectName": "Westchester Avenue Bridge", 
         "X_Coord": 1028774, 
         "CD": "X10;X11", 
         "Phase": "Post Certified/Referred", 
@@ -4554,6 +4793,7 @@
       "properties": {
         "Y_Coord": 184841, 
         "ProjectID": "P2016K0004", 
+        "ProjectName": "Albany Neighborhood Senior Center (continued use)", 
         "X_Coord": 1001099, 
         "CD": "K08", 
         "Phase": "Post Certified/Referred", 
@@ -4573,6 +4813,7 @@
       "properties": {
         "Y_Coord": 186740, 
         "ProjectID": "P2016K0053", 
+        "ProjectName": "120 Fifth Avenue", 
         "X_Coord": 990052, 
         "CD": "K06", 
         "Phase": "Post Certified/Referred", 
@@ -4592,6 +4833,7 @@
       "properties": {
         "Y_Coord": 188934, 
         "ProjectID": "P2016K0054", 
+        "ProjectName": "343 Warren St - ACS (Continued Use)", 
         "X_Coord": 986962, 
         "CD": "K02", 
         "Phase": "Post Certified/Referred", 
@@ -4611,6 +4853,7 @@
       "properties": {
         "Y_Coord": 180275, 
         "ProjectID": "P2016K0082", 
+        "ProjectName": "Edwin's Place", 
         "X_Coord": 1007034, 
         "CD": "K16", 
         "Phase": "Post Certified/Referred", 
@@ -4630,6 +4873,7 @@
       "properties": {
         "Y_Coord": 201572, 
         "ProjectID": "P2016K0119", 
+        "ProjectName": "116 Bedford Avenue", 
         "X_Coord": 996494, 
         "CD": "K01", 
         "Phase": "Post Certified/Referred", 
@@ -4649,6 +4893,7 @@
       "properties": {
         "Y_Coord": 201552, 
         "ProjectID": "P2016K0119", 
+        "ProjectName": "116 Bedford Avenue", 
         "X_Coord": 996478, 
         "CD": "K01", 
         "Phase": "Post Certified/Referred", 
@@ -4668,6 +4913,7 @@
       "properties": {
         "Y_Coord": 201532, 
         "ProjectID": "P2016K0119", 
+        "ProjectName": "116 Bedford Avenue", 
         "X_Coord": 996462, 
         "CD": "K01", 
         "Phase": "Post Certified/Referred", 
@@ -4687,6 +4933,7 @@
       "properties": {
         "Y_Coord": 201512, 
         "ProjectID": "P2016K0119", 
+        "ProjectName": "116 Bedford Avenue", 
         "X_Coord": 996445, 
         "CD": "K01", 
         "Phase": "Post Certified/Referred", 
@@ -4706,6 +4953,7 @@
       "properties": {
         "Y_Coord": 201485, 
         "ProjectID": "P2016K0119", 
+        "ProjectName": "116 Bedford Avenue", 
         "X_Coord": 996438, 
         "CD": "K01", 
         "Phase": "Post Certified/Referred", 
@@ -4725,6 +4973,7 @@
       "properties": {
         "Y_Coord": 201518, 
         "ProjectID": "P2016K0119", 
+        "ProjectName": "116 Bedford Avenue", 
         "X_Coord": 996399, 
         "CD": "K01", 
         "Phase": "Post Certified/Referred", 
@@ -4744,6 +4993,7 @@
       "properties": {
         "Y_Coord": 192677, 
         "ProjectID": "P2016K0138", 
+        "ProjectName": "Tillary and Prince Streets Rezoning", 
         "X_Coord": 989280, 
         "CD": "K02", 
         "Phase": "Post Certified/Referred", 
@@ -4763,6 +5013,7 @@
       "properties": {
         "Y_Coord": 188695, 
         "ProjectID": "P2016K0152", 
+        "ProjectName": "Shirley Chisholm Childhood Education Ctr cont use", 
         "X_Coord": 1007210, 
         "CD": "K16", 
         "Phase": "Post Certified/Referred", 
@@ -4782,6 +5033,7 @@
       "properties": {
         "Y_Coord": 185685, 
         "ProjectID": "P2016K0153", 
+        "ProjectName": "Shirley Chisholm Day Care Center 1 (continued use)", 
         "X_Coord": 1006150, 
         "CD": "K16", 
         "Phase": "Post Certified/Referred", 
@@ -4801,6 +5053,7 @@
       "properties": {
         "Y_Coord": 183280, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023407, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -4820,6 +5073,7 @@
       "properties": {
         "Y_Coord": 183288, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023447, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -4839,6 +5093,7 @@
       "properties": {
         "Y_Coord": 183298, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023496, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -4858,6 +5113,7 @@
       "properties": {
         "Y_Coord": 183306, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023535, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -4877,6 +5133,7 @@
       "properties": {
         "Y_Coord": 183312, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023565, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -4896,6 +5153,7 @@
       "properties": {
         "Y_Coord": 183247, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023547, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -4915,6 +5173,7 @@
       "properties": {
         "Y_Coord": 183217, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023553, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -4934,6 +5193,7 @@
       "properties": {
         "Y_Coord": 183188, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023559, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -4953,6 +5213,7 @@
       "properties": {
         "Y_Coord": 183168, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023562, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -4972,6 +5233,7 @@
       "properties": {
         "Y_Coord": 183149, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023566, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -4991,6 +5253,7 @@
       "properties": {
         "Y_Coord": 183129, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023570, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5010,6 +5273,7 @@
       "properties": {
         "Y_Coord": 183060, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023583, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5029,6 +5293,7 @@
       "properties": {
         "Y_Coord": 182982, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023599, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5048,6 +5313,7 @@
       "properties": {
         "Y_Coord": 182919, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023641, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5067,6 +5333,7 @@
       "properties": {
         "Y_Coord": 182909, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023592, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5086,6 +5353,7 @@
       "properties": {
         "Y_Coord": 182901, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023552, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5105,6 +5373,7 @@
       "properties": {
         "Y_Coord": 182895, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023523, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5124,6 +5393,7 @@
       "properties": {
         "Y_Coord": 182896, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023476, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5143,6 +5413,7 @@
       "properties": {
         "Y_Coord": 182982, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023496, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5162,6 +5433,7 @@
       "properties": {
         "Y_Coord": 183021, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023488, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5181,6 +5453,7 @@
       "properties": {
         "Y_Coord": 183051, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023483, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5200,6 +5473,7 @@
       "properties": {
         "Y_Coord": 183070, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023479, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5219,6 +5493,7 @@
       "properties": {
         "Y_Coord": 183090, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023475, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5238,6 +5513,7 @@
       "properties": {
         "Y_Coord": 183129, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023467, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5257,6 +5533,7 @@
       "properties": {
         "Y_Coord": 183159, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023462, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5276,6 +5553,7 @@
       "properties": {
         "Y_Coord": 183188, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023456, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5295,6 +5573,7 @@
       "properties": {
         "Y_Coord": 183208, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023452, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5314,6 +5593,7 @@
       "properties": {
         "Y_Coord": 183227, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023448, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5333,6 +5613,7 @@
       "properties": {
         "Y_Coord": 183110, 
         "ProjectID": "P2016K0159", 
+        "ProjectName": "Linden Boulevard rezoning", 
         "X_Coord": 1023471, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -5352,6 +5633,7 @@
       "properties": {
         "Y_Coord": 182918, 
         "ProjectID": "P2016K0272", 
+        "ProjectName": "Bedford-Union Armory (LSGD)", 
         "X_Coord": 996806, 
         "CD": "K09", 
         "Phase": "Post Certified/Referred", 
@@ -5371,6 +5653,7 @@
       "properties": {
         "Y_Coord": 202955, 
         "ProjectID": "P2016K0287", 
+        "ProjectName": "Kosciuszko Bridge Brooklyn", 
         "X_Coord": 1001684, 
         "CD": "K01", 
         "Phase": "Filed to Certified/Referred", 
@@ -5390,6 +5673,7 @@
       "properties": {
         "Y_Coord": 181798, 
         "ProjectID": "P2016K0315", 
+        "ProjectName": "All My Children DCC 11 (continued use)", 
         "X_Coord": 997182, 
         "CD": "K09", 
         "Phase": "Post Certified/Referred", 
@@ -5409,6 +5693,7 @@
       "properties": {
         "Y_Coord": 185398, 
         "ProjectID": "P2016K0345", 
+        "ProjectName": "120 Kingston Lounge (74-711) FT", 
         "X_Coord": 1000363, 
         "CD": "K08", 
         "Phase": "Post Certified/Referred", 
@@ -5428,6 +5713,7 @@
       "properties": {
         "Y_Coord": 160388, 
         "ProjectID": "P2016K0351", 
+        "ProjectName": "1881-1883 McDonald Avenue Rezoning", 
         "X_Coord": 991952, 
         "CD": "K15", 
         "Phase": "Filed to Certified/Referred", 
@@ -5447,6 +5733,7 @@
       "properties": {
         "Y_Coord": 160438, 
         "ProjectID": "P2016K0351", 
+        "ProjectName": "1881-1883 McDonald Avenue Rezoning", 
         "X_Coord": 991945, 
         "CD": "K15", 
         "Phase": "Filed to Certified/Referred", 
@@ -5466,6 +5753,7 @@
       "properties": {
         "Y_Coord": 160477, 
         "ProjectID": "P2016K0351", 
+        "ProjectName": "1881-1883 McDonald Avenue Rezoning", 
         "X_Coord": 991937, 
         "CD": "K15", 
         "Phase": "Filed to Certified/Referred", 
@@ -5485,6 +5773,7 @@
       "properties": {
         "Y_Coord": 160512, 
         "ProjectID": "P2016K0351", 
+        "ProjectName": "1881-1883 McDonald Avenue Rezoning", 
         "X_Coord": 991932, 
         "CD": "K15", 
         "Phase": "Filed to Certified/Referred", 
@@ -5504,6 +5793,7 @@
       "properties": {
         "Y_Coord": 160542, 
         "ProjectID": "P2016K0351", 
+        "ProjectName": "1881-1883 McDonald Avenue Rezoning", 
         "X_Coord": 991931, 
         "CD": "K15", 
         "Phase": "Filed to Certified/Referred", 
@@ -5523,6 +5813,7 @@
       "properties": {
         "Y_Coord": 160592, 
         "ProjectID": "P2016K0351", 
+        "ProjectName": "1881-1883 McDonald Avenue Rezoning", 
         "X_Coord": 991920, 
         "CD": "K15", 
         "Phase": "Filed to Certified/Referred", 
@@ -5542,6 +5833,7 @@
       "properties": {
         "Y_Coord": 160728, 
         "ProjectID": "P2016K0351", 
+        "ProjectName": "1881-1883 McDonald Avenue Rezoning", 
         "X_Coord": 991901, 
         "CD": "K15", 
         "Phase": "Filed to Certified/Referred", 
@@ -5561,6 +5853,7 @@
       "properties": {
         "Y_Coord": 160881, 
         "ProjectID": "P2016K0351", 
+        "ProjectName": "1881-1883 McDonald Avenue Rezoning", 
         "X_Coord": 991881, 
         "CD": "K15", 
         "Phase": "Filed to Certified/Referred", 
@@ -5580,6 +5873,7 @@
       "properties": {
         "Y_Coord": 186818, 
         "ProjectID": "P2016K0373", 
+        "ProjectName": "1618 Fulton Street (UDAAP)", 
         "X_Coord": 1001883, 
         "CD": "K03", 
         "Phase": "Post Certified/Referred", 
@@ -5599,6 +5893,7 @@
       "properties": {
         "Y_Coord": 186817, 
         "ProjectID": "P2016K0373", 
+        "ProjectName": "1618 Fulton Street (UDAAP)", 
         "X_Coord": 1001904, 
         "CD": "K03", 
         "Phase": "Post Certified/Referred", 
@@ -5618,6 +5913,7 @@
       "properties": {
         "Y_Coord": 186816, 
         "ProjectID": "P2016K0373", 
+        "ProjectName": "1618 Fulton Street (UDAAP)", 
         "X_Coord": 1001924, 
         "CD": "K03", 
         "Phase": "Post Certified/Referred", 
@@ -5637,6 +5933,7 @@
       "properties": {
         "Y_Coord": 186824, 
         "ProjectID": "P2016K0373", 
+        "ProjectName": "1618 Fulton Street (UDAAP)", 
         "X_Coord": 1001944, 
         "CD": "K03", 
         "Phase": "Post Certified/Referred", 
@@ -5656,6 +5953,7 @@
       "properties": {
         "Y_Coord": 186821, 
         "ProjectID": "P2016K0373", 
+        "ProjectName": "1618 Fulton Street (UDAAP)", 
         "X_Coord": 1001984, 
         "CD": "K03", 
         "Phase": "Post Certified/Referred", 
@@ -5675,6 +5973,7 @@
       "properties": {
         "Y_Coord": 186824, 
         "ProjectID": "P2016K0373", 
+        "ProjectName": "1618 Fulton Street (UDAAP)", 
         "X_Coord": 1002004, 
         "CD": "K03", 
         "Phase": "Post Certified/Referred", 
@@ -5694,6 +5993,7 @@
       "properties": {
         "Y_Coord": 186772, 
         "ProjectID": "P2016K0373", 
+        "ProjectName": "1618 Fulton Street (UDAAP)", 
         "X_Coord": 1002021, 
         "CD": "K03", 
         "Phase": "Post Certified/Referred", 
@@ -5713,6 +6013,7 @@
       "properties": {
         "Y_Coord": 186823, 
         "ProjectID": "P2016K0373", 
+        "ProjectName": "1618 Fulton Street (UDAAP)", 
         "X_Coord": 1001964, 
         "CD": "K03", 
         "Phase": "Post Certified/Referred", 
@@ -5732,6 +6033,7 @@
       "properties": {
         "Y_Coord": 213393, 
         "ProjectID": "P2016M0030", 
+        "ProjectName": "Manhattan West (Central Plaza and Dyer Ave)", 
         "X_Coord": 984598, 
         "CD": "M04", 
         "Phase": "Filed to Certified/Referred", 
@@ -5751,6 +6053,7 @@
       "properties": {
         "Y_Coord": 213282, 
         "ProjectID": "P2016M0030", 
+        "ProjectName": "Manhattan West (Central Plaza and Dyer Ave)", 
         "X_Coord": 984816, 
         "CD": "M04", 
         "Phase": "Filed to Certified/Referred", 
@@ -5770,6 +6073,7 @@
       "properties": {
         "Y_Coord": 213497, 
         "ProjectID": "P2016M0030", 
+        "ProjectName": "Manhattan West (Central Plaza and Dyer Ave)", 
         "X_Coord": 984886, 
         "CD": "M04", 
         "Phase": "Filed to Certified/Referred", 
@@ -5789,6 +6093,7 @@
       "properties": {
         "Y_Coord": 213609, 
         "ProjectID": "P2016M0030", 
+        "ProjectName": "Manhattan West (Central Plaza and Dyer Ave)", 
         "X_Coord": 984638, 
         "CD": "M04", 
         "Phase": "Filed to Certified/Referred", 
@@ -5808,6 +6113,7 @@
       "properties": {
         "Y_Coord": 215940, 
         "ProjectID": "P2016M0037", 
+        "ProjectName": "1221 6th Avenue (POPS cafi)", 
         "X_Coord": 989218, 
         "CD": "M05", 
         "Phase": "Post Certified/Referred", 
@@ -5827,6 +6133,7 @@
       "properties": {
         "Y_Coord": 239995, 
         "ProjectID": "P2016M0042", 
+        "ProjectName": "LSSNY Center 14 & Nasry Michelen CCC (cont. use)", 
         "X_Coord": 998440, 
         "CD": "M09", 
         "Phase": "Post Certified/Referred", 
@@ -5846,6 +6153,7 @@
       "properties": {
         "Y_Coord": 210665, 
         "ProjectID": "P2016M0064", 
+        "ProjectName": "1164 Broadway 74-711 special permit", 
         "X_Coord": 987440, 
         "CD": "M05", 
         "Phase": "Post Certified/Referred", 
@@ -5865,6 +6173,7 @@
       "properties": {
         "Y_Coord": 213999, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994424, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -5884,6 +6193,7 @@
       "properties": {
         "Y_Coord": 214035, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994360, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -5903,6 +6213,7 @@
       "properties": {
         "Y_Coord": 214082, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994276, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -5922,6 +6233,7 @@
       "properties": {
         "Y_Coord": 214132, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994188, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -5941,6 +6253,7 @@
       "properties": {
         "Y_Coord": 214183, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994096, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -5960,6 +6273,7 @@
       "properties": {
         "Y_Coord": 214239, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 993985, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -5979,6 +6293,7 @@
       "properties": {
         "Y_Coord": 214390, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994148, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -5998,6 +6313,7 @@
       "properties": {
         "Y_Coord": 214265, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994242, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -6017,6 +6333,7 @@
       "properties": {
         "Y_Coord": 214219, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994308, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -6036,6 +6353,7 @@
       "properties": {
         "Y_Coord": 214214, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994470, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -6055,6 +6373,7 @@
       "properties": {
         "Y_Coord": 214322, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994308, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -6074,6 +6393,7 @@
       "properties": {
         "Y_Coord": 214099, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994658, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -6093,6 +6413,7 @@
       "properties": {
         "Y_Coord": 214574, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994247, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -6112,6 +6433,7 @@
       "properties": {
         "Y_Coord": 214622, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994358, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -6131,6 +6453,7 @@
       "properties": {
         "Y_Coord": 214499, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994373, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -6150,6 +6473,7 @@
       "properties": {
         "Y_Coord": 214471, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994541, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -6169,6 +6493,7 @@
       "properties": {
         "Y_Coord": 214830, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994321, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -6188,6 +6513,7 @@
       "properties": {
         "Y_Coord": 214733, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994612, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -6207,6 +6533,7 @@
       "properties": {
         "Y_Coord": 214666, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994723, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -6226,6 +6553,7 @@
       "properties": {
         "Y_Coord": 214865, 
         "ProjectID": "P2016M0127", 
+        "ProjectName": "East River Fifties_Sutton Place - Text Amendment", 
         "X_Coord": 994475, 
         "CD": "M06", 
         "Phase": "Post Certified/Referred", 
@@ -6245,6 +6573,7 @@
       "properties": {
         "Y_Coord": 210272, 
         "ProjectID": "P2016M0133", 
+        "ProjectName": "East 33rd St Rezoning", 
         "X_Coord": 991153, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -6264,6 +6593,7 @@
       "properties": {
         "Y_Coord": 210247, 
         "ProjectID": "P2016M0133", 
+        "ProjectName": "East 33rd St Rezoning", 
         "X_Coord": 991197, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -6283,6 +6613,7 @@
       "properties": {
         "Y_Coord": 210237, 
         "ProjectID": "P2016M0133", 
+        "ProjectName": "East 33rd St Rezoning", 
         "X_Coord": 991217, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -6302,6 +6633,7 @@
       "properties": {
         "Y_Coord": 210227, 
         "ProjectID": "P2016M0133", 
+        "ProjectName": "East 33rd St Rezoning", 
         "X_Coord": 991234, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -6321,6 +6653,7 @@
       "properties": {
         "Y_Coord": 210217, 
         "ProjectID": "P2016M0133", 
+        "ProjectName": "East 33rd St Rezoning", 
         "X_Coord": 991252, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -6340,6 +6673,7 @@
       "properties": {
         "Y_Coord": 210208, 
         "ProjectID": "P2016M0133", 
+        "ProjectName": "East 33rd St Rezoning", 
         "X_Coord": 991269, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -6359,6 +6693,7 @@
       "properties": {
         "Y_Coord": 210198, 
         "ProjectID": "P2016M0133", 
+        "ProjectName": "East 33rd St Rezoning", 
         "X_Coord": 991286, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -6378,6 +6713,7 @@
       "properties": {
         "Y_Coord": 210187, 
         "ProjectID": "P2016M0133", 
+        "ProjectName": "East 33rd St Rezoning", 
         "X_Coord": 991306, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -6397,6 +6733,7 @@
       "properties": {
         "Y_Coord": 210175, 
         "ProjectID": "P2016M0133", 
+        "ProjectName": "East 33rd St Rezoning", 
         "X_Coord": 991328, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -6416,6 +6753,7 @@
       "properties": {
         "Y_Coord": 210143, 
         "ProjectID": "P2016M0133", 
+        "ProjectName": "East 33rd St Rezoning", 
         "X_Coord": 991397, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -6435,6 +6773,7 @@
       "properties": {
         "Y_Coord": 210333, 
         "ProjectID": "P2016M0133", 
+        "ProjectName": "East 33rd St Rezoning", 
         "X_Coord": 991043, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -6454,6 +6793,7 @@
       "properties": {
         "Y_Coord": 201825, 
         "ProjectID": "P2016M0147", 
+        "ProjectName": "449 Broadway (New)", 
         "X_Coord": 983854, 
         "CD": "M02", 
         "Phase": "Post Certified/Referred", 
@@ -6473,6 +6813,7 @@
       "properties": {
         "Y_Coord": 198279, 
         "ProjectID": "P2016M0156", 
+        "ProjectName": "375 Pearl Street - POPS Redesign", 
         "X_Coord": 983924, 
         "CD": "M01", 
         "Phase": "Filed to Certified/Referred", 
@@ -6492,6 +6833,7 @@
       "properties": {
         "Y_Coord": 214685, 
         "ProjectID": "P2016M0188", 
+        "ProjectName": "338 West 39th Street (HY DIB)", 
         "X_Coord": 986132, 
         "CD": "M04", 
         "Phase": "Post Certified/Referred", 
@@ -6511,6 +6853,7 @@
       "properties": {
         "Y_Coord": 232543, 
         "ProjectID": "P2016M0200", 
+        "ProjectName": "DSNY Proposed M11 Garage", 
         "X_Coord": 1002574, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -6530,6 +6873,7 @@
       "properties": {
         "Y_Coord": 196900, 
         "ProjectID": "P2016M0201", 
+        "ProjectName": "One Wall Street - Rooftop Rec Waiver", 
         "X_Coord": 980970, 
         "CD": "M01", 
         "Phase": "Filed to Certified/Referred", 
@@ -6549,6 +6893,7 @@
       "properties": {
         "Y_Coord": 211983, 
         "ProjectID": "P2016M0220", 
+        "ProjectName": "West 23rd Street text amendment", 
         "X_Coord": 982344, 
         "CD": "M04", 
         "Phase": "Post Certified/Referred", 
@@ -6568,6 +6913,7 @@
       "properties": {
         "Y_Coord": 214705, 
         "ProjectID": "P2016M0240", 
+        "ProjectName": "Section 93-122 Text Amendment", 
         "X_Coord": 984407, 
         "CD": "M04", 
         "Phase": "Post Certified/Referred", 
@@ -6587,6 +6933,7 @@
       "properties": {
         "Y_Coord": 214618, 
         "ProjectID": "P2016M0240", 
+        "ProjectName": "Section 93-122 Text Amendment", 
         "X_Coord": 984451, 
         "CD": "M04", 
         "Phase": "Post Certified/Referred", 
@@ -6606,6 +6953,7 @@
       "properties": {
         "Y_Coord": 214569, 
         "ProjectID": "P2016M0240", 
+        "ProjectName": "Section 93-122 Text Amendment", 
         "X_Coord": 984557, 
         "CD": "M04", 
         "Phase": "Post Certified/Referred", 
@@ -6625,6 +6973,7 @@
       "properties": {
         "Y_Coord": 214682, 
         "ProjectID": "P2016M0240", 
+        "ProjectName": "Section 93-122 Text Amendment", 
         "X_Coord": 984543, 
         "CD": "M04", 
         "Phase": "Post Certified/Referred", 
@@ -6644,6 +6993,7 @@
       "properties": {
         "Y_Coord": 214706, 
         "ProjectID": "P2016M0240", 
+        "ProjectName": "Section 93-122 Text Amendment", 
         "X_Coord": 984499, 
         "CD": "M04", 
         "Phase": "Post Certified/Referred", 
@@ -6663,6 +7013,7 @@
       "properties": {
         "Y_Coord": 220602, 
         "ProjectID": "P2016M0295", 
+        "ProjectName": "19 East 72nd Street use group mod", 
         "X_Coord": 993776, 
         "CD": "M08", 
         "Phase": "Post Certified/Referred", 
@@ -6682,6 +7033,7 @@
       "properties": {
         "Y_Coord": 202046, 
         "ProjectID": "P2016M0332", 
+        "ProjectName": "180 Suffolk Street (continued use)", 
         "X_Coord": 988489, 
         "CD": "M03", 
         "Phase": "Post Certified/Referred", 
@@ -6701,6 +7053,7 @@
       "properties": {
         "Y_Coord": 224955, 
         "ProjectID": "P2016M0355", 
+        "ProjectName": "ECF East 96th Street", 
         "X_Coord": 999301, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -6720,6 +7073,7 @@
       "properties": {
         "Y_Coord": 210278, 
         "ProjectID": "P2016M0365", 
+        "ProjectName": "Rivergate - Substantial Compliance", 
         "X_Coord": 991860, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -6739,6 +7093,7 @@
       "properties": {
         "Y_Coord": 210731, 
         "ProjectID": "P2016M0414", 
+        "ProjectName": "WCh Subareas DEG text amendment", 
         "X_Coord": 982441, 
         "CD": "K04", 
         "Phase": "Post Certified/Referred", 
@@ -6758,6 +7113,7 @@
       "properties": {
         "Y_Coord": 222820, 
         "ProjectID": "P2016M0426", 
+        "ProjectName": "350 East 88th Street (Rhinelander Building)", 
         "X_Coord": 998321, 
         "CD": "M08", 
         "Phase": "Filed to Certified/Referred", 
@@ -6777,6 +7133,7 @@
       "properties": {
         "Y_Coord": 222858, 
         "ProjectID": "P2016M0426", 
+        "ProjectName": "350 East 88th Street (Rhinelander Building)", 
         "X_Coord": 998299, 
         "CD": "M08", 
         "Phase": "Filed to Certified/Referred", 
@@ -6796,6 +7153,7 @@
       "properties": {
         "Y_Coord": 231917, 
         "ProjectID": "P2016M0429", 
+        "ProjectName": "East 126th Street Bus Depot Memorial Project", 
         "X_Coord": 1003180, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -6815,6 +7173,7 @@
       "properties": {
         "Y_Coord": 215275, 
         "ProjectID": "P2016M0473", 
+        "ProjectName": "661 Eighth Avenue - Text Amendment", 
         "X_Coord": 987045, 
         "CD": "M04", 
         "Phase": "Post Certified/Referred", 
@@ -6834,6 +7193,7 @@
       "properties": {
         "Y_Coord": 221772, 
         "ProjectID": "P2016Q0044", 
+        "ProjectName": "Hallet's Point interim dec termination", 
         "X_Coord": 1001727, 
         "CD": "Q01", 
         "Phase": "Post Certified/Referred", 
@@ -6853,6 +7213,7 @@
       "properties": {
         "Y_Coord": 221584, 
         "ProjectID": "P2016Q0044", 
+        "ProjectName": "Hallet's Point interim dec termination", 
         "X_Coord": 1001648, 
         "CD": "Q01", 
         "Phase": "Post Certified/Referred", 
@@ -6872,6 +7233,7 @@
       "properties": {
         "Y_Coord": 222179, 
         "ProjectID": "P2016Q0044", 
+        "ProjectName": "Hallet's Point interim dec termination", 
         "X_Coord": 1002202, 
         "CD": "Q01", 
         "Phase": "Post Certified/Referred", 
@@ -6891,6 +7253,7 @@
       "properties": {
         "Y_Coord": 222025, 
         "ProjectID": "P2016Q0044", 
+        "ProjectName": "Hallet's Point interim dec termination", 
         "X_Coord": 1001843, 
         "CD": "Q01", 
         "Phase": "Post Certified/Referred", 
@@ -6910,6 +7273,7 @@
       "properties": {
         "Y_Coord": 222270, 
         "ProjectID": "P2016Q0044", 
+        "ProjectName": "Hallet's Point interim dec termination", 
         "X_Coord": 1001946, 
         "CD": "Q01", 
         "Phase": "Post Certified/Referred", 
@@ -6929,6 +7293,7 @@
       "properties": {
         "Y_Coord": 219533, 
         "ProjectID": "P2016Q0060", 
+        "ProjectName": "35-10 Astoria Boulevard South Rezoning", 
         "X_Coord": 1007903, 
         "CD": "Q01", 
         "Phase": "Filed to Certified/Referred", 
@@ -6948,6 +7313,7 @@
       "properties": {
         "Y_Coord": 201504, 
         "ProjectID": "P2016Q0066", 
+        "ProjectName": "NYPD Property Clerk Consolidation Project", 
         "X_Coord": 1007816, 
         "CD": "Q05", 
         "Phase": "Post Certified/Referred", 
@@ -6967,6 +7333,7 @@
       "properties": {
         "Y_Coord": 201551, 
         "ProjectID": "P2016Q0066", 
+        "ProjectName": "NYPD Property Clerk Consolidation Project", 
         "X_Coord": 1008030, 
         "CD": "Q05", 
         "Phase": "Post Certified/Referred", 
@@ -6986,6 +7353,7 @@
       "properties": {
         "Y_Coord": 201610, 
         "ProjectID": "P2016Q0066", 
+        "ProjectName": "NYPD Property Clerk Consolidation Project", 
         "X_Coord": 1008263, 
         "CD": "Q05", 
         "Phase": "Post Certified/Referred", 
@@ -7005,6 +7373,7 @@
       "properties": {
         "Y_Coord": 214198, 
         "ProjectID": "P2016Q0173", 
+        "ProjectName": "74-04 Northern Boulevard Rezoning", 
         "X_Coord": 1014091, 
         "CD": "Q03", 
         "Phase": "Post Certified/Referred", 
@@ -7024,6 +7393,7 @@
       "properties": {
         "Y_Coord": 159931, 
         "ProjectID": "P2016Q0238", 
+        "ProjectName": "Downtown Far Rockaway Development Plan", 
         "X_Coord": 1052332, 
         "CD": "Q14", 
         "Phase": "Post Certified/Referred", 
@@ -7043,6 +7413,7 @@
       "properties": {
         "Y_Coord": 205776, 
         "ProjectID": "P2016Q0288", 
+        "ProjectName": "Kosciuszko Bridge Queens", 
         "X_Coord": 1004799, 
         "CD": "Q02", 
         "Phase": "Filed to Certified/Referred", 
@@ -7062,6 +7433,7 @@
       "properties": {
         "Y_Coord": 202988, 
         "ProjectID": "P2016Q0293", 
+        "ProjectName": "Former Parkway Hospital Site Rezoning", 
         "X_Coord": 1029157, 
         "CD": "Q06", 
         "Phase": "Filed to Certified/Referred", 
@@ -7081,6 +7453,7 @@
       "properties": {
         "Y_Coord": 199909, 
         "ProjectID": "P2016Q0341", 
+        "ProjectName": "NYPD Office Space Acquisition - 118-35 Queens Blvd", 
         "X_Coord": 1031204, 
         "CD": "Q06", 
         "Phase": "Post Certified/Referred", 
@@ -7100,6 +7473,7 @@
       "properties": {
         "Y_Coord": 151177, 
         "ProjectID": "P2016Q0353", 
+        "ProjectName": "Engine 268 Ladder 137 Relocation", 
         "X_Coord": 1029024, 
         "CD": "Q14", 
         "Phase": "Post Certified/Referred", 
@@ -7119,6 +7493,7 @@
       "properties": {
         "Y_Coord": 211325, 
         "ProjectID": "P2016Q0472", 
+        "ProjectName": "259-16 79th Avenue House of Worship", 
         "X_Coord": 1064059, 
         "CD": "Q13", 
         "Phase": "Post Certified/Referred", 
@@ -7138,6 +7513,7 @@
       "properties": {
         "Y_Coord": 185449, 
         "ProjectID": "P2016Q0479", 
+        "ProjectName": "Northeastern Towers Annex Rezoning", 
         "X_Coord": 1045812, 
         "CD": "Q12", 
         "Phase": "Post Certified/Referred", 
@@ -7157,6 +7533,7 @@
       "properties": {
         "Y_Coord": 159235, 
         "ProjectID": "P2016R0125", 
+        "ProjectName": "457 Ocean Terrace - Restoration", 
         "X_Coord": 955082, 
         "CD": "R02", 
         "Phase": "Post Certified/Referred", 
@@ -7176,6 +7553,7 @@
       "properties": {
         "Y_Coord": 145991, 
         "ProjectID": "P2016R0352", 
+        "ProjectName": "SS SD 15 Tanglewood Drive", 
         "X_Coord": 942107, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -7195,6 +7573,7 @@
       "properties": {
         "Y_Coord": 138876, 
         "ProjectID": "P2016R0407", 
+        "ProjectName": "SS SD Ridgewood Ave. & Getz Ave (street issue)", 
         "X_Coord": 938719, 
         "CD": "R03", 
         "Phase": "Post Certified/Referred", 
@@ -7214,6 +7593,7 @@
       "properties": {
         "Y_Coord": 138967, 
         "ProjectID": "P2016R0407", 
+        "ProjectName": "SS SD Ridgewood Ave. & Getz Ave (street issue)", 
         "X_Coord": 938752, 
         "CD": "R03", 
         "Phase": "Post Certified/Referred", 
@@ -7233,6 +7613,7 @@
       "properties": {
         "Y_Coord": 168263, 
         "ProjectID": "P2016R0461", 
+        "ProjectName": "Forest Avenue & South Avenue Cross Access Retail", 
         "X_Coord": 937721, 
         "CD": "R01", 
         "Phase": "Filed to Certified/Referred", 
@@ -7252,6 +7633,7 @@
       "properties": {
         "Y_Coord": 168638, 
         "ProjectID": "P2016R0461", 
+        "ProjectName": "Forest Avenue & South Avenue Cross Access Retail", 
         "X_Coord": 937767, 
         "CD": "R01", 
         "Phase": "Filed to Certified/Referred", 
@@ -7271,6 +7653,7 @@
       "properties": {
         "Y_Coord": 168692, 
         "ProjectID": "P2016R0461", 
+        "ProjectName": "Forest Avenue & South Avenue Cross Access Retail", 
         "X_Coord": 937593, 
         "CD": "R01", 
         "Phase": "Filed to Certified/Referred", 
@@ -7290,6 +7673,7 @@
       "properties": {
         "Y_Coord": 168599, 
         "ProjectID": "P2016R0461", 
+        "ProjectName": "Forest Avenue & South Avenue Cross Access Retail", 
         "X_Coord": 937936, 
         "CD": "R01", 
         "Phase": "Filed to Certified/Referred", 
@@ -7309,6 +7693,7 @@
       "properties": {
         "Y_Coord": 233472, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003439, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7328,6 +7713,7 @@
       "properties": {
         "Y_Coord": 233361, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003309, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7347,6 +7733,7 @@
       "properties": {
         "Y_Coord": 233906, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003098, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7366,6 +7753,7 @@
       "properties": {
         "Y_Coord": 234178, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003568, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7385,6 +7773,7 @@
       "properties": {
         "Y_Coord": 234360, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003145, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7404,6 +7793,7 @@
       "properties": {
         "Y_Coord": 234331, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003395, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7423,6 +7813,7 @@
       "properties": {
         "Y_Coord": 234044, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003354, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7442,6 +7833,7 @@
       "properties": {
         "Y_Coord": 233994, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003382, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7461,6 +7853,7 @@
       "properties": {
         "Y_Coord": 233958, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003418, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7480,6 +7873,7 @@
       "properties": {
         "Y_Coord": 233862, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003320, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7499,6 +7893,7 @@
       "properties": {
         "Y_Coord": 233935, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003226, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7518,6 +7913,7 @@
       "properties": {
         "Y_Coord": 233824, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003205, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7537,6 +7933,7 @@
       "properties": {
         "Y_Coord": 234201, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003456, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7556,6 +7953,7 @@
       "properties": {
         "Y_Coord": 234315, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1002904, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7575,6 +7973,7 @@
       "properties": {
         "Y_Coord": 234703, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1002895, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7594,6 +7993,7 @@
       "properties": {
         "Y_Coord": 234799, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003001, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7613,6 +8013,7 @@
       "properties": {
         "Y_Coord": 234937, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1002941, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7632,6 +8033,7 @@
       "properties": {
         "Y_Coord": 235354, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003007, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7651,6 +8053,7 @@
       "properties": {
         "Y_Coord": 235694, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003067, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7670,6 +8073,7 @@
       "properties": {
         "Y_Coord": 236003, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003147, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7689,6 +8093,7 @@
       "properties": {
         "Y_Coord": 236006, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1002987, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7708,6 +8113,7 @@
       "properties": {
         "Y_Coord": 236148, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003063, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7727,6 +8133,7 @@
       "properties": {
         "Y_Coord": 236459, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003121, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7746,6 +8153,7 @@
       "properties": {
         "Y_Coord": 236676, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003145, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7765,6 +8173,7 @@
       "properties": {
         "Y_Coord": 236781, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003158, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7784,6 +8193,7 @@
       "properties": {
         "Y_Coord": 237061, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003127, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7803,6 +8213,7 @@
       "properties": {
         "Y_Coord": 237191, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003262, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7822,6 +8233,7 @@
       "properties": {
         "Y_Coord": 237292, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003278, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7841,6 +8253,7 @@
       "properties": {
         "Y_Coord": 237562, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1003207, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7860,6 +8273,7 @@
       "properties": {
         "Y_Coord": 236729, 
         "ProjectID": "P2016X0056", 
+        "ProjectName": "Special Harlem River Waterfront District Expansion", 
         "X_Coord": 1002987, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7879,6 +8293,7 @@
       "properties": {
         "Y_Coord": 241894, 
         "ProjectID": "P2016X0085", 
+        "ProjectName": "1675 Westchester Avenue - Rezoning", 
         "X_Coord": 1019544, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -7898,6 +8313,7 @@
       "properties": {
         "Y_Coord": 233472, 
         "ProjectID": "P2016X0102", 
+        "ProjectName": "101 Lincoln Avenue", 
         "X_Coord": 1003439, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7917,6 +8333,7 @@
       "properties": {
         "Y_Coord": 234331, 
         "ProjectID": "P2016X0258", 
+        "ProjectName": "198 East 135th Street - Waterfront Chair Cert", 
         "X_Coord": 1003395, 
         "CD": "X01", 
         "Phase": "Filed to Certified/Referred", 
@@ -7936,6 +8353,7 @@
       "properties": {
         "Y_Coord": 239014, 
         "ProjectID": "P2016X0337", 
+        "ProjectName": "1965 Lafayette Avenue", 
         "X_Coord": 1023890, 
         "CD": "X09", 
         "Phase": "Post Certified/Referred", 
@@ -7955,6 +8373,7 @@
       "properties": {
         "Y_Coord": 238100, 
         "ProjectID": "P2016X0409", 
+        "ProjectName": "Lower Concourse North Rezoning", 
         "X_Coord": 1003171, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7974,6 +8393,7 @@
       "properties": {
         "Y_Coord": 237015, 
         "ProjectID": "P2016X0409", 
+        "ProjectName": "Lower Concourse North Rezoning", 
         "X_Coord": 1008315, 
         "CD": "X01", 
         "Phase": "Post Certified/Referred", 
@@ -7993,6 +8413,7 @@
       "properties": {
         "Y_Coord": 236936, 
         "ProjectID": "P2016X0435", 
+        "ProjectName": "425 Grand Concourse - Former PS 31", 
         "X_Coord": 1004035, 
         "CD": "X01", 
         "Phase": "Filed to Certified/Referred", 
@@ -8012,6 +8433,7 @@
       "properties": {
         "Y_Coord": 183071, 
         "ProjectID": "P2017K0029", 
+        "ProjectName": "519-523 Third Avenue Greenhouse (Chair Cert)", 
         "X_Coord": 986315, 
         "CD": "K06", 
         "Phase": "Filed to Certified/Referred", 
@@ -8031,6 +8453,7 @@
       "properties": {
         "Y_Coord": 183115, 
         "ProjectID": "P2017K0029", 
+        "ProjectName": "519-523 Third Avenue Greenhouse (Chair Cert)", 
         "X_Coord": 986336, 
         "CD": "K06", 
         "Phase": "Filed to Certified/Referred", 
@@ -8050,6 +8473,7 @@
       "properties": {
         "Y_Coord": 199737, 
         "ProjectID": "P2017K0030", 
+        "ProjectName": "Domino Flexible Field (Authorization)", 
         "X_Coord": 993091, 
         "CD": "K01", 
         "Phase": "Post Certified/Referred", 
@@ -8069,6 +8493,7 @@
       "properties": {
         "Y_Coord": 199571, 
         "ProjectID": "P2017K0030", 
+        "ProjectName": "Domino Flexible Field (Authorization)", 
         "X_Coord": 993279, 
         "CD": "K01", 
         "Phase": "Post Certified/Referred", 
@@ -8088,6 +8513,7 @@
       "properties": {
         "Y_Coord": 199202, 
         "ProjectID": "P2017K0030", 
+        "ProjectName": "Domino Flexible Field (Authorization)", 
         "X_Coord": 993500, 
         "CD": "K01", 
         "Phase": "Post Certified/Referred", 
@@ -8107,6 +8533,7 @@
       "properties": {
         "Y_Coord": 155564, 
         "ProjectID": "P2017K0038", 
+        "ProjectName": "Toys 'R' Us Waterfront Certification (62-811)", 
         "X_Coord": 984067, 
         "CD": "K11", 
         "Phase": "Filed to Certified/Referred", 
@@ -8126,6 +8553,7 @@
       "properties": {
         "Y_Coord": 159979, 
         "ProjectID": "P2017K0076", 
+        "ProjectName": "8750 17th Avenue (HOW Chair Cert) FT", 
         "X_Coord": 981968, 
         "CD": "K11", 
         "Phase": "Post Certified/Referred", 
@@ -8145,6 +8573,7 @@
       "properties": {
         "Y_Coord": 190178, 
         "ProjectID": "P2017K0132", 
+        "ProjectName": "Western Beef,814 Jamaica Ave FRESH (Chair Cert) FT", 
         "X_Coord": 1019042, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -8164,6 +8593,7 @@
       "properties": {
         "Y_Coord": 180067, 
         "ProjectID": "P2017K0164", 
+        "ProjectName": "237 Maple Street Garden (Site Sel.,Aquisition) FT", 
         "X_Coord": 997349, 
         "CD": "K09", 
         "Phase": "Post Certified/Referred", 
@@ -8183,6 +8613,7 @@
       "properties": {
         "Y_Coord": 206638, 
         "ProjectID": "P2017K0205", 
+        "ProjectName": "226 Franklin Street (Chair Cert 15-30)", 
         "X_Coord": 996015, 
         "CD": "K01", 
         "Phase": "Filed to Certified/Referred", 
@@ -8202,6 +8633,7 @@
       "properties": {
         "Y_Coord": 192530, 
         "ProjectID": "P2017K0442", 
+        "ProjectName": "1 Pierrepont Plaza Office Space Acquisition - FDNY", 
         "X_Coord": 986624, 
         "CD": "K02", 
         "Phase": "Post Certified/Referred", 
@@ -8221,6 +8653,7 @@
       "properties": {
         "Y_Coord": 203045, 
         "ProjectID": "P2017M0001", 
+        "ProjectName": "SoHo Tower Parking Garage", 
         "X_Coord": 982638, 
         "CD": "M02", 
         "Phase": "Post Certified/Referred", 
@@ -8240,6 +8673,7 @@
       "properties": {
         "Y_Coord": 203108, 
         "ProjectID": "P2017M0001", 
+        "ProjectName": "SoHo Tower Parking Garage", 
         "X_Coord": 982710, 
         "CD": "M02", 
         "Phase": "Post Certified/Referred", 
@@ -8259,6 +8693,7 @@
       "properties": {
         "Y_Coord": 197005, 
         "ProjectID": "P2017M0010", 
+        "ProjectName": "200 Water Street Arcade Infill", 
         "X_Coord": 982937, 
         "CD": "M01", 
         "Phase": "Post Certified/Referred", 
@@ -8278,6 +8713,7 @@
       "properties": {
         "Y_Coord": 249011, 
         "ProjectID": "P2017M0044", 
+        "ProjectName": "Restore The George City Map Change", 
         "X_Coord": 1000490, 
         "CD": "M12", 
         "Phase": "Filed to Certified/Referred", 
@@ -8297,6 +8733,7 @@
       "properties": {
         "Y_Coord": 228460, 
         "ProjectID": "P2017M0068", 
+        "ProjectName": "NYPD 107th Street Parking Facility", 
         "X_Coord": 998997, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8316,6 +8753,7 @@
       "properties": {
         "Y_Coord": 228319, 
         "ProjectID": "P2017M0068", 
+        "ProjectName": "NYPD 107th Street Parking Facility", 
         "X_Coord": 999177, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8335,6 +8773,7 @@
       "properties": {
         "Y_Coord": 210591, 
         "ProjectID": "P2017M0084", 
+        "ProjectName": "WCh HFZ Subarea H Bonus Certification 98-25(a)", 
         "X_Coord": 982194, 
         "CD": "M04", 
         "Phase": "Post Certified/Referred", 
@@ -8354,6 +8793,7 @@
       "properties": {
         "Y_Coord": 214904, 
         "ProjectID": "P2017M0131", 
+        "ProjectName": "36 Hudson - Parking", 
         "X_Coord": 984514, 
         "CD": "M04", 
         "Phase": "Post Certified/Referred", 
@@ -8373,6 +8813,7 @@
       "properties": {
         "Y_Coord": 214728, 
         "ProjectID": "P2017M0141", 
+        "ProjectName": "350 West 39th Street (HY DIB)", 
         "X_Coord": 986055, 
         "CD": "M04", 
         "Phase": "Post Certified/Referred", 
@@ -8392,6 +8833,7 @@
       "properties": {
         "Y_Coord": 214846, 
         "ProjectID": "P2017M0186", 
+        "ProjectName": "400 Madison Avenue Landmark", 
         "X_Coord": 990641, 
         "CD": "K05", 
         "Phase": "Post Certified/Referred", 
@@ -8411,6 +8853,7 @@
       "properties": {
         "Y_Coord": 216491, 
         "ProjectID": "P2017M0189", 
+        "ProjectName": "Martin Erdmann House Landmark", 
         "X_Coord": 991868, 
         "CD": "M05", 
         "Phase": "Post Certified/Referred", 
@@ -8430,6 +8873,7 @@
       "properties": {
         "Y_Coord": 216432, 
         "ProjectID": "P2017M0191", 
+        "ProjectName": "Minnie E. Young House", 
         "X_Coord": 991442, 
         "CD": "M05", 
         "Phase": "Post Certified/Referred", 
@@ -8449,6 +8893,7 @@
       "properties": {
         "Y_Coord": 213323, 
         "ProjectID": "P2017M0193", 
+        "ProjectName": "18 East 41st Street", 
         "X_Coord": 989656, 
         "CD": "M05", 
         "Phase": "Post Certified/Referred", 
@@ -8468,6 +8913,7 @@
       "properties": {
         "Y_Coord": 213955, 
         "ProjectID": "P2017M0210", 
+        "ProjectName": "441 9th Avenue HY DIB and Office Cert", 
         "X_Coord": 985216, 
         "CD": "M04", 
         "Phase": "Post Certified/Referred", 
@@ -8487,6 +8933,7 @@
       "properties": {
         "Y_Coord": 221897, 
         "ProjectID": "P2017M0221", 
+        "ProjectName": "412 East 85th Street Landmark", 
         "X_Coord": 998279, 
         "CD": "M08", 
         "Phase": "Post Certified/Referred", 
@@ -8506,6 +8953,7 @@
       "properties": {
         "Y_Coord": 215062, 
         "ProjectID": "P2017M0256", 
+        "ProjectName": "Block 4 Contribution in Kind -- 66 Hudson Yards", 
         "X_Coord": 984270, 
         "CD": "M04", 
         "Phase": "Post Certified/Referred", 
@@ -8525,6 +8973,7 @@
       "properties": {
         "Y_Coord": 229632, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 998991, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8544,6 +8993,7 @@
       "properties": {
         "Y_Coord": 229572, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 998957, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8563,6 +9013,7 @@
       "properties": {
         "Y_Coord": 229581, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999032, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8582,6 +9033,7 @@
       "properties": {
         "Y_Coord": 229558, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999074, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8601,6 +9053,7 @@
       "properties": {
         "Y_Coord": 229535, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999115, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8620,6 +9073,7 @@
       "properties": {
         "Y_Coord": 229512, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999156, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8639,6 +9093,7 @@
       "properties": {
         "Y_Coord": 229492, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999193, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8658,6 +9113,7 @@
       "properties": {
         "Y_Coord": 229473, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999227, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8677,6 +9133,7 @@
       "properties": {
         "Y_Coord": 229440, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999285, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8696,6 +9153,7 @@
       "properties": {
         "Y_Coord": 229509, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999297, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8715,6 +9173,7 @@
       "properties": {
         "Y_Coord": 229541, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999345, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8734,6 +9193,7 @@
       "properties": {
         "Y_Coord": 229554, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999322, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8753,6 +9213,7 @@
       "properties": {
         "Y_Coord": 229567, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999299, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8772,6 +9233,7 @@
       "properties": {
         "Y_Coord": 229568, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999269, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8791,6 +9253,7 @@
       "properties": {
         "Y_Coord": 229582, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999244, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8810,6 +9273,7 @@
       "properties": {
         "Y_Coord": 229596, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999219, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8829,6 +9293,7 @@
       "properties": {
         "Y_Coord": 229612, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999190, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8848,6 +9313,7 @@
       "properties": {
         "Y_Coord": 229633, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999152, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8867,6 +9333,7 @@
       "properties": {
         "Y_Coord": 229654, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999114, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8886,6 +9353,7 @@
       "properties": {
         "Y_Coord": 229674, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999079, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8905,6 +9373,7 @@
       "properties": {
         "Y_Coord": 229732, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999046, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8924,6 +9393,7 @@
       "properties": {
         "Y_Coord": 229705, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999031, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8943,6 +9413,7 @@
       "properties": {
         "Y_Coord": 229681, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999018, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8962,6 +9433,7 @@
       "properties": {
         "Y_Coord": 229657, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 999005, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -8981,6 +9453,7 @@
       "properties": {
         "Y_Coord": 229598, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 998972, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -9000,6 +9473,7 @@
       "properties": {
         "Y_Coord": 229585, 
         "ProjectID": "P2017M0259", 
+        "ProjectName": "Sendero Verde East 111th Street", 
         "X_Coord": 998965, 
         "CD": "M11", 
         "Phase": "Post Certified/Referred", 
@@ -9019,6 +9493,7 @@
       "properties": {
         "Y_Coord": 209231, 
         "ProjectID": "P2017M0268", 
+        "ProjectName": "STREET TACO (New Change of Ownership)", 
         "X_Coord": 989232, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -9038,6 +9513,7 @@
       "properties": {
         "Y_Coord": 218194, 
         "ProjectID": "P2017M0274", 
+        "ProjectName": "Hospital for Special Surgery River Bldg renewal", 
         "X_Coord": 997494, 
         "CD": "M08", 
         "Phase": "Filed to Certified/Referred", 
@@ -9057,6 +9533,7 @@
       "properties": {
         "Y_Coord": 231949, 
         "ProjectID": "P2017M0297", 
+        "ProjectName": "Cathedral of St John the Divine", 
         "X_Coord": 994763, 
         "CD": "M09", 
         "Phase": "Post Certified/Referred", 
@@ -9076,6 +9553,7 @@
       "properties": {
         "Y_Coord": 232253, 
         "ProjectID": "P2017M0297", 
+        "ProjectName": "Cathedral of St John the Divine", 
         "X_Coord": 994787, 
         "CD": "M09", 
         "Phase": "Post Certified/Referred", 
@@ -9095,6 +9573,7 @@
       "properties": {
         "Y_Coord": 233317, 
         "ProjectID": "P2017M0298", 
+        "ProjectName": "Morningside Heights Historic District", 
         "X_Coord": 993893, 
         "CD": "Q09", 
         "Phase": "Post Certified/Referred", 
@@ -9114,6 +9593,7 @@
       "properties": {
         "Y_Coord": 212781, 
         "ProjectID": "P2017M0308", 
+        "ProjectName": "509-511 West 27th Street HLTC 1 FAR Bonus", 
         "X_Coord": 983433, 
         "CD": "M04", 
         "Phase": "Filed to Certified/Referred", 
@@ -9133,6 +9613,7 @@
       "properties": {
         "Y_Coord": 212768, 
         "ProjectID": "P2017M0308", 
+        "ProjectName": "509-511 West 27th Street HLTC 1 FAR Bonus", 
         "X_Coord": 983456, 
         "CD": "M04", 
         "Phase": "Filed to Certified/Referred", 
@@ -9152,6 +9633,7 @@
       "properties": {
         "Y_Coord": 209365, 
         "ProjectID": "P2017M0325", 
+        "ProjectName": "THE GEM SALOON (Change of Ownership & reconstruct)", 
         "X_Coord": 989520, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -9171,6 +9653,7 @@
       "properties": {
         "Y_Coord": 233711, 
         "ProjectID": "P2017M0375", 
+        "ProjectName": "St. Nicholas FRESH Renewal", 
         "X_Coord": 997058, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -9190,6 +9673,7 @@
       "properties": {
         "Y_Coord": 233698, 
         "ProjectID": "P2017M0375", 
+        "ProjectName": "St. Nicholas FRESH Renewal", 
         "X_Coord": 997080, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -9209,6 +9693,7 @@
       "properties": {
         "Y_Coord": 233686, 
         "ProjectID": "P2017M0375", 
+        "ProjectName": "St. Nicholas FRESH Renewal", 
         "X_Coord": 997102, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -9228,6 +9713,7 @@
       "properties": {
         "Y_Coord": 233597, 
         "ProjectID": "P2017M0375", 
+        "ProjectName": "St. Nicholas FRESH Renewal", 
         "X_Coord": 997182, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -9247,6 +9733,7 @@
       "properties": {
         "Y_Coord": 233668, 
         "ProjectID": "P2017M0375", 
+        "ProjectName": "St. Nicholas FRESH Renewal", 
         "X_Coord": 997162, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -9266,6 +9753,7 @@
       "properties": {
         "Y_Coord": 233754, 
         "ProjectID": "P2017M0375", 
+        "ProjectName": "St. Nicholas FRESH Renewal", 
         "X_Coord": 997184, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -9285,6 +9773,7 @@
       "properties": {
         "Y_Coord": 233790, 
         "ProjectID": "P2017M0375", 
+        "ProjectName": "St. Nicholas FRESH Renewal", 
         "X_Coord": 997130, 
         "CD": "M10", 
         "Phase": "Filed to Certified/Referred", 
@@ -9304,6 +9793,7 @@
       "properties": {
         "Y_Coord": 216164, 
         "ProjectID": "P2017M0392", 
+        "ProjectName": "MOONSTRUCK DINER -NEW, PROPOSED", 
         "X_Coord": 993913, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -9323,6 +9813,7 @@
       "properties": {
         "Y_Coord": 214495, 
         "ProjectID": "P2017M0400", 
+        "ProjectName": "66 Hudson Boulevard DIB and ERY Transfer", 
         "X_Coord": 984216, 
         "CD": "M04", 
         "Phase": "Filed to Certified/Referred", 
@@ -9342,6 +9833,7 @@
       "properties": {
         "Y_Coord": 214402, 
         "ProjectID": "P2017M0400", 
+        "ProjectName": "66 Hudson Boulevard DIB and ERY Transfer", 
         "X_Coord": 984303, 
         "CD": "M04", 
         "Phase": "Filed to Certified/Referred", 
@@ -9361,6 +9853,7 @@
       "properties": {
         "Y_Coord": 214344, 
         "ProjectID": "P2017M0400", 
+        "ProjectName": "66 Hudson Boulevard DIB and ERY Transfer", 
         "X_Coord": 984461, 
         "CD": "M04", 
         "Phase": "Filed to Certified/Referred", 
@@ -9380,6 +9873,7 @@
       "properties": {
         "Y_Coord": 214425, 
         "ProjectID": "P2017M0400", 
+        "ProjectName": "66 Hudson Boulevard DIB and ERY Transfer", 
         "X_Coord": 984501, 
         "CD": "M04", 
         "Phase": "Filed to Certified/Referred", 
@@ -9399,6 +9893,7 @@
       "properties": {
         "Y_Coord": 214447, 
         "ProjectID": "P2017M0400", 
+        "ProjectName": "66 Hudson Boulevard DIB and ERY Transfer", 
         "X_Coord": 984514, 
         "CD": "M04", 
         "Phase": "Filed to Certified/Referred", 
@@ -9418,6 +9913,7 @@
       "properties": {
         "Y_Coord": 214677, 
         "ProjectID": "P2017M0403", 
+        "ProjectName": "438-444 Eleventh Ave Hudson Park Transfer", 
         "X_Coord": 983918, 
         "CD": "M04", 
         "Phase": "Post Certified/Referred", 
@@ -9437,6 +9933,7 @@
       "properties": {
         "Y_Coord": 215062, 
         "ProjectID": "P2017M0403", 
+        "ProjectName": "438-444 Eleventh Ave Hudson Park Transfer", 
         "X_Coord": 984270, 
         "CD": "M04", 
         "Phase": "Post Certified/Referred", 
@@ -9456,6 +9953,7 @@
       "properties": {
         "Y_Coord": 214640, 
         "ProjectID": "P2017M0415", 
+        "ProjectName": "351 West 38th Street DIB", 
         "X_Coord": 986006, 
         "CD": "M04", 
         "Phase": "Filed to Certified/Referred", 
@@ -9475,6 +9973,7 @@
       "properties": {
         "Y_Coord": 204080, 
         "ProjectID": "P2017M0444", 
+        "ProjectName": "PHEBE'S-Renewal", 
         "X_Coord": 986665, 
         "CD": "M03", 
         "Phase": "Filed to Certified/Referred", 
@@ -9494,6 +9993,7 @@
       "properties": {
         "Y_Coord": 244739, 
         "ProjectID": "P2017M0445", 
+        "ProjectName": "WA-HI DINER- RENEWAL", 
         "X_Coord": 1000229, 
         "CD": "M12", 
         "Phase": "Filed to Certified/Referred", 
@@ -9513,6 +10013,7 @@
       "properties": {
         "Y_Coord": 230066, 
         "ProjectID": "P2017M0447", 
+        "ProjectName": "MEXICAN FESTIVAL-RENEWAL", 
         "X_Coord": 992909, 
         "CD": "M07", 
         "Phase": "Filed to Certified/Referred", 
@@ -9532,6 +10033,7 @@
       "properties": {
         "Y_Coord": 207408, 
         "ProjectID": "P2017M0449", 
+        "ProjectName": "BABY BRASA- Change of Ownership", 
         "X_Coord": 983913, 
         "CD": "M02", 
         "Phase": "Filed to Certified/Referred", 
@@ -9551,6 +10053,7 @@
       "properties": {
         "Y_Coord": 207826, 
         "ProjectID": "P2017M0453", 
+        "ProjectName": "AINSWORTH PARK - RENEWAL", 
         "X_Coord": 987603, 
         "CD": "M05", 
         "Phase": "Filed to Certified/Referred", 
@@ -9570,6 +10073,7 @@
       "properties": {
         "Y_Coord": 232704, 
         "ProjectID": "P2017M0454", 
+        "ProjectName": "STROKOS - RENEWAL", 
         "X_Coord": 994631, 
         "CD": "M09", 
         "Phase": "Filed to Certified/Referred", 
@@ -9589,6 +10093,7 @@
       "properties": {
         "Y_Coord": 206805, 
         "ProjectID": "P2017M0455", 
+        "ProjectName": "BAYARD'S ALEHOUSE - RENEWAL", 
         "X_Coord": 982456, 
         "CD": "M02", 
         "Phase": "Filed to Certified/Referred", 
@@ -9608,6 +10113,7 @@
       "properties": {
         "Y_Coord": 222699, 
         "ProjectID": "P2017M0456", 
+        "ProjectName": "HIGHLANDS CAFI - RENEWAL", 
         "X_Coord": 996911, 
         "CD": "M08", 
         "Phase": "Filed to Certified/Referred", 
@@ -9627,6 +10133,7 @@
       "properties": {
         "Y_Coord": 220136, 
         "ProjectID": "P2017M0457", 
+        "ProjectName": "OLYMPIC FLAME DINER - RENEWAL", 
         "X_Coord": 987630, 
         "CD": "M07", 
         "Phase": "Filed to Certified/Referred", 
@@ -9646,6 +10153,7 @@
       "properties": {
         "Y_Coord": 220613, 
         "ProjectID": "P2017M0461", 
+        "ProjectName": "EATS - RENEWAL", 
         "X_Coord": 995149, 
         "CD": "M08", 
         "Phase": "Filed to Certified/Referred", 
@@ -9665,6 +10173,7 @@
       "properties": {
         "Y_Coord": 217675, 
         "ProjectID": "P2017M0464", 
+        "ProjectName": "SILVER STAR RESTAURANT - RENEWAL", 
         "X_Coord": 994930, 
         "CD": "M08", 
         "Phase": "Filed to Certified/Referred", 
@@ -9684,6 +10193,7 @@
       "properties": {
         "Y_Coord": 223782, 
         "ProjectID": "P2017M0465", 
+        "ProjectName": "CAFI FRIDA - RENEWAL", 
         "X_Coord": 990756, 
         "CD": "M07", 
         "Phase": "Filed to Certified/Referred", 
@@ -9703,6 +10213,7 @@
       "properties": {
         "Y_Coord": 206892, 
         "ProjectID": "P2017M0468", 
+        "ProjectName": "GALWAY HOOKER BAR - RENEWAL", 
         "X_Coord": 983694, 
         "CD": "M02", 
         "Phase": "Filed to Certified/Referred", 
@@ -9722,6 +10233,7 @@
       "properties": {
         "Y_Coord": 211714, 
         "ProjectID": "P2017Q0288", 
+        "ProjectName": "Chair's Cert for Block 1 Subway Stair Relocation", 
         "X_Coord": 999713, 
         "CD": "Q02", 
         "Phase": "Post Certified/Referred", 
@@ -9741,6 +10253,7 @@
       "properties": {
         "Y_Coord": 211719, 
         "ProjectID": "P2017Q0288", 
+        "ProjectName": "Chair's Cert for Block 1 Subway Stair Relocation", 
         "X_Coord": 999695, 
         "CD": "Q02", 
         "Phase": "Post Certified/Referred", 
@@ -9760,6 +10273,7 @@
       "properties": {
         "Y_Coord": 211723, 
         "ProjectID": "P2017Q0288", 
+        "ProjectName": "Chair's Cert for Block 1 Subway Stair Relocation", 
         "X_Coord": 999677, 
         "CD": "Q02", 
         "Phase": "Post Certified/Referred", 
@@ -9779,6 +10293,7 @@
       "properties": {
         "Y_Coord": 211728, 
         "ProjectID": "P2017Q0288", 
+        "ProjectName": "Chair's Cert for Block 1 Subway Stair Relocation", 
         "X_Coord": 999659, 
         "CD": "Q02", 
         "Phase": "Post Certified/Referred", 
@@ -9798,6 +10313,7 @@
       "properties": {
         "Y_Coord": 211733, 
         "ProjectID": "P2017Q0288", 
+        "ProjectName": "Chair's Cert for Block 1 Subway Stair Relocation", 
         "X_Coord": 999637, 
         "CD": "Q02", 
         "Phase": "Post Certified/Referred", 
@@ -9817,6 +10333,7 @@
       "properties": {
         "Y_Coord": 211716, 
         "ProjectID": "P2017Q0288", 
+        "ProjectName": "Chair's Cert for Block 1 Subway Stair Relocation", 
         "X_Coord": 999569, 
         "CD": "Q02", 
         "Phase": "Post Certified/Referred", 
@@ -9836,6 +10353,7 @@
       "properties": {
         "Y_Coord": 211767, 
         "ProjectID": "P2017Q0288", 
+        "ProjectName": "Chair's Cert for Block 1 Subway Stair Relocation", 
         "X_Coord": 999583, 
         "CD": "Q02", 
         "Phase": "Post Certified/Referred", 
@@ -9855,6 +10373,7 @@
       "properties": {
         "Y_Coord": 211847, 
         "ProjectID": "P2017Q0288", 
+        "ProjectName": "Chair's Cert for Block 1 Subway Stair Relocation", 
         "X_Coord": 999605, 
         "CD": "Q02", 
         "Phase": "Post Certified/Referred", 
@@ -9874,6 +10393,7 @@
       "properties": {
         "Y_Coord": 211823, 
         "ProjectID": "P2017Q0288", 
+        "ProjectName": "Chair's Cert for Block 1 Subway Stair Relocation", 
         "X_Coord": 999700, 
         "CD": "Q02", 
         "Phase": "Post Certified/Referred", 
@@ -9893,6 +10413,7 @@
       "properties": {
         "Y_Coord": 211744, 
         "ProjectID": "P2017Q0288", 
+        "ProjectName": "Chair's Cert for Block 1 Subway Stair Relocation", 
         "X_Coord": 999842, 
         "CD": "Q02", 
         "Phase": "Post Certified/Referred", 
@@ -9912,6 +10433,7 @@
       "properties": {
         "Y_Coord": 223821, 
         "ProjectID": "P2017Q0347", 
+        "ProjectName": "AGNANTI (New, 3 years after construction)", 
         "X_Coord": 1006983, 
         "CD": "Q01", 
         "Phase": "Filed to Certified/Referred", 
@@ -9931,6 +10453,7 @@
       "properties": {
         "Y_Coord": 205446, 
         "ProjectID": "P2017Q0391", 
+        "ProjectName": "L'BELLA PIZZERIA -RENEWAL", 
         "X_Coord": 1033008, 
         "CD": "Q08", 
         "Phase": "Filed to Certified/Referred", 
@@ -9950,6 +10473,7 @@
       "properties": {
         "Y_Coord": 213574, 
         "ProjectID": "P2017Q0448", 
+        "ProjectName": "TEQUILA SUNRISE-RENEWAL", 
         "X_Coord": 1005393, 
         "CD": "Q01", 
         "Phase": "Filed to Certified/Referred", 
@@ -9969,6 +10493,7 @@
       "properties": {
         "Y_Coord": 209758, 
         "ProjectID": "P2017Q0450", 
+        "ProjectName": "ASADERO LA FOGATA - RENEWAL", 
         "X_Coord": 1024648, 
         "CD": "Q04", 
         "Phase": "Filed to Certified/Referred", 
@@ -9988,6 +10513,7 @@
       "properties": {
         "Y_Coord": 215844, 
         "ProjectID": "P2017Q0451", 
+        "ProjectName": "LITE BITES CAFI & GRILL - RENEWAL", 
         "X_Coord": 1006785, 
         "CD": "Q01", 
         "Phase": "Filed to Certified/Referred", 
@@ -10007,6 +10533,7 @@
       "properties": {
         "Y_Coord": 217281, 
         "ProjectID": "P2017Q0463", 
+        "ProjectName": "SAC'S PLACE - RENEWAL", 
         "X_Coord": 1004454, 
         "CD": "Q01", 
         "Phase": "Filed to Certified/Referred", 
@@ -10026,6 +10553,7 @@
       "properties": {
         "Y_Coord": 221192, 
         "ProjectID": "P2017Q0467", 
+        "ProjectName": "ALBA'S PIZZA & RESTAURANT - RENEWAL", 
         "X_Coord": 1009784, 
         "CD": "Q01", 
         "Phase": "Filed to Certified/Referred", 
@@ -10045,6 +10573,7 @@
       "properties": {
         "Y_Coord": 210924, 
         "ProjectID": "P2017Q0469", 
+        "ProjectName": "BAGEL PLUS - RENEWAL", 
         "X_Coord": 1010044, 
         "CD": "Q02", 
         "Phase": "Filed to Certified/Referred", 
@@ -10064,6 +10593,7 @@
       "properties": {
         "Y_Coord": 168690, 
         "ProjectID": "P2017R0034", 
+        "ProjectName": "95 Louis Street", 
         "X_Coord": 960562, 
         "CD": "R01", 
         "Phase": "Filed to Certified/Referred", 
@@ -10083,6 +10613,7 @@
       "properties": {
         "Y_Coord": 159420, 
         "ProjectID": "P2017R0070", 
+        "ProjectName": "Teleport Site A", 
         "X_Coord": 934125, 
         "CD": "R02", 
         "Phase": "Post Certified/Referred", 
@@ -10102,6 +10633,7 @@
       "properties": {
         "Y_Coord": 171949, 
         "ProjectID": "P2017R0080", 
+        "ProjectName": "29 Scribner Avenue - Restoration", 
         "X_Coord": 961241, 
         "CD": "R01", 
         "Phase": "Filed to Certified/Referred", 
@@ -10121,6 +10653,7 @@
       "properties": {
         "Y_Coord": 136346, 
         "ProjectID": "P2017R0107", 
+        "ProjectName": "SS Russell Street", 
         "X_Coord": 943084, 
         "CD": "R03", 
         "Phase": "Post Certified/Referred", 
@@ -10140,6 +10673,7 @@
       "properties": {
         "Y_Coord": 154344, 
         "ProjectID": "P2017R0247", 
+        "ProjectName": "46 East Loop Road 2017", 
         "X_Coord": 955720, 
         "CD": "R02", 
         "Phase": "Filed to Certified/Referred", 
@@ -10159,6 +10693,7 @@
       "properties": {
         "Y_Coord": 124358, 
         "ProjectID": "P2017R0313", 
+        "ProjectName": "SD 146 Sprague Avenue (street issue)", 
         "X_Coord": 917676, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10178,6 +10713,7 @@
       "properties": {
         "Y_Coord": 151980, 
         "ProjectID": "P2017R0362", 
+        "ProjectName": "172 Nevada Avenue", 
         "X_Coord": 949219, 
         "CD": "R02", 
         "Phase": "Filed to Certified/Referred", 
@@ -10197,6 +10733,7 @@
       "properties": {
         "Y_Coord": 124312, 
         "ProjectID": "P2017R0395", 
+        "ProjectName": "SS SD 116 & 122 Brighton Street", 
         "X_Coord": 916168, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10216,6 +10753,7 @@
       "properties": {
         "Y_Coord": 124268, 
         "ProjectID": "P2017R0395", 
+        "ProjectName": "SS SD 116 & 122 Brighton Street", 
         "X_Coord": 916179, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10235,6 +10773,7 @@
       "properties": {
         "Y_Coord": 145887, 
         "ProjectID": "P2017R0396", 
+        "ProjectName": "SS SD 500 King Street", 
         "X_Coord": 947549, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10254,6 +10793,7 @@
       "properties": {
         "Y_Coord": 133134, 
         "ProjectID": "P2017R0396", 
+        "ProjectName": "SS SD 500 King Street", 
         "X_Coord": 940099, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10273,6 +10813,7 @@
       "properties": {
         "Y_Coord": 124553, 
         "ProjectID": "P2017R0397", 
+        "ProjectName": "SS SD 6600 Hylan Boulevard", 
         "X_Coord": 922107, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10292,6 +10833,7 @@
       "properties": {
         "Y_Coord": 137566, 
         "ProjectID": "P2017R0398", 
+        "ProjectName": "SS SD Detroit Avenue", 
         "X_Coord": 934363, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10311,6 +10853,7 @@
       "properties": {
         "Y_Coord": 144130, 
         "ProjectID": "P2017R0399", 
+        "ProjectName": "SS SD Billings Street", 
         "X_Coord": 933688, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10330,6 +10873,7 @@
       "properties": {
         "Y_Coord": 144122, 
         "ProjectID": "P2017R0399", 
+        "ProjectName": "SS SD Billings Street", 
         "X_Coord": 933636, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10349,6 +10893,7 @@
       "properties": {
         "Y_Coord": 136844, 
         "ProjectID": "P2017R0458", 
+        "ProjectName": "SD 28, 30, 32, 34 Bamberger Lane", 
         "X_Coord": 937871, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10368,6 +10913,7 @@
       "properties": {
         "Y_Coord": 243495, 
         "ProjectID": "P2017X0147", 
+        "ProjectName": "TLC SPACE ACQUISITION", 
         "X_Coord": 1028079, 
         "CD": "X12", 
         "Phase": "Post Certified/Referred", 
@@ -10387,6 +10933,7 @@
       "properties": {
         "Y_Coord": 244093, 
         "ProjectID": "P2017X0147", 
+        "ProjectName": "TLC SPACE ACQUISITION", 
         "X_Coord": 1028099, 
         "CD": "X12", 
         "Phase": "Post Certified/Referred", 
@@ -10406,6 +10953,7 @@
       "properties": {
         "Y_Coord": 268866, 
         "ProjectID": "P2017X0257", 
+        "ProjectName": "660 West 261st Street Pool - SNAD", 
         "X_Coord": 1009188, 
         "CD": "X08", 
         "Phase": "Post Certified/Referred", 
@@ -10425,6 +10973,7 @@
       "properties": {
         "Y_Coord": 271126, 
         "ProjectID": "P2017X0257", 
+        "ProjectName": "660 West 261st Street Pool - SNAD", 
         "X_Coord": 1010212, 
         "CD": "X08", 
         "Phase": "Post Certified/Referred", 
@@ -10444,6 +10993,7 @@
       "properties": {
         "Y_Coord": 265728, 
         "ProjectID": "P2017X0411", 
+        "ProjectName": "4725 Independence Ave - Stein Residence -SNAD Cert", 
         "X_Coord": 1008544, 
         "CD": "X08", 
         "Phase": "Filed to Certified/Referred", 
@@ -10463,6 +11013,7 @@
       "properties": {
         "Y_Coord": 247861, 
         "ProjectID": "P2017X0459", 
+        "ProjectName": "GEORGE'S RESTAURANT - RENEWAL", 
         "X_Coord": 1030758, 
         "CD": "X10", 
         "Phase": "Filed to Certified/Referred", 
@@ -10482,6 +11033,7 @@
       "properties": {
         "Y_Coord": 237787, 
         "ProjectID": "P2017X0466", 
+        "ProjectName": "TOSCA CAFI - RENEWAL", 
         "X_Coord": 1034702, 
         "CD": "X10", 
         "Phase": "Filed to Certified/Referred", 
@@ -10501,6 +11053,7 @@
       "properties": {
         "Y_Coord": 219007, 
         "ProjectID": "P2018M0008", 
+        "ProjectName": "KO SUSHI - NEW Ownership", 
         "X_Coord": 995484, 
         "CD": "M08", 
         "Phase": "Filed to Certified/Referred", 
@@ -10520,6 +11073,7 @@
       "properties": {
         "Y_Coord": 210193, 
         "ProjectID": "P2018M0009", 
+        "ProjectName": "MOONSTRUCK - RENEWAL", 
         "X_Coord": 989993, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -10539,6 +11093,7 @@
       "properties": {
         "Y_Coord": 208808, 
         "ProjectID": "P2018M0016", 
+        "ProjectName": "MEXICO LINDO - RENEWAL", 
         "X_Coord": 989837, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -10558,6 +11113,7 @@
       "properties": {
         "Y_Coord": 207862, 
         "ProjectID": "P2018M0017", 
+        "ProjectName": "MIMI's Restaurant - RENEWAL", 
         "X_Coord": 989575, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -10577,6 +11133,7 @@
       "properties": {
         "Y_Coord": 214749, 
         "ProjectID": "P2018M0017", 
+        "ProjectName": "MIMI's Restaurant - RENEWAL", 
         "X_Coord": 993316, 
         "CD": "M06", 
         "Phase": "Filed to Certified/Referred", 
@@ -10596,6 +11153,7 @@
       "properties": {
         "Y_Coord": 206272, 
         "ProjectID": "P2018M0018", 
+        "ProjectName": "TEQUERIA MEZ-A - RENEWAL", 
         "X_Coord": 983418, 
         "CD": "M02", 
         "Phase": "Filed to Certified/Referred", 
@@ -10615,6 +11173,7 @@
       "properties": {
         "Y_Coord": 138617, 
         "ProjectID": "P2018R0003", 
+        "ProjectName": "SD 131 Rathbun Avenue", 
         "X_Coord": 933498, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10634,6 +11193,7 @@
       "properties": {
         "Y_Coord": 136018, 
         "ProjectID": "P2018R0004", 
+        "ProjectName": "SS 133 North Railroad Street", 
         "X_Coord": 933230, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10653,6 +11213,7 @@
       "properties": {
         "Y_Coord": 122687, 
         "ProjectID": "P2018R0005", 
+        "ProjectName": "SS 96 Ottavio Promenade", 
         "X_Coord": 920592, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10672,6 +11233,7 @@
       "properties": {
         "Y_Coord": 122631, 
         "ProjectID": "P2018R0006", 
+        "ProjectName": "SS 43 Ottavio Promenade", 
         "X_Coord": 920110, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10691,6 +11253,7 @@
       "properties": {
         "Y_Coord": 130607, 
         "ProjectID": "P2018R0012", 
+        "ProjectName": "SS 5, 11, 17, 23 Herbert Street", 
         "X_Coord": 928601, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10710,6 +11273,7 @@
       "properties": {
         "Y_Coord": 130679, 
         "ProjectID": "P2018R0012", 
+        "ProjectName": "SS 5, 11, 17, 23 Herbert Street", 
         "X_Coord": 928793, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10729,6 +11293,7 @@
       "properties": {
         "Y_Coord": 130739, 
         "ProjectID": "P2018R0012", 
+        "ProjectName": "SS 5, 11, 17, 23 Herbert Street", 
         "X_Coord": 928803, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10748,6 +11313,7 @@
       "properties": {
         "Y_Coord": 130688, 
         "ProjectID": "P2018R0012", 
+        "ProjectName": "SS 5, 11, 17, 23 Herbert Street", 
         "X_Coord": 928702, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10767,6 +11333,7 @@
       "properties": {
         "Y_Coord": 130449, 
         "ProjectID": "P2018R0013", 
+        "ProjectName": "SS 6233 Amboy Road", 
         "X_Coord": 924748, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10786,6 +11353,7 @@
       "properties": {
         "Y_Coord": 134742, 
         "ProjectID": "P2018R0014", 
+        "ProjectName": "SS 1452 Drumgoole Road West", 
         "X_Coord": 930726, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10805,6 +11373,7 @@
       "properties": {
         "Y_Coord": 130455, 
         "ProjectID": "P2018R0019", 
+        "ProjectName": "SS Torrice Loop & Richmond Valley Road renewal", 
         "X_Coord": 919248, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10824,6 +11393,7 @@
       "properties": {
         "Y_Coord": 137063, 
         "ProjectID": "P2018R0021", 
+        "ProjectName": "SS 72 & 74 Harris Lane", 
         "X_Coord": 922885, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10843,6 +11413,7 @@
       "properties": {
         "Y_Coord": 139124, 
         "ProjectID": "P2018R0044", 
+        "ProjectName": "SD 57 Canton Avenue", 
         "X_Coord": 931299, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10862,6 +11433,7 @@
       "properties": {
         "Y_Coord": 130607, 
         "ProjectID": "P2018R0045", 
+        "ProjectName": "SS 61 Seguine Avenue", 
         "X_Coord": 928601, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
@@ -10881,6 +11453,7 @@
       "properties": {
         "Y_Coord": 137424, 
         "ProjectID": "P2018R0054", 
+        "ProjectName": "SD 41 & 43 Ramblewood Avenue", 
         "X_Coord": 941749, 
         "CD": "R03", 
         "Phase": "Filed to Certified/Referred", 
